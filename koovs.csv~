@@ -1,0 +1,883 @@
+name,url,price,img,brand,code
+Pepe Jeans,http://www.koovs.com/pepe-jeans-t-shirt_321-83802.html,780,http://images.koovscdn.com/uploads/products/83802_eab981aa3e8b42839448d3f4f86b2254_image1_zoom.jpg,Pepe Jeans,83802
+Pepe Jeans,http://www.koovs.com/pepe-jeans-t-shirt_134-83805.html,874,http://images.koovscdn.com/uploads/products/83805_7bb60ad5cd20f88e684fc93d0979fa06_image1_zoom.jpg,Pepe Jeans,83805
+Adamo London,http://www.koovs.com/slogan-racerback-tank-85616.html,489,http://images.koovscdn.com/uploads/products/85616_e7473b58da68af630639a65915ca8f02_image1_zoom.jpg,Adamo London,85616
+Marcello & Ferri,http://www.koovs.com/marcello--ferri-wood-red-smart-shoes-84940.html,2000,http://images.koovscdn.com/uploads/products/84940_05b82b41432a1ac0830afd6cfce11b30_image1_zoom.jpg,Marcello & Ferri,84940
+Marcello & Ferri,http://www.koovs.com/marcello--ferri-white-mid-top-trainers_399-84511.html,1189,http://images.koovscdn.com/uploads/products/84511_e0c2e4d34b0b431193f27c395b17888c_image1_zoom.jpg,Marcello & Ferri,84511
+Wanderlust,http://www.koovs.com/wanderlust-statement-chakra-ear-jacket-87513.html,799,http://images.koovscdn.com/uploads/products/87513_7ac093e01c9313ce8309ec773007ce73_image1_zoom.jpg,Wanderlust,87513
+Marcello & Ferri,http://www.koovs.com/marcello--ferri-lace-up-loafers-with-fringes-90944.html,2499,http://images.koovscdn.com/uploads/products/90944_eec8b968a0334134962226d46c455143_image1_zoom.jpg,Marcello & Ferri,90944
+Knotty Derby,http://www.koovs.com/faux-suede-plimsolls-with-camo-sole-82759.html,1990,http://images.koovscdn.com/uploads/products/82759_79f6fd4321a30de1ed4aaa7dcbb7d25b_image1_zoom.jpg,Knotty Derby,82759
+Wanderlust,http://www.koovs.com/wanderlust-crystal-head-chain-87514.html,699,http://images.koovscdn.com/uploads/products/87514_0006a05d59f8772eeb56d5981d54c969_image1_zoom.jpg,Wanderlust,87514
+Kultprit,http://www.koovs.com/kultprit-front-open-hooded-cardigan_96-87132.html,1199,http://images.koovscdn.com/uploads/products/87132_0b65f6d97cfa860acdeb94a49fa9de63_image1_zoom.jpg,Kultprit,87132
+Wanderlust,http://www.koovs.com/wanderlust-minimalistic-crystal-choker-87518.html,1099,http://images.koovscdn.com/uploads/products/87518_7ffb9407523d326e28a6ba15e25fd5c0_image1_zoom.jpg,Wanderlust,87518
+Kultprit,http://www.koovs.com/square-neck-t-shirt-92567.html,799,http://images.koovscdn.com/uploads/products/92567_3deb31547f09ab8e25b35e2b510cc2a3_image1_zoom.jpg,Kultprit,92567
+Marcello & Ferri,http://www.koovs.com/marcello--ferri-white-burgandy-casual-shoes-84946.html,2000,http://images.koovscdn.com/uploads/products/84946_97a6d0368fee490792b7bc2faeb8d0be_image1_zoom.jpg,Marcello & Ferri,84946
+Kultprit,http://www.koovs.com/side-zip-joggers_308-87005.html,1360,http://images.koovscdn.com/uploads/products/87005_e622a977c7ae52990c079d0d7b4696b8_image1_zoom.jpg,Kultprit,87005
+VEROMODA Pleated Neck Top In Long Sleeves,http://www.koovs.com/veromoda-vmcora-resta-34-top-nfs-91989.html,1699,http://images.koovscdn.com/uploads/products/91989_122f0f0fe9f1d6c646973fc1482c1221_image1_zoom.jpg,,91989
+Velvet Army,http://www.koovs.com/velvet-army-metallic-block-heeled-sandals-87719.html,2895,http://images.koovscdn.com/uploads/products/87719_7345b2b71c3bce4fbbd6da2076e622e8_image1_zoom.jpg,Velvet Army,87719
+The Classic,http://www.koovs.com/time-to-ketchup-with-fries-tee-85315.html,1199,http://images.koovscdn.com/uploads/products/85315_ac49eda185da29afdd261d72ec33ab96_image1_zoom.jpg,The Classic,85315
+Style Fiesta,http://www.koovs.com/style-fiesta-studded-choker-85732.html,399,http://images.koovscdn.com/uploads/products/85732_a9bd2445cdc3d9f50701a9091badc6c8_image1_zoom.jpg,Style Fiesta,85732
+Truffle Collection,http://www.koovs.com/truffle-collection-holographic-pool-sliders-92338.html,1299,http://images.koovscdn.com/uploads/products/92338_dc32925ca69a582c5c583e14edce2a39_image1_zoom.jpg,Truffle Collection,92338
+Truffle Collection,http://www.koovs.com/truffle-collection-studded-flat-sandals-with-big-buckle-92326.html,2699,http://images.koovscdn.com/uploads/products/92326_535b6316344ade6cdcbf445e4c1702e3_image1_zoom.jpg,Truffle Collection,92326
+Truffle Collection,http://www.koovs.com/truffle-collection-studded-flat-sandals-with-big-buckle-92326.html,2699,http://images.koovscdn.com/uploads/products/92326_4e5f52a3df1807c2d6d2c6698926e6d3_image1_zoom.jpg,Truffle Collection,92326
+Truffle Collection,http://www.koovs.com/truffle-collection-holographic-pool-sliders-92338.html,1299,http://images.koovscdn.com/uploads/products/92338_d5838b6cbf7ec9c9ac995e77e24d0416_image1_zoom.jpg,Truffle Collection,92338
+Style Fiesta,http://www.koovs.com/style-fiesta-pin-box-85911.html,399,http://images.koovscdn.com/uploads/products/85911_d8b4469ca78a5f7e2b5685c69d986837_image1_zoom.jpg,Style Fiesta,85911
+Style Fiesta,http://www.koovs.com/style-fiesta-pin-up-corsage_374-83281.html,279,http://images.koovscdn.com/uploads/products/83281_9584ab5e3b8570f628c2bdb2a27531e7_image1_zoom.jpg,Style Fiesta,83281
+Style Fiesta,http://www.koovs.com/style-fiesta-choker_497-85908.html,399,http://images.koovscdn.com/uploads/products/85908_cac31979c9572a2a92148c7ea2ee038b_image1_zoom.jpg,Style Fiesta,85908
+Style Fiesta,http://www.koovs.com/style-fiesta-bolo-tie-choker-90071.html,399,http://images.koovscdn.com/uploads/products/90071_bdc770370fe7c53999bbc88148b07952_image1_zoom.jpg,Style Fiesta,90071
+Style Fiesta,http://www.koovs.com/style-fiesta-choker-85730.html,499,http://images.koovscdn.com/uploads/products/85730_87c47b7002d6f29891e2b365a0c32403_image1_zoom.jpg,Style Fiesta,85730
+Style Fiesta,http://www.koovs.com/style-fiesta-google-it-iphone-case-83276.html,199,http://images.koovscdn.com/uploads/products/83276_424c4510261daca3979cea59f713d98d_image1_zoom.jpg,Style Fiesta,83276
+Style Fiesta,http://www.koovs.com/style-fiesta-browbar-sunglass-90073.html,599,http://images.koovscdn.com/uploads/products/90073_afef19769efebe693332251fe504ef7e_image1_zoom.jpg,Style Fiesta,90073
+Spring Break,http://www.koovs.com/spring-break-maroon-and-white-striped-off-shoulder-shirt-dress-83758.html,1090,http://images.koovscdn.com/uploads/products/83758_3d1a1fd7b30277f7ce88d3ee70d954bd_image1_zoom.jpg,Spring Break,83758
+Spring Break,http://www.koovs.com/spring-break-sequins-sleeve-black-tshirt-dress-85329.html,1190,http://images.koovscdn.com/uploads/products/85329_2dfc32ad2eb40b93f64df1075d6442d7_image1_zoom.jpg,Spring Break,85329
+Spring Break,http://www.koovs.com/spring-break--striped-blue-and-white-frill--tie-up-top-88660.html,990,http://images.koovscdn.com/uploads/products/88660_c7008badf46fe9fc26f46f31e7ef9b17_image1_zoom.jpg,Spring Break,88660
+Spring Break,http://www.koovs.com/spring-break-good-vibes-only-cropped-bomber-87533.html,1195,http://images.koovscdn.com/uploads/products/87533_1666f265292df7b1feff4653f79e4385_image1_zoom.jpg,Spring Break,87533
+Spring Break,http://www.koovs.com/spring-break-west-coast-longline-mesh-top-85564.html,1190,http://images.koovscdn.com/uploads/products/85564_4d016a830d1f3c4ff42e58985c23277b_image1_zoom.jpg,Spring Break,85564
+Spring Break,http://www.koovs.com/spring-break-never-look-back-slogan-mesh-top-85565.html,694,http://images.koovscdn.com/uploads/products/85565_8de94daa3a2aa9567ba4ae333af0f687_image1_zoom.jpg,Spring Break,85565
+Spring Break,http://www.koovs.com/spring-break-good-vibes-only-denim-shirt-87532.html,1090,http://images.koovscdn.com/uploads/products/87532_0fa1763461cc058072088fd816fcb50b_image1_zoom.jpg,Spring Break,87532
+Spring Break,http://www.koovs.com/spring-break-frill-tie-up-dress-87539.html,1190,http://images.koovscdn.com/uploads/products/87539_e363e3c609ee18767d1e284cb02f78f0_image1_zoom.jpg,Spring Break,87539
+Spring Break,http://www.koovs.com/spring-break-stripe-off-shoulder-shirt-dress-85334.html,904,http://images.koovscdn.com/uploads/products/85334_963b7a042e742caa4df7987a9ca6f3ff_image1_zoom.jpg,Spring Break,85334
+Spring Break,http://www.koovs.com/spring-break-foil-print-t-shirt-dress-81341.html,990,http://images.koovscdn.com/uploads/products/81341_4942fad68ba20a738c04958617f65ae4_image1_zoom.jpg,Spring Break,81341
+Spring Break,http://www.koovs.com/spring-break-frill-tie-up-dress_477-87540.html,1190,http://images.koovscdn.com/uploads/products/87540_f3a7a3126e32fb88351653972ece1ebc_image1_zoom.jpg,Spring Break,87540
+Spring Break,http://www.koovs.com/spring-break-aeroplane--cloud-aop-hoodie-85336.html,1120,http://images.koovscdn.com/uploads/products/85336_bca79043782c5f8430c592c8516975d1_image1_zoom.jpg,Spring Break,85336
+Spring Break,http://www.koovs.com/spring-break-pink-raglan-t-shirt-81021.html,600,http://images.koovscdn.com/uploads/products/81021_a3e03d3b355b85a269427770de456e1a_image1_zoom.jpg,Spring Break,81021
+Spring Break,http://www.koovs.com/spring-break-camouflage-printed-joggers-81022.html,1190,http://images.koovscdn.com/uploads/products/81022_c419cd076b5a12b66064ce7f5294416c_image1_zoom.jpg,Spring Break,81022
+Spring Break,http://www.koovs.com/spring-break-triangle-aop-longline-cardigan-85332.html,1090,http://images.koovscdn.com/uploads/products/85332_c352211afa51e7fac049f6a1bb7f1231_image1_zoom.jpg,Spring Break,85332
+Spring Break,http://www.koovs.com/spring-break-denim-joggers-with-print-on-side-85561.html,1390,http://images.koovscdn.com/uploads/products/85561_0a5fc880fa794648993ab1bd355dd3eb_image1_zoom.jpg,Spring Break,85561
+Spring Break,http://www.koovs.com/spring-break-mood-slogan-patchwork-tee-83829.html,900,http://images.koovscdn.com/uploads/products/83829_00bca44248d0b1ed99e335ad1ae393bb_image1_zoom.jpg,Spring Break,83829
+Spring Break,http://www.koovs.com/spring-break-blue--white-striped-pants-83761.html,1190,http://images.koovscdn.com/uploads/products/83761_08f53e742b0530b70ba9bd9f922b1073_image1_zoom.jpg,Spring Break,83761
+Spring Break,http://www.koovs.com/spring-break-seqiuins-gold--white-tshirt-dress-85328.html,1590,http://images.koovscdn.com/uploads/products/85328_e64bd8da3ae9b0f4c781adb9787326ec_image1_zoom.jpg,Spring Break,85328
+Spring Break,http://www.koovs.com/spring-break-maroon-off-shoulder-dress-85333.html,895,http://images.koovscdn.com/uploads/products/85333_5b65701e2ffffff1f10b7c03274377a3_image1_zoom.jpg,Spring Break,85333
+Spring Break,http://www.koovs.com/spring-break-sequinned-jacket_308-87541.html,1945,http://images.koovscdn.com/uploads/products/87541_1d6e35542d9ffc62930b5b617192c3af_image1_zoom.jpg,Spring Break,87541
+Spring Break,http://www.koovs.com/spring-break--camo-bomber-85330.html,1490,http://images.koovscdn.com/uploads/products/85330_ce54b18af7739b77d7e6cc05e5f87c90_image1_zoom.jpg,Spring Break,85330
+Spring Break,http://www.koovs.com/spring-break-velour-playsuit-with-choker-tie-back-87543.html,895,http://images.koovscdn.com/uploads/products/87543_1c9d20e84c8989401ff8d1181603b3ce_image1_zoom.jpg,Spring Break,87543
+Spring Break,http://www.koovs.com/spring-break-stripe-playsut-87536.html,1190,http://images.koovscdn.com/uploads/products/87536_196c9548c171e4fd55c8da934cf9507b_image1_zoom.jpg,Spring Break,87536
+Spring Break,http://www.koovs.com/spring-break-armour-t-shirt-83755.html,524,http://images.koovscdn.com/uploads/products/83755_0ffc71c3b689da539d15c1fb74252d78_image1_zoom.jpg,Spring Break,83755
+Spring Break,http://www.koovs.com/spring-break-band-of-weirdos-denim-shirt-dress-87527.html,904,http://images.koovscdn.com/uploads/products/87527_38ef2c2c78a973230adfd50952727f04_image1_zoom.jpg,Spring Break,87527
+Spring Break,http://www.koovs.com/spring-break-brooklyn-slogan-print-joggers-85566.html,990,http://images.koovscdn.com/uploads/products/85566_c7c86c2510aa7ed481c830f37001c83d_image1_zoom.jpg,Spring Break,85566
+Spring Break,http://www.koovs.com/spring-break-striped-peach-white-off-shoulder-top-87537.html,990,http://images.koovscdn.com/uploads/products/87537_a39ff9efb25d82a8ce629a55d5b69c2e_image1_zoom.jpg,Spring Break,87537
+Spring Break,http://www.koovs.com/spring-break-vintage-patch-jogger-with-knee-rip-and-distress-85563.html,1290,http://images.koovscdn.com/uploads/products/85563_3f1c70dc2e0f351016570809ed6abf32_image1_zoom.jpg,Spring Break,85563
+Spring Break,http://www.koovs.com/spring-break-hand-print-t-shirt-92248.html,700,http://images.koovscdn.com/uploads/products/92248_67a95aaff6c9c62a43ea8694cc7c0cd0_image1_zoom.jpg,Spring Break,92248
+Spring Break,http://www.koovs.com/spring-break-cocktail-glass-print-side-slit-dress-88812.html,990,http://images.koovscdn.com/uploads/products/88812_b7e0df22afccc8aa7aff8d1e688ac762_image1_zoom.jpg,Spring Break,88812
+Spring Break,http://www.koovs.com/spring-break-back-knot-detail-top-in-cocktail-print-88806.html,495,http://images.koovscdn.com/uploads/products/88806_900e8e5386e622f783f114f6c04b57c2_image1_zoom.jpg,Spring Break,88806
+Spring Break,http://www.koovs.com/spring-break-off-shoulder-midi-dress-in-sun-print-88808.html,990,http://images.koovscdn.com/uploads/products/88808_1fefa44b8ae56420af82f5a5600df3d4_image1_zoom.jpg,Spring Break,88808
+Spring Break,http://www.koovs.com/spring-break-watermelon-print-strap-top-88807.html,495,http://images.koovscdn.com/uploads/products/88807_c2ad604528c02b4fe8ac27c49c9a9768_image1_zoom.jpg,Spring Break,88807
+Spring Break,http://www.koovs.com/spring-break-one-shoulder-knot-detail-top-88804.html,800,http://images.koovscdn.com/uploads/products/88804_03531d97988d9b01e1fd0f4dbaaa6ee0_image1_zoom.jpg,Spring Break,88804
+Spring Break,http://www.koovs.com/spring-break-cocktail-glass-print--frill-detail-top-88801.html,800,http://images.koovscdn.com/uploads/products/88801_92c5f8da4b0dba136f34a2c3ddfa207e_image1_zoom.jpg,Spring Break,88801
+Spring Break,http://www.koovs.com/spring-break-sequins-bomber-85331.html,1945,http://images.koovscdn.com/uploads/products/85331_a366f9e46fc97cd16eb2324c6d85592b_image1_zoom.jpg,Spring Break,85331
+Spring Break,http://www.koovs.com/spring-break-oversized-sleeves-top-88803.html,800,http://images.koovscdn.com/uploads/products/88803_8faa5470003b8c33d803ea3f85ec59c3_image1_zoom.jpg,Spring Break,88803
+Style Fiesta,http://www.koovs.com/style-fiesta-earring-e855-85907.html,499,http://images.koovscdn.com/uploads/products/85907_e5552cd988ddcc44a640e1e64daec7e9_image1_zoom.jpg,Style Fiesta,85907
+Style Fiesta,http://www.koovs.com/style-fiesta-antique-boho-choker-jn705-92353.html,499,http://images.koovscdn.com/uploads/products/92353_aa12f886d680f1466b745c86d2099a59_image1_zoom.jpg,Style Fiesta,92353
+Style Fiesta,http://www.koovs.com/style-fiesta-crystal-choker-87933.html,449,http://images.koovscdn.com/uploads/products/87933_763e6fbb74528b39caac2dd66eb2633a_image1_zoom.jpg,Style Fiesta,87933
+Spring Break,http://www.koovs.com/spring-break-knot-detail-top-in-lemon-print-88805.html,495,http://images.koovscdn.com/uploads/products/88805_544eeb2f33c9e3b519d83637962eb708_image1_zoom.jpg,Spring Break,88805
+Spring Break,http://www.koovs.com/spring-break-lemon-print--frill-detail-top-88802.html,800,http://images.koovscdn.com/uploads/products/88802_cca6b3c6109a21bd8b640338db5ad3da_image1_zoom.jpg,Spring Break,88802
+Style Fiesta,http://www.koovs.com/style-fiesta-set-of-rings-jr298-92354.html,499,http://images.koovscdn.com/uploads/products/92354_318d46938d9b5d4a1374d54be6803153_image1_zoom.jpg,Style Fiesta,92354
+Style Fiesta,http://www.koovs.com/style-fiesta-statement-hoops-83270.html,599,http://images.koovscdn.com/uploads/products/83270_202f3c6b90a001733106722a7543e121_image1_zoom.jpg,Style Fiesta,83270
+Style Fiesta,http://www.koovs.com/style-fiesta-set-of-rings-jr299-92355.html,499,http://images.koovscdn.com/uploads/products/92355_0d747d72e88067ad4311e2d24a1576bc_image1_zoom.jpg,Style Fiesta,92355
+Style Fiesta,http://www.koovs.com/style-fiesta-antique-boho-necklace-jn703-92351.html,499,http://images.koovscdn.com/uploads/products/92351_af3f9a8a5fbcf1f345c428752bf4d0ca_image1_zoom.jpg,Style Fiesta,92351
+Style Fiesta,http://www.koovs.com/style-fiesta-baroque-choker-necklaces-jn428-82279.html,225,http://images.koovscdn.com/uploads/products/82279_735478fbea2a0201941d11ec935f4a42_image1_zoom.jpg,Style Fiesta,82279
+Style Fiesta,http://www.koovs.com/style-fiesta-floral-hoops-83269.html,499,http://images.koovscdn.com/uploads/products/83269_737b62db80906f1b16a181b863240034_image1_zoom.jpg,Style Fiesta,83269
+Style Fiesta,http://www.koovs.com/style-fiesta-browbar-sunglass_366-90074.html,599,http://images.koovscdn.com/uploads/products/90074_30f59c462bd112067d792a77f3cfaa7d_image1_zoom.jpg,Style Fiesta,90074
+Style Fiesta,http://www.koovs.com/style-fiesta-antique-choker-85733.html,499,http://images.koovscdn.com/uploads/products/85733_6e12628d92cd5958c73b706236645af4_image1_zoom.jpg,Style Fiesta,85733
+Style Fiesta,http://www.koovs.com/style-fiesta-abnormal-iphone-case-83278.html,199,http://images.koovscdn.com/uploads/products/83278_488fe1cff3434c022ee827e0a8b566ff_image1_zoom.jpg,Style Fiesta,83278
+Style Fiesta,http://www.koovs.com/style-fiesta-bolo-tie-choker_130-90072.html,399,http://images.koovscdn.com/uploads/products/90072_a3ec935082bf194a4d09416edbc19d80_image1_zoom.jpg,Style Fiesta,90072
+Style Fiesta,http://www.koovs.com/style-fiesta-earrings-e729-82280.html,349,http://images.koovscdn.com/uploads/products/82280_09e3c8f1f8d1e5bb3ccc8ecda76a1f86_image1_zoom.jpg,Style Fiesta,82280
+Style Fiesta,http://www.koovs.com/style-fiesta-soft-cat-eye-sunglasses-js298-92359.html,599,http://images.koovscdn.com/uploads/products/92359_4c07f4872ccc5500cebdca7507ebb5df_image1_zoom.jpg,Style Fiesta,92359
+Style Fiesta,http://www.koovs.com/style-fiesta-pikachu-iphone-case-83275.html,199,http://images.koovscdn.com/uploads/products/83275_13178247ff0a525f988d2cca6290bc6b_image1_zoom.jpg,Style Fiesta,83275
+Style Fiesta,http://www.koovs.com/style-fiesta-antique-boho-choker-jn704-92352.html,499,http://images.koovscdn.com/uploads/products/92352_97a40a090c9f8fad0042e89d1c2f64b7_image1_zoom.jpg,Style Fiesta,92352
+Style Fiesta,http://www.koovs.com/style-fiesta-sunglasses-js296-92357.html,599,http://images.koovscdn.com/uploads/products/92357_057ffbb61acc2edfc94c0806e801721c_image1_zoom.jpg,Style Fiesta,92357
+Style Fiesta,http://www.koovs.com/style-fiesta-vintage-sunglass-90075.html,899,http://images.koovscdn.com/uploads/products/90075_14695dbeec161d45de5192e91da192f2_image1_zoom.jpg,Style Fiesta,90075
+Style Fiesta,http://www.koovs.com/style-fiesta-choker_285-88449.html,399,http://images.koovscdn.com/uploads/products/88449_ed38cd6fe661da53a42dd5b6f1f1d197_image1_zoom.jpg,Style Fiesta,88449
+Style Fiesta,http://www.koovs.com/style-fiesta-double-wrap-belt-87935.html,599,http://images.koovscdn.com/uploads/products/87935_1be729543d51e8d9c40bb6af32173201_image1_zoom.jpg,Style Fiesta,87935
+Style Fiesta,http://www.koovs.com/style-fiesta-sequin-pussy-bow-choker-83684.html,599,http://images.koovscdn.com/uploads/products/83684_180976aaa246f96a229ad53239ff245a_image1_zoom.jpg,Style Fiesta,83684
+Style Fiesta,http://www.koovs.com/style-fiesta-pearl-hoops-83271.html,349,http://images.koovscdn.com/uploads/products/83271_6ef5ee705ec91a0b9c041558dd1b5559_image1_zoom.jpg,Style Fiesta,83271
+Style Fiesta,http://www.koovs.com/style-fiesta-statement-belt_456-91491.html,699,http://images.koovscdn.com/uploads/products/91491_5ad4d12b0461dd5efdc2c19b8c3957d8_image1_zoom.jpg,Style Fiesta,91491
+Style Fiesta,http://www.koovs.com/style-fiesta-bow-tie-belt-87938.html,699,http://images.koovscdn.com/uploads/products/87938_a6bada9182baa5e6389285289b8dd4b2_image1_zoom.jpg,Style Fiesta,87938
+Style Fiesta,http://www.koovs.com/style-fiesta-jigglypuff-iphone-case-83274.html,349,http://images.koovscdn.com/uploads/products/83274_0d6383f90de22ada5e66abce3dcef617_image1_zoom.jpg,Style Fiesta,83274
+Style Fiesta,http://www.koovs.com/style-fiesta-pin-up-corsage-83280.html,279,http://images.koovscdn.com/uploads/products/83280_e24e2c5fc9d5fe438c756cc678a9e584_image1_zoom.jpg,Style Fiesta,83280
+Style Fiesta,http://www.koovs.com/style-fiesta-set-of-4-rings_323-85731.html,299,http://images.koovscdn.com/uploads/products/85731_dd2746b70165784d17414bbac849c91f_image1_zoom.jpg,Style Fiesta,85731
+Style Fiesta,http://www.koovs.com/style-fiesta-bandana-scarf-85912.html,399,http://images.koovscdn.com/uploads/products/85912_4ff0b10d566289598a9b520131ac977a_image1_zoom.jpg,Style Fiesta,85912
+Style Fiesta,http://www.koovs.com/style-fiesta-buckle-choker-85909.html,349,http://images.koovscdn.com/uploads/products/85909_33530cdef5b532345bf00efea8088716_image1_zoom.jpg,Style Fiesta,85909
+Style Fiesta,http://www.koovs.com/style-fiesta-statement-earring_304-90069.html,599,http://images.koovscdn.com/uploads/products/90069_a31d1c001053c2cd415c29fc05771cb6_image1_zoom.jpg,Style Fiesta,90069
+Truffle Collection,http://www.koovs.com/truffle-collection-studded-pool-sliders-92325.html,1299,http://images.koovscdn.com/uploads/products/92325_c3f02c0a7ceb3c591f92a7319c91f9aa_image1_zoom.jpg,Truffle Collection,92325
+Truffle Collection,http://www.koovs.com/truffle-collection-flat-mules-93487.html,1999,http://images.koovscdn.com/uploads/products/93487_ba9fb2d43b54adfc24f2b321b12cf259_image1_zoom.jpg,Truffle Collection,93487
+Truffle Collection,http://www.koovs.com/truffle-collection-trainers-with-jute-sole-detail-92330.html,3199,http://images.koovscdn.com/uploads/products/92330_6685cb30d0acf8d036faad44b9a06a59_image1_zoom.jpg,Truffle Collection,92330
+Truffle Collection,http://www.koovs.com/truffle-collection-flatform-sandals-93489.html,3699,http://images.koovscdn.com/uploads/products/93489_299dd4bbd9a9c2404d92cf773e11d3a8_image1_zoom.jpg,Truffle Collection,93489
+Truffle Collection,http://www.koovs.com/truffle-collection-flatform-sandals-93489.html,3699,http://images.koovscdn.com/uploads/products/93489_f862f10ea08fbee3bfc1efd4bf20e94a_image1_zoom.jpg,Truffle Collection,93489
+Truffle Collection,http://www.koovs.com/truffle-collection-trainers-with-jute-sole-detail-92330.html,3199,http://images.koovscdn.com/uploads/products/92330_f77f5b301b775ef6241896a766a8b901_image1_zoom.jpg,Truffle Collection,92330
+Truffle Collection,http://www.koovs.com/truffle-colllection-stud-and-eyelet-detail-thong-sandals-93488.html,2399,http://images.koovscdn.com/uploads/products/93488_b9f6a8c02a61e2b65162a7730bcadce2_image1_zoom.jpg,Truffle Collection,93488
+Style Fiesta,http://www.koovs.com/style-fiesta-earrings-e728-82278.html,599,http://images.koovscdn.com/uploads/products/82278_1d3bce3b5551b61a7bed0a16a1001aad_image1_zoom.jpg,Style Fiesta,82278
+Truffle Collection,http://www.koovs.com/truffle-collection-flat-mules-93487.html,1999,http://images.koovscdn.com/uploads/products/93487_360364c3fc2e53319c9b9b91584545a3_image1_zoom.jpg,Truffle Collection,93487
+Truffle Collection,http://www.koovs.com/truffle-collection-star-print-shoes-92329.html,3099,http://images.koovscdn.com/uploads/products/92329_f3aa0916bd3b37acfbf8ba79573a99bc_image1_zoom.jpg,Truffle Collection,92329
+Truffle Collection,http://www.koovs.com/truffle-collection-glitter-pumps-92336.html,2899,http://images.koovscdn.com/uploads/products/92336_c17caafdac5ac8887a676cb8e1f75184_image1_zoom.jpg,Truffle Collection,92336
+Truffle Collection,http://www.koovs.com/truffle-colllection-stud-and-eyelet-detail-thong-sandals-93488.html,2399,http://images.koovscdn.com/uploads/products/93488_c03b77a64526619f6e85bea26fe799c2_image1_zoom.jpg,Truffle Collection,93488
+Truffle Collection,http://www.koovs.com/truffle-collection-studded-pool-sliders-92325.html,1299,http://images.koovscdn.com/uploads/products/92325_9773400a730e4d1c0bb8f11676e38199_image1_zoom.jpg,Truffle Collection,92325
+Truffle Collection,http://www.koovs.com/truffle-collection-cross-strap-flats-92327.html,2999,http://images.koovscdn.com/uploads/products/92327_1ab341b89d8080faf429407bbb231525_image1_zoom.jpg,Truffle Collection,92327
+Truffle Collection,http://www.koovs.com/truffle-collection-denim-trainers-93490.html,1499,http://images.koovscdn.com/uploads/products/93490_b041b6aa2ee62b80e6dbd934f5ce41af_image1_zoom.jpg,Truffle Collection,93490
+Truffle Collection,http://www.koovs.com/truffle-collection-embellished-trainers-93492.html,2299,http://images.koovscdn.com/uploads/products/93492_07c59226444600d4e59ec8946cf6c8d6_image1_zoom.jpg,Truffle Collection,93492
+The Classic,http://www.koovs.com/all-over-garfield-jacket-85311.html,1875,http://images.koovscdn.com/uploads/products/85311_41c35b93750da65cdc79d580833ebaf6_image1_zoom.jpg,The Classic,85311
+Truffle Collection,http://www.koovs.com/truffle-collection-fringed-t-bar-espadrilles-92328.html,1899,http://images.koovscdn.com/uploads/products/92328_aae2f2d8fb8d5c1ede98bd85cfa9bff1_image1_zoom.jpg,Truffle Collection,92328
+Truffle Collection,http://www.koovs.com/truffle-collection-mesh-trainers-with-jute-sole-detail-93493.html,3199,http://images.koovscdn.com/uploads/products/93493_37195ae24e30775caccc4a0ed16ad9cb_image1_zoom.jpg,Truffle Collection,93493
+The Classic,http://www.koovs.com/low-rise-ltst-distressed-jean-85320.html,2160,http://images.koovscdn.com/uploads/products/85320_d61139c0d9166efbcdec21aa4bf61b80_image1_zoom.jpg,The Classic,85320
+Truffle Collection,http://www.koovs.com/truffle-collection-metallic-flatforms-with-jute-sole-detail-93491.html,3299,http://images.koovscdn.com/uploads/products/93491_3f72949ff07384a064ef59edcfc0cb11_image1_zoom.jpg,Truffle Collection,93491
+The Classic,http://www.koovs.com/garfield-hope-tank-tee-85319.html,1200,http://images.koovscdn.com/uploads/products/85319_442084a1e9213148c0f89db2f3232cc5_image1_zoom.jpg,The Classic,85319
+Velvet Army,http://www.koovs.com/velvet-army-metallic-block-heeled-sandals-87719.html,2895,http://images.koovscdn.com/uploads/products/87719_bf9e6109afb7b06f2a235757cb6f2856_image1_zoom.jpg,Velvet Army,87719
+Velvet Army,http://www.koovs.com/velvet-army-soft-tie-heeled-sandals-87718.html,2495,http://images.koovscdn.com/uploads/products/87718_90f37dda7e7726f6f9856d98ba0ace7f_image1_zoom.jpg,Velvet Army,87718
+The Classic,http://www.koovs.com/arrow-boho-women-hugs-kisses-long-sleeve-hoodie-top-85313.html,1200,http://images.koovscdn.com/uploads/products/85313_53d03291890f0c4f264e5e9a79b70385_image1_zoom.jpg,The Classic,85313
+The Classic,http://www.koovs.com/womens-monday-emoji-graphic-t-shirt-85318.html,950,http://images.koovscdn.com/uploads/products/85318_7e5f6f30f45362f82280fec2dd0645d2_image1_zoom.jpg,The Classic,85318
+Velvet Army,http://www.koovs.com/velvet-army-soft-tie-heeled-sandals-87718.html,2495,http://images.koovscdn.com/uploads/products/87718_80d7e7ba9e09c3fbeefe4f8a417ce5e5_image1_zoom.jpg,Velvet Army,87718
+The Classic,http://www.koovs.com/black-destroyed-jeanssku-85321.html,2160,http://images.koovscdn.com/uploads/products/85321_e52769ef6f7132ef7c82935742f210a3_image1_zoom.jpg,The Classic,85321
+Vero Moda,http://www.koovs.com/vero-moda-katy-ls-lace-top-2-92414.html,2299,http://images.koovscdn.com/uploads/products/92414_cea221910178672bbc0024f873a753ae_image1_zoom.jpg,Vero Moda,92414
+Vero Moda,http://www.koovs.com/vero-moda-vmmyra-roll-dress-84655.html,1995,http://images.koovscdn.com/uploads/products/84655_6c3055cd0d08789456a281c0879bf684_image1_zoom.jpg,Vero Moda,84655
+Vero Moda,http://www.koovs.com/vero-moda-for-dress-92508.html,2499,http://images.koovscdn.com/uploads/products/92508_b19c2b737bdb0660f863dce9dd495f40_image1_zoom.jpg,Vero Moda,92508
+Vero Moda,http://www.koovs.com/vero-moda-alma-crop-shirt-92278.html,1699,http://images.koovscdn.com/uploads/products/92278_f45ba7aacf770acfa02f22a6d2c8b2ad_image1_zoom.jpg,Vero Moda,92278
+Vero Moda,http://www.koovs.com/vero-moda-fiji-34-shirt-92413.html,1899,http://images.koovscdn.com/uploads/products/92413_97477e3ea67bf803f621e2e1f373bded_image1_zoom.jpg,Vero Moda,92413
+Vero Moda,http://www.koovs.com/vero-moda-classy-shirt-92273.html,1999,http://images.koovscdn.com/uploads/products/92273_35f74eb3a0491fb150318ef380417833_image1_zoom.jpg,Vero Moda,92273
+Vero Moda,http://www.koovs.com/vero-moda-nanna-jo-long-slit-skirt-92279.html,1499,http://images.koovscdn.com/uploads/products/92279_52559b56548308cfe7a4c7cbb677d802_image1_zoom.jpg,Vero Moda,92279
+Vero Moda,http://www.koovs.com/vero-moda-matilde-blouse-92506.html,1699,http://images.koovscdn.com/uploads/products/92506_7711e682f06b1d89207b30ccb60d83d3_image1_zoom.jpg,Vero Moda,92506
+Vero Moda,http://www.koovs.com/veromoda-vmblash-print-ss-top-nfs-91991.html,1999,http://images.koovscdn.com/uploads/products/91991_45ffdc42bf24d9b8b8659539ebaffc74_image1_zoom.jpg,Vero Moda,91991
+VEROMODA Raised Neckline Lace Top,http://www.koovs.com/veromoda-vmcelebe-24-top-jrs-a-k-91986.html,2295,http://images.koovscdn.com/uploads/products/91986_e7b159d3f3de960e27e3d22170240588_image1_zoom.jpg,,91986
+Vero Moda,http://www.koovs.com/vero-moda-mazz-crop-wide-92280.html,2999,http://images.koovscdn.com/uploads/products/92280_918e5c712f9f91e348d2082270be22b9_image1_zoom.jpg,Vero Moda,92280
+Voylla,http://www.koovs.com/voylla-velvet-choker-83603.html,209,http://images.koovscdn.com/uploads/products/83603_dd5651a4c15abd5ada45fed588f6dae3_image1_zoom.jpg,Voylla,83603
+Voylla,http://www.koovs.com/voylla-twisted-hoops-83598.html,399,http://images.koovscdn.com/uploads/products/83598_e254dc9ac199206276e44ab8f398b09b_image1_zoom.jpg,Voylla,83598
+Voylla,http://www.koovs.com/voylla-textured-hoops-83601.html,224,http://images.koovscdn.com/uploads/products/83601_2e8aec7552962f0dfebcd558769df441_image1_zoom.jpg,Voylla,83601
+Voylla,http://www.koovs.com/voylla-bejewelled-choker-83604.html,224,http://images.koovscdn.com/uploads/products/83604_12a7eeb8c6a7ff50bdb41a6b0faf123c_image1_zoom.jpg,Voylla,83604
+Voylla,http://www.koovs.com/voylla-chain-hoops-83599.html,279,http://images.koovscdn.com/uploads/products/83599_d5b18c3e6a93f84f4ba71069c52fba03_image1_zoom.jpg,Voylla,83599
+Voylla,http://www.koovs.com/voylla-chic-statement-choker-83605.html,209,http://images.koovscdn.com/uploads/products/83605_f7a974140700ec9380620f62e7207cfc_image1_zoom.jpg,Voylla,83605
+K Denim,http://www.koovs.com/k-denim-mid-wash-printed-vintage-tapered-fit-86561.html,1695,http://images.koovscdn.com/uploads/products/86561_70a193f9558f256cde48baebbcf5578b_image1_zoom.jpg,K Denim,86561
+Voylla,http://www.koovs.com/voylla-hoops-83597.html,209,http://images.koovscdn.com/uploads/products/83597_61a39c5792276562f7799d8258c11fbd_image1_zoom.jpg,Voylla,83597
+Vero Moda,http://www.koovs.com/veromoda-percentvmnanna-jo-ancle-slit-d-91988.html,1499,http://images.koovscdn.com/uploads/products/91988_62836345772d61cd612e0d8de4d1b0ec_image1_zoom.jpg,Vero Moda,91988
+K Denim,http://www.koovs.com/koovs-drop-crotch-fit-jeans_409-77419.html,1295,http://images.koovscdn.com/uploads/products/77419_9db024f8359cf9d11dbebbad351f5757_image1_zoom.jpg,K Denim,77419
+K Denim,http://www.koovs.com/k-denim-pale-blue-skinny-fit-jean-86515.html,1295,http://images.koovscdn.com/uploads/products/86515_86ffd1d49fc559b2eb9458f3ba2aef92_image1_zoom.jpg,K Denim,86515
+K Denim,http://www.koovs.com/koovs-indigo-elastic-waistband-jeans-77445.html,1495,http://images.koovscdn.com/uploads/products/77445_abefd691c19b1c0d388abdf56839cb37_image1_zoom.jpg,K Denim,77445
+K Denim,http://www.koovs.com/k-denim-mid-wash-roll-down-hem-rip-knee-skinny-fit-jean-86548.html,1695,http://images.koovscdn.com/uploads/products/86548_1a78a67fdd2ad4896ad72e503003947f_image1_zoom.jpg,K Denim,86548
+K Denim,http://www.koovs.com/koovs-slim-fit-jeans_6-77409.html,995,http://images.koovscdn.com/uploads/products/77409_29c729912610ce62b15776b27938d816_image1_zoom.jpg,K Denim,77409
+K Denim,http://www.koovs.com/koovs-khaki-knee-hole-skinny-fit-jeans-77428.html,1495,http://images.koovscdn.com/uploads/products/77428_66f94078ff5b52c9ad9650e0f48ba286_image1_zoom.jpg,K Denim,77428
+KOOVS,http://www.koovs.com/koovs-colour-block-tank-top-87965.html,495,http://images.koovscdn.com/uploads/products/87965_063201ab784305234ba12f20fe84dcc8_image1_zoom.jpg,KOOVS,87965
+KOOVS,http://www.koovs.com/koovs-crew-neck-tee_253-86688.html,395,http://images.koovscdn.com/uploads/products/86688_db7ef17b9699853d2816995085050214_image1_zoom.jpg,KOOVS,86688
+KOOVS,http://www.koovs.com/koovs-tonal-tropical-print-vest_88-87428.html,695,http://images.koovscdn.com/uploads/products/87428_f58c0024f251614136c0a9b9e0da93e8_image1_zoom.jpg,KOOVS,87428
+KOOVS,http://www.koovs.com/koovs-smart-button-down-polo_374-80617.html,695,http://images.koovscdn.com/uploads/products/80617_a40a576099d0ad38596b8d4e6c822588_image1_zoom.jpg,KOOVS,80617
+KOOVS,http://www.koovs.com/koovs-cube-detail-bangle_278-88037.html,295,http://images.koovscdn.com/uploads/products/88037_4f96042afa5d532911b9461ccac6106c_image1_zoom.jpg,KOOVS,88037
+KOOVS,http://www.koovs.com/koovs-scoop-neck-tee_399-86695.html,274,http://images.koovscdn.com/uploads/products/86695_4952c1941a73c0509c53e543c9386a8e_image1_zoom.jpg,KOOVS,86695
+KOOVS,http://www.koovs.com/koovs-scoop-neck-tee_381-86694.html,395,http://images.koovscdn.com/uploads/products/86694_4490a677d0877240449da5ac52b46abb_image1_zoom.jpg,KOOVS,86694
+KOOVS,http://www.koovs.com/koovs-breton-stripe-vest-87967.html,495,http://images.koovscdn.com/uploads/products/87967_4c691f7119c4d9b41d35b742ce7fb8ab_image1_zoom.jpg,KOOVS,87967
+KOOVS,http://www.koovs.com/koovs-t-shirts_351-86737.html,344,http://images.koovscdn.com/uploads/products/86737_9ad71b3e497d1294b0e8586b0947aeff_image1_zoom.jpg,KOOVS,86737
+KOOVS,http://www.koovs.com/koovs-ls-raglan-tee-86715.html,595,http://images.koovscdn.com/uploads/products/86715_3b32d1a1d6696919f54fc1f02d273178_image1_zoom.jpg,KOOVS,86715
+KOOVS,http://www.koovs.com/koovs-boat-neck-tee_58-86731.html,495,http://images.koovscdn.com/uploads/products/86731_232d88110606eea67b400839fcdb21c0_image1_zoom.jpg,KOOVS,86731
+KOOVS,http://www.koovs.com/koovs-fade-stripe-vest-87970.html,495,http://images.koovscdn.com/uploads/products/87970_16b63028dd87c07e31b51e74541122a6_image1_zoom.jpg,KOOVS,87970
+KOOVS,http://www.koovs.com/koovs-raw-edge-vest_215-86746.html,295,http://images.koovscdn.com/uploads/products/86746_0a1b559ea1a9edc3b696adb22c7b51a0_image1_zoom.jpg,KOOVS,86746
+K Denim,http://www.koovs.com/koovs-black-patched-skinny-jean-74736.html,1695,http://images.koovscdn.com/uploads/products/74736_6562b8cc4de2b1783350ff85a031b23c_image1_zoom.jpg,K Denim,74736
+KOOVS,http://www.koovs.com/koovs-colour-block-pocketed-tank-top-87740.html,495,http://images.koovscdn.com/uploads/products/87740_805f6bb096ef42cd197eda24bcd41ced_image1_zoom.jpg,KOOVS,87740
+KOOVS,http://www.koovs.com/koovs-reverse-aztec-print-cuban-shirt-87793.html,1095,http://images.koovscdn.com/uploads/products/87793_744f889ffe3dc55bce3c17390e83f555_image1_zoom.jpg,KOOVS,87793
+K Denim,http://www.koovs.com/k-denim-light-wash-rip-knee-super-skinny-fit-jean-86552.html,1495,http://images.koovscdn.com/uploads/products/86552_6836f828cb8f32e2000033c2a9514e5a_image1_zoom.jpg,K Denim,86552
+K Denim,http://www.koovs.com/koovs-light-wash-ripped-slim-fit-jeans-77425.html,1495,http://images.koovscdn.com/uploads/products/77425_8c1c3e89bfc439e2b915ecd9b1a2c23f_image1_zoom.jpg,K Denim,77425
+K Denim,http://www.koovs.com/k-denim-biker-rip-knee-super-skinny-fit-jean_207-86555.html,1895,http://images.koovscdn.com/uploads/products/86555_6b2cfc45f52fe66235bd044443f4265b_image1_zoom.jpg,K Denim,86555
+K Denim,http://www.koovs.com/koovs-rope-belt-cropped-jean-74731.html,1495,http://images.koovscdn.com/uploads/products/74731_6d4b07863177541e2038392141f9b434_image1_zoom.jpg,K Denim,74731
+K Denim,http://www.koovs.com/k-denim-black-printed-vintage-tapered-fit-86560.html,1695,http://images.koovscdn.com/uploads/products/86560_5e60f94de6d233d49e4eec0340a30eb1_image1_zoom.jpg,K Denim,86560
+K Denim,http://www.koovs.com/k-denim-dusty-blue-skinny-fit-jean-86516.html,1295,http://images.koovscdn.com/uploads/products/86516_4a04e6dc4dc103e08a9daa6979499684_image1_zoom.jpg,K Denim,86516
+K Denim,http://www.koovs.com/koovs-skinny-jeans_132-83506.html,1495,http://images.koovscdn.com/uploads/products/83506_9179a443afd1e6cde587a4cf29d97ce0_image1_zoom.jpg,K Denim,83506
+K Denim,http://www.koovs.com/koovs-removed-knee-patch-patch-skinny-fit-jeans-77430.html,1495,http://images.koovscdn.com/uploads/products/77430_36e9bdcbf31178ab8b8413d034e81051_image1_zoom.jpg,K Denim,77430
+K Denim,http://www.koovs.com/k-denim-dusty-pink-skinny-fit-jean-86518.html,1295,http://images.koovscdn.com/uploads/products/86518_6c657381efc4035011b32390225ca241_image1_zoom.jpg,K Denim,86518
+K Denim,http://www.koovs.com/koovs-slim-fit-jeans_419-83527.html,1495,http://images.koovscdn.com/uploads/products/83527_5fa660c595e4e6877aa9720eae789c3f_image1_zoom.jpg,K Denim,83527
+K Denim,http://www.koovs.com/k-denim-mid-wash-slim-fit-jeans-with-patch-removal-87363.html,1695,http://images.koovscdn.com/uploads/products/87363_39ba3f2c035ea381138b84f100c78f79_image1_zoom.jpg,K Denim,87363
+K Denim,http://www.koovs.com/koovs-blue-acid-wash-super-skinny-fit-jeans-77434.html,1495,http://images.koovscdn.com/uploads/products/77434_b7562f46467e8cea6e447aee035c8b06_image1_zoom.jpg,K Denim,77434
+K Denim,http://www.koovs.com/koovs-knitted-denim-drop-crotch-fit-jeans-77439.html,1495,http://images.koovscdn.com/uploads/products/77439_71a39423f000faebb03f5b944018a33c_image1_zoom.jpg,K Denim,77439
+K Denim,http://www.koovs.com/k-denim-white-skinny-fit-jean-86519.html,1295,http://images.koovscdn.com/uploads/products/86519_4d0be92df92a209570cfa9f591b4d884_image1_zoom.jpg,K Denim,86519
+K Denim,http://www.koovs.com/koovs-drop-crotch-fit-jeans-77417.html,1295,http://images.koovscdn.com/uploads/products/77417_c94dd352422544ada48666ff33b23ad0_image1_zoom.jpg,K Denim,77417
+K Denim,http://www.koovs.com/koovs-light-wash-slim-jean-74733.html,1495,http://images.koovscdn.com/uploads/products/74733_73bbca0c5bef85bef4a8e5615e9a8155_image1_zoom.jpg,K Denim,74733
+K Denim,http://www.koovs.com/k-denim-washed-black-ripped-reg-fit-short-87365.html,1295,http://images.koovscdn.com/uploads/products/87365_26af4731d24a1ae9f8b1e565cc335fd9_image1_zoom.jpg,K Denim,87365
+K Denim,http://www.koovs.com/koovs-grey-elastic-waistband-jeans-77444.html,1495,http://images.koovscdn.com/uploads/products/77444_3644398fe08d79b0cec54fbc3204644c_image1_zoom.jpg,K Denim,77444
+KOOVS,http://www.koovs.com/koovs-superstar-tank-vest-78304.html,325,http://images.koovscdn.com/uploads/products/78304_ae0ee1589607e32068393215b52a71e6_image1_zoom.jpg,KOOVS,78304
+K Denim,http://www.koovs.com/koovs-slim-fit-utility-jeans-83904.html,1495,http://images.koovscdn.com/uploads/products/83904_722f72233522125cbe3bdfd3d6003c60_image1_zoom.jpg,K Denim,83904
+KOOVS,http://www.koovs.com/koovs-scoop-neck-tee_451-86700.html,395,http://images.koovscdn.com/uploads/products/86700_45ea2194f40bb3c861f0688b8cdfa834_image1_zoom.jpg,KOOVS,86700
+KOOVS,http://www.koovs.com/koovs-racer-back-vest_252-86744.html,395,http://images.koovscdn.com/uploads/products/86744_e3090c02300eae002e5be2d849628e2c_image1_zoom.jpg,KOOVS,86744
+KOOVS,http://www.koovs.com/koovs-deep-v-neck-tee_455-86759.html,595,http://images.koovscdn.com/uploads/products/86759_570b60818b46355e2b77663aade12f6e_image1_zoom.jpg,KOOVS,86759
+KOOVS,http://www.koovs.com/koovs-button-down-polo_413-86765.html,795,http://images.koovscdn.com/uploads/products/86765_66191577227a4eceaba725c65baf716e_image1_zoom.jpg,KOOVS,86765
+K Denim,http://www.koovs.com/koovs-tinted-light-wash-slim-fit-jeans-77422.html,1495,http://images.koovscdn.com/uploads/products/77422_cc79a2e1cff653d8615feed2b2fc6c10_image1_zoom.jpg,K Denim,77422
+KOOVS,http://www.koovs.com/koovs-tank-vest_444-86725.html,344,http://images.koovscdn.com/uploads/products/86725_3d57df17d537424b6e72ae3d7ff22c7a_image1_zoom.jpg,KOOVS,86725
+KOOVS,http://www.koovs.com/koovs-button-down-polo_75-86764.html,795,http://images.koovscdn.com/uploads/products/86764_958ed57c40b7b778a058fd0b4ecfc828_image1_zoom.jpg,KOOVS,86764
+KOOVS,http://www.koovs.com/koovs-raw-edge-vest_494-86747.html,295,http://images.koovscdn.com/uploads/products/86747_4dc4b3fe2161329b2206e8b0e7c5f6a3_image1_zoom.jpg,KOOVS,86747
+KOOVS,http://www.koovs.com/koovs--1-cut--sew-tee-82055.html,495,http://images.koovscdn.com/uploads/products/82055_c27bf58e9a701625ab7caf303bfd9b28_image1_zoom.jpg,KOOVS,82055
+KOOVS,http://www.koovs.com/koovs-stripe-vest_185-80057.html,240,http://images.koovscdn.com/uploads/products/80057_719808da544c58144e0f3f176ca6e161_image1_zoom.jpg,KOOVS,80057
+KOOVS,http://www.koovs.com/koovs-deep-v-neck-muscle-fit-tee-86776.html,495,http://images.koovscdn.com/uploads/products/86776_9c58548433b8d32d4f9cc4a614ba372f_image1_zoom.jpg,KOOVS,86776
+KOOVS,http://www.koovs.com/koovs-racer-back-vest_465-86738.html,395,http://images.koovscdn.com/uploads/products/86738_d3b28e71afbcdf650050b7e9c94b0646_image1_zoom.jpg,KOOVS,86738
+KOOVS,http://www.koovs.com/koovs-shorts_29-80716.html,594,http://images.koovscdn.com/uploads/products/80716_4208a65cd4832e537a39fe11d0beb9f6_image1_zoom.jpg,KOOVS,80716
+KOOVS,http://www.koovs.com/koovs-colour-block-tank-vest_15-86806.html,395,http://images.koovscdn.com/uploads/products/86806_30f4c254dc2c9b73aa11bee959bc250e_image1_zoom.jpg,KOOVS,86806
+KOOVS,http://www.koovs.com/koovs-stripe-pocket-contrast-tee-86824.html,595,http://images.koovscdn.com/uploads/products/86824_68c061de68cdc687a74b463354028f3b_image1_zoom.jpg,KOOVS,86824
+KOOVS,http://www.koovs.com/koovs-fabric-bracelet-88052.html,295,http://images.koovscdn.com/uploads/products/88052_b13c4b23112716f9e089c9506a637d3d_image1_zoom.jpg,KOOVS,88052
+KOOVS,http://www.koovs.com/koovs-tank-vest_326-86726.html,495,http://images.koovscdn.com/uploads/products/86726_abb9b29e5f666fb1ec8031504dbfbd91_image1_zoom.jpg,KOOVS,86726
+KOOVS,http://www.koovs.com/koovs-short-sleeve-raglan-tee_273-86713.html,595,http://images.koovscdn.com/uploads/products/86713_a0e9b07c1d8063ff7426fde221c9bfa3_image1_zoom.jpg,KOOVS,86713
+KOOVS,http://www.koovs.com/koovs-crew-neck-tee_297-86692.html,395,http://images.koovscdn.com/uploads/products/86692_ac1ae70068cc291aba147f06e49eb92c_image1_zoom.jpg,KOOVS,86692
+KOOVS,http://www.koovs.com/koovs-colour-block-tank-vest-86805.html,395,http://images.koovscdn.com/uploads/products/86805_ed35e9e42d99fbe40c4fd2ffd16522ab_image1_zoom.jpg,KOOVS,86805
+KOOVS,http://www.koovs.com/koovs-crew-neck-tee_390-86686.html,395,http://images.koovscdn.com/uploads/products/86686_4c273b586a3b18ed74ec387ec7e1e2eb_image1_zoom.jpg,KOOVS,86686
+KOOVS,http://www.koovs.com/koovs-colour-block-vest_343-86948.html,395,http://images.koovscdn.com/uploads/products/86948_9388cc3106fd133273f0b911b4f55fbe_image1_zoom.jpg,KOOVS,86948
+KOOVS,http://www.koovs.com/koovs-classic-vest_454-86678.html,295,http://images.koovscdn.com/uploads/products/86678_dde7ae09917a90ad7ce2507eb4092b55_image1_zoom.jpg,KOOVS,86678
+K Denim,http://www.koovs.com/koovs-tinted-skinny-jeans-83504.html,1495,http://images.koovscdn.com/uploads/products/83504_e1a85482711bcf5f6b03e3a70fdbda95_image1_zoom.jpg,K Denim,83504
+K Denim,http://www.koovs.com/koovs-pleated-vintage-wash-jeans_491-83512.html,1695,http://images.koovscdn.com/uploads/products/83512_8b7d88a70629dbc722a5c1808fe32956_image1_zoom.jpg,K Denim,83512
+K Denim,http://www.koovs.com/k-denim-contrast-camo-light-wash-slim-fit-jeans-86551.html,1695,http://images.koovscdn.com/uploads/products/86551_549a58d0440e87e1ae646bfe2eebed5e_image1_zoom.jpg,K Denim,86551
+KOOVS,http://www.koovs.com/koovs-textured-vest-78298.html,220,http://images.koovscdn.com/uploads/products/78298_316a10f44238557362f5234c17828edb_image1_zoom.jpg,KOOVS,78298
+K Denim,http://www.koovs.com/koovs-cargo-cuffed-jeans_231-83903.html,1495,http://images.koovscdn.com/uploads/products/83903_11ebd242148b2f27bfe94571c148ec8c_image1_zoom.jpg,K Denim,83903
+K Denim,http://www.koovs.com/koovs-biker-panel-jeans_60-83511.html,1695,http://images.koovscdn.com/uploads/products/83511_1ff5e9172a366c4fa94615e2de26ba1c_image1_zoom.jpg,K Denim,83511
+K Denim,http://www.koovs.com/koovs-vintage-wasg-cuff-jeans-77442.html,1495,http://images.koovscdn.com/uploads/products/77442_c92e06c17dd3ce3b5f8927a11c46e83e_image1_zoom.jpg,K Denim,77442
+K Denim,http://www.koovs.com/koovs-orange-tint-contrast-turn-up-slim-fit-jeans-77427.html,1495,http://images.koovscdn.com/uploads/products/77427_c1087d6252a2c431f66e0e93cef3f2cf_image1_zoom.jpg,K Denim,77427
+K Denim,http://www.koovs.com/koovs-skinny-fit-jeans_492-77179.html,1295,http://images.koovscdn.com/uploads/products/77179_f29f64b0914363b3cd30c240772da0fb_image1_zoom.jpg,K Denim,77179
+K Denim,http://www.koovs.com/k-denim-raw-hem-skinny-fit-jean-87145.html,1495,http://images.koovscdn.com/uploads/products/87145_adabd0933dce8dc4a8b45de5a793a71a_image1_zoom.jpg,K Denim,87145
+K Denim,http://www.koovs.com/koovs-acid-wash-cuff-jeans-77443.html,1495,http://images.koovscdn.com/uploads/products/77443_128be51f941569148b21c3db642eca95_image1_zoom.jpg,K Denim,77443
+Kultprit,http://www.koovs.com/cartoon-print-raglan-85019.html,799,http://images.koovscdn.com/uploads/products/85019_fb89ab33b8d9a3b9959c73aa0a79ac9d_image1_zoom.jpg,Kultprit,85019
+Kultprit,http://www.koovs.com/kultprit-striped-t-shirt-with-rips-85175.html,699,http://images.koovscdn.com/uploads/products/85175_b9ff6673868b98f9444cc74cf10a3831_image1_zoom.jpg,Kultprit,85175
+K Denim,http://www.koovs.com/koovs-black-sprayed-skinny-jeans-77406.html,1695,http://images.koovscdn.com/uploads/products/77406_f37e77a69ec6cfc5c821e302b4c1c104_image1_zoom.jpg,K Denim,77406
+Kultprit,http://www.koovs.com/side-zip-joggers-87004.html,1360,http://images.koovscdn.com/uploads/products/87004_8c645d39ec24c4808fabf63dc2fa0e25_image1_zoom.jpg,Kultprit,87004
+Kultprit,http://www.koovs.com/abide-raglan-with-contrast-sleeves-85022.html,799,http://images.koovscdn.com/uploads/products/85022_a42b8d770f1a461876a1c6f49d4bb950_image1_zoom.jpg,Kultprit,85022
+Kultprit,http://www.koovs.com/jogger-with-contrast-suspender-87011.html,1799,http://images.koovscdn.com/uploads/products/87011_337daaca6e8df94e1459b613e83def95_image1_zoom.jpg,Kultprit,87011
+Kultprit,http://www.koovs.com/joggers-with-knee-zip_439-87010.html,1440,http://images.koovscdn.com/uploads/products/87010_d7844f281156393d0c7dc3d677c81416_image1_zoom.jpg,Kultprit,87010
+Kultprit,http://www.koovs.com/striped-contrast-sleeve-t-shirt-with-rips-85171.html,799,http://images.koovscdn.com/uploads/products/85171_35bfeac7f5388faef1023e1d4b5d97d2_image1_zoom.jpg,Kultprit,85171
+Kultprit,http://www.koovs.com/joggers-with-knee-rips_356-87008.html,1699,http://images.koovscdn.com/uploads/products/87008_ce0160afb2ec225e84847926247380d7_image1_zoom.jpg,Kultprit,87008
+Kultprit,http://www.koovs.com/longline-t-shirt-with-chequered-panel-85029.html,699,http://images.koovscdn.com/uploads/products/85029_f92b0dee3d21d0d083774763f26f133d_image1_zoom.jpg,Kultprit,85029
+Kultprit,http://www.koovs.com/graphic-raglan-t-shirt-85026.html,899,http://images.koovscdn.com/uploads/products/85026_05956ddff59f441527d1471d85dcaa9e_image1_zoom.jpg,Kultprit,85026
+Kultprit,http://www.koovs.com/joggers-with-knee-rips-87007.html,1699,http://images.koovscdn.com/uploads/products/87007_414dc72aafc36a0d5eb528d2722ba098_image1_zoom.jpg,Kultprit,87007
+Kultprit,http://www.koovs.com/never-back-down-slogan-t-shirt-in-square-neck_482-85025.html,849,http://images.koovscdn.com/uploads/products/85025_b49b1253f55445b2ba008647a90ec3d2_image1_zoom.jpg,Kultprit,85025
+Kultprit,http://www.koovs.com/cartoon-print-longline-t-shirt-85020.html,849,http://images.koovscdn.com/uploads/products/85020_ae529655af0b6e61a5b33f685c4dbfea_image1_zoom.jpg,Kultprit,85020
+Kultprit,http://www.koovs.com/slogan-print-raglan-t-shirt-92692.html,849,http://images.koovscdn.com/uploads/products/92692_b6c33bfe192798bb31183a3f8cc66d83_image1_zoom.jpg,Kultprit,92692
+Kultprit,http://www.koovs.com/jogger-with-contrast-suspender_152-87012.html,1799,http://images.koovscdn.com/uploads/products/87012_b18db16ea975035865f7a3cde042c5db_image1_zoom.jpg,Kultprit,87012
+Kultprit,http://www.koovs.com/printed-raglan-with-contrast-sleeves-85021.html,799,http://images.koovscdn.com/uploads/products/85021_4127ef956a61793650698101d184a0b5_image1_zoom.jpg,Kultprit,85021
+Kultprit,http://www.koovs.com/slogan-print-tank-92691.html,649,http://images.koovscdn.com/uploads/products/92691_ff714aad767723b2f085cafb93d1606b_image1_zoom.jpg,Kultprit,92691
+Kultprit,http://www.koovs.com/t-shirt-with-chequered-panel-85028.html,799,http://images.koovscdn.com/uploads/products/85028_3a62a7dc26c403d847a44ef7be263536_image1_zoom.jpg,Kultprit,85028
+Kultprit,http://www.koovs.com/kultprit-front-open-hooded-cardigan-87131.html,1199,http://images.koovscdn.com/uploads/products/87131_ef27a5a3d550c172272106f8a77ebbbe_image1_zoom.jpg,Kultprit,87131
+Kultprit,http://www.koovs.com/knee-panel-shorts-with-buckles-80984.html,1299,http://images.koovscdn.com/uploads/products/80984_f241cc6c05e6f4c98cf9a302f83fe529_image1_zoom.jpg,Kultprit,80984
+Kultprit,http://www.koovs.com/kultprit-assymetric-long-line-vest-81787.html,599,http://images.koovscdn.com/uploads/products/81787_aec8fd062c6f1b68df2fd15900952e71_image1_zoom.jpg,Kultprit,81787
+Kultprit,http://www.koovs.com/geo-print-tank-92566.html,699,http://images.koovscdn.com/uploads/products/92566_0b1c545dcb42abf3e267f5f3b890163c_image1_zoom.jpg,Kultprit,92566
+Kultprit,http://www.koovs.com/asymmetric-hem-t-shirt-with-chequered-back-85031.html,699,http://images.koovscdn.com/uploads/products/85031_1fd6656f1d0948b66803d4040eb9eeec_image1_zoom.jpg,Kultprit,85031
+Kultprit,http://www.koovs.com/joggers-with-knee-panel-87002.html,1999,http://images.koovscdn.com/uploads/products/87002_1d677c5f6d77c3a1c73fb0340a769880_image1_zoom.jpg,Kultprit,87002
+Kultprit,http://www.koovs.com/cut--sew-check-panel-t-shirt-85030.html,649,http://images.koovscdn.com/uploads/products/85030_ba2c98f2d48ef755b90d1b2f52109711_image1_zoom.jpg,Kultprit,85030
+Kultprit,http://www.koovs.com/never-back-down-slogan-t-shirt-in-square-neck-85024.html,899,http://images.koovscdn.com/uploads/products/85024_2750c641ed0fc117445b760fb9e928e6_image1_zoom.jpg,Kultprit,85024
+Kultprit,http://www.koovs.com/joggers-with-knee-zip_3-87009.html,1799,http://images.koovscdn.com/uploads/products/87009_d07f5da1bec29fa39821451e1f17fe4d_image1_zoom.jpg,Kultprit,87009
+Kultprit,http://www.koovs.com/kultprit-split-long-back-t-shirt-81788.html,749,http://images.koovscdn.com/uploads/products/81788_cd7b4a52647d62532b9f8990bc4e57dc_image1_zoom.jpg,Kultprit,81788
+Kultprit,http://www.koovs.com/panel-t-shirt-with-concealed-placket-80982.html,489,http://images.koovscdn.com/uploads/products/80982_d711249c241ae546e928be5ae3f2042c_image1_zoom.jpg,Kultprit,80982
+Kindred,http://www.koovs.com/kindred-pilot-sunglasses-with-metallic-frames-and-arms-92877.html,599,http://images.koovscdn.com/uploads/products/92877_f7a18e63f76432ecea83f6dae5649401_image1_zoom.jpg,Kindred,92877
+KOOVS,http://www.koovs.com/koovs-classic-vest_456-86684.html,295,http://images.koovscdn.com/uploads/products/86684_6cf41abfa9182dcb518f8eda1a7b1b9d_image1_zoom.jpg,KOOVS,86684
+Kultprit,http://www.koovs.com/joggers-with-knee-panel_70-87003.html,1600,http://images.koovscdn.com/uploads/products/87003_38362c71a0b7fb193f23aa1ee8ca3305_image1_zoom.jpg,Kultprit,87003
+K Denim,http://www.koovs.com/koovs-biker-panel-jeans-83510.html,1695,http://images.koovscdn.com/uploads/products/83510_4a5501a27cf480d8321cb2063019ca2c_image1_zoom.jpg,K Denim,83510
+Kultprit,http://www.koovs.com/kultprit-longline-front-open-cardigan-87129.html,1299,http://images.koovscdn.com/uploads/products/87129_fecdfc93358055a1ac7291403b58911e_image1_zoom.jpg,Kultprit,87129
+Kultprit,http://www.koovs.com/life-essentials-tank-92690.html,699,http://images.koovscdn.com/uploads/products/92690_ab71d573515f6f2ae55e940fe9bda819_image1_zoom.jpg,Kultprit,92690
+Kindred,http://www.koovs.com/kindred-pilot-sunglasses-with-metallic-frames-and-arms_419-92881.html,599,http://images.koovscdn.com/uploads/products/92881_a8a35a70618e9695cfb0ac495b1d2f30_image1_zoom.jpg,Kindred,92881
+Kindred,http://www.koovs.com/kindred-pilot-sunglasses-with-metallic-frames-and-arms_301-92878.html,599,http://images.koovscdn.com/uploads/products/92878_05446ad43ab36b6c7638b415066d61e9_image1_zoom.jpg,Kindred,92878
+Kindred,http://www.koovs.com/kindred-round-sungalsses-with-metallic-sunglasses-92887.html,599,http://images.koovscdn.com/uploads/products/92887_ef53a47099c65d61de55ba0838de26d7_image1_zoom.jpg,Kindred,92887
+Kindred,http://www.koovs.com/contrast-tape-detail-t-shirt_139-92916.html,699,http://images.koovscdn.com/uploads/products/92916_579f6e22a2c312b9aa6df90b33f93567_image1_zoom.jpg,Kindred,92916
+Kindred,http://www.koovs.com/kindred-pilot-sunglasses-with-metallic-frames-92890.html,799,http://images.koovscdn.com/uploads/products/92890_1dd889ab912750d6d116cc06c038409b_image1_zoom.jpg,Kindred,92890
+Kindred,http://www.koovs.com/kindred-pilot-sunglasses-with-metallic-frames-and-arms_70-92880.html,599,http://images.koovscdn.com/uploads/products/92880_bb5c3610495a838c947048a243e88b99_image1_zoom.jpg,Kindred,92880
+Kindred,http://www.koovs.com/kindred-retro-sunglasses-92882.html,599,http://images.koovscdn.com/uploads/products/92882_419140a2b2d22d7e4d5dfb456ec4fac3_image1_zoom.jpg,Kindred,92882
+Kindred,http://www.koovs.com/grid-print-t-shirt-92924.html,799,http://images.koovscdn.com/uploads/products/92924_544c7e9b63836ad55abcb976460145e0_image1_zoom.jpg,Kindred,92924
+Kindred,http://www.koovs.com/kindred-round-sungalsses_45-92884.html,599,http://images.koovscdn.com/uploads/products/92884_eded3e9bed18f2f74209a3f147844c2b_image1_zoom.jpg,Kindred,92884
+Kindred,http://www.koovs.com/slogan-print-t-shirt-with-striped-sleeve-92923.html,799,http://images.koovscdn.com/uploads/products/92923_a742a5a002d66a9fedb4d400de553670_image1_zoom.jpg,Kindred,92923
+Kindred,http://www.koovs.com/kindred-round-sungalsses-92883.html,599,http://images.koovscdn.com/uploads/products/92883_71fe5d4f1b5000319d0fa13a1612b3cd_image1_zoom.jpg,Kindred,92883
+Kindred,http://www.koovs.com/kindred-round-sungalsses_254-92886.html,599,http://images.koovscdn.com/uploads/products/92886_87997325d6b429732bab45b8ba980645_image1_zoom.jpg,Kindred,92886
+Kindred,http://www.koovs.com/contrast-tape-detail-t-shirt-92915.html,699,http://images.koovscdn.com/uploads/products/92915_d94448b2213c6c374a95633e2d9916e4_image1_zoom.jpg,Kindred,92915
+Kindred,http://www.koovs.com/back-print-tank-92914.html,499,http://images.koovscdn.com/uploads/products/92914_eb8a5495864e18971bae67ac9c05a1af_image1_zoom.jpg,Kindred,92914
+Knotty Derby,http://www.koovs.com/dual-tone-penny-loafers-71823.html,1150,http://images.koovscdn.com/uploads/products/71823_dcddd998ca4619eb1dc78fb463ab6b34_image1_zoom.jpg,Knotty Derby,71823
+Knotty Derby,http://www.koovs.com/knotty-derby-trainers-with-contrast-stripe-90314.html,2188,http://images.koovscdn.com/uploads/products/90314_c89e35424a5e9c34d54c370036606656_image1_zoom.jpg,Knotty Derby,90314
+Kindred,http://www.koovs.com/slogan-print-tank_454-92913.html,499,http://images.koovscdn.com/uploads/products/92913_6c7618c47f0d55dc7464f6299d9f968c_image1_zoom.jpg,Kindred,92913
+Kindred,http://www.koovs.com/curved-hem-slogan-print-t-shirt-92918.html,699,http://images.koovscdn.com/uploads/products/92918_8327b50ee862731920bbc0e06fd75e08_image1_zoom.jpg,Kindred,92918
+Knotty Derby,http://www.koovs.com/brogue-oxfords-77939.html,1389,http://images.koovscdn.com/uploads/products/77939_c0ac0152570aaa3019a28c6abb777a0f_image1_zoom.jpg,Knotty Derby,77939
+Knotty Derby,http://www.koovs.com/patent-oxfords_253-81694.html,2688,http://images.koovscdn.com/uploads/products/81694_aa04d73c22ab02250eedc11da1ad00c4_image1_zoom.jpg,Knotty Derby,81694
+Knotty Derby,http://www.koovs.com/boot-with-side-panel--camo-sole-82763.html,2788,http://images.koovscdn.com/uploads/products/82763_3fdaf15fc25ac6a220ceb85e1dba0d40_image1_zoom.jpg,Knotty Derby,82763
+Knotty Derby,http://www.koovs.com/knotty-derby-plimsolls-with-knitted-upper-84106.html,1270,http://images.koovscdn.com/uploads/products/84106_81c789634ea36d322d0002128ab5cb6c_image1_zoom.jpg,Knotty Derby,84106
+Knotty Derby,http://www.koovs.com/knotty-derby-trainers-with-printed-upper-90315.html,2188,http://images.koovscdn.com/uploads/products/90315_b3a67e1972dadef6dd573a5e8a658978_image1_zoom.jpg,Knotty Derby,90315
+Knotty Derby,http://www.koovs.com/dual-tone-brogue-plimsolls-with-camo-sole-82761.html,2488,http://images.koovscdn.com/uploads/products/82761_080cbb3866c234cf05cb8befc83411c3_image1_zoom.jpg,Knotty Derby,82761
+Wanderlust,http://www.koovs.com/wanderlust-statement-duster-earrings-87515.html,699,http://images.koovscdn.com/uploads/products/87515_1d6b1d9f136812a73b7d929be65d1a26_image1_zoom.jpg,Wanderlust,87515
+Marcello & Ferri,http://www.koovs.com/marcello--ferri-white-trainers_85-84509.html,1399,http://images.koovscdn.com/uploads/products/84509_148f03771f8fdd5bffea661bf18bcc70_image1_zoom.jpg,Marcello & Ferri,84509
+Wanderlust,http://www.koovs.com/wanderlust-ocean-crystal-drop-choker-87512.html,1199,http://images.koovscdn.com/uploads/products/87512_fb8ba164e13f6d926bcef9dd2c877499_image1_zoom.jpg,Wanderlust,87512
+Knotty Derby,http://www.koovs.com/plimsolls-with-brogue-detailing-81691.html,1750,http://images.koovscdn.com/uploads/products/81691_96b5734868325b3db892c31594218876_image1_zoom.jpg,Knotty Derby,81691
+Knotty Derby,http://www.koovs.com/half-wing-tip-brogue-derbys-81689.html,1750,http://images.koovscdn.com/uploads/products/81689_c6d9516f18b1e893feafcdb0e359ff7e_image1_zoom.jpg,Knotty Derby,81689
+Wanderlust,http://www.koovs.com/wanderlust-choker-87517.html,629,http://images.koovscdn.com/uploads/products/87517_aea48399f78d5ed0bc0ef94895bb0cf3_image1_zoom.jpg,Wanderlust,87517
+Marcello & Ferri,http://www.koovs.com/marcello--ferri-white--green-casual-shoes-84945.html,2000,http://images.koovscdn.com/uploads/products/84945_af14c8a45b5a6fdfed3c6213f0bbc9d7_image1_zoom.jpg,Marcello & Ferri,84945
+Marcello & Ferri,http://www.koovs.com/marcello--ferri-burgandy-smart-shoes-84948.html,2080,http://images.koovscdn.com/uploads/products/84948_0d1c699adac8e523f6729e2656e801e5_image1_zoom.jpg,Marcello & Ferri,84948
+Marcello & Ferri,http://www.koovs.com/marcello--ferri-coco-casual-shoes-84944.html,2499,http://images.koovscdn.com/uploads/products/84944_1700d4f078dc46b591961dfb9b4cfa65_image1_zoom.jpg,Marcello & Ferri,84944
+Wanderlust,http://www.koovs.com/wanderlust-mother-of-pearl-dual-finger-ring-87521.html,599,http://images.koovscdn.com/uploads/products/87521_ccdcbafcc62c85c5503221721964baff_image1_zoom.jpg,Wanderlust,87521
+Marcello & Ferri,http://www.koovs.com/marcello--ferri-white-mid-top-trainers-84510.html,1699,http://images.koovscdn.com/uploads/products/84510_c04677e2c160357be454b18453891a7e_image1_zoom.jpg,Marcello & Ferri,84510
+Marcello & Ferri,http://www.koovs.com/marcello--ferri-white-trainers-84508.html,1399,http://images.koovscdn.com/uploads/products/84508_aa336a21b4ff7a6777ff5d1b7e67b8c0_image1_zoom.jpg,Marcello & Ferri,84508
+Marcello & Ferri,http://www.koovs.com/knitted-upper-loafer_320-80456.html,2299,http://images.koovscdn.com/uploads/products/80456_c9029bf262cdc53192af31d5679f4c57_image1_zoom.jpg,Marcello & Ferri,80456
+Marcello & Ferri,http://www.koovs.com/marcello--ferri-brown-loafers-84936.html,1999,http://images.koovscdn.com/uploads/products/84936_ac05558f5416e015b0bcbe0403f7c7c4_image1_zoom.jpg,Marcello & Ferri,84936
+Marcello & Ferri,http://www.koovs.com/marcello--ferri-blue-patemnt--grey--smart-shoes-84950.html,2320,http://images.koovscdn.com/uploads/products/84950_23c55fda4a6882cf92626978f33ad8d9_image1_zoom.jpg,Marcello & Ferri,84950
+Marcello & Ferri,http://www.koovs.com/marcello--ferri-tan-smart-shoes-84942.html,2000,http://images.koovscdn.com/uploads/products/84942_2fb8598cb8ab85277838449ebd4b7283_image1_zoom.jpg,Marcello & Ferri,84942
+Marcello & Ferri,http://www.koovs.com/marcello--ferri-navy-loafers-84937.html,1999,http://images.koovscdn.com/uploads/products/84937_7a8e01577ab711a716768e2626b223f6_image1_zoom.jpg,Marcello & Ferri,84937
+Marcello & Ferri,http://www.koovs.com/knitted-upper-loafer-80455.html,2299,http://images.koovscdn.com/uploads/products/80455_83554e68d52358dc1323ee1a845bc1fd_image1_zoom.jpg,Marcello & Ferri,80455
+MARCELLO AND FERRI Leather Derby Brogues With Wing Tip,http://www.koovs.com/marcello--ferri-green-smart-shoes-84947.html,2080,http://images.koovscdn.com/uploads/products/84947_f70d75ce02538066fbd93f751d352897_image1_zoom.jpg,,84947
+Levi's,http://www.koovs.com/levis-300-colour-trunk-92694.html,459,http://images.koovscdn.com/uploads/products/92694_cf522fa30db5a6e8a3dadbee39fbf1d0_image1_zoom.jpg,Levi's,92694
+Levi's,http://www.koovs.com/levis-300-colour-trunk-92694.html,459,http://images.koovscdn.com/uploads/products/92694_1e15fa5ab5d8a348bb9eb532f6cb6add_image1_zoom.jpg,Levi's,92694
+Levi's,http://www.koovs.com/levis-300-colour-brief-92693.html,449,http://images.koovscdn.com/uploads/products/92693_cc11358b41f7c8588a529e87621501d7_image1_zoom.jpg,Levi's,92693
+Levi's,http://www.koovs.com/200-brief-pack-of-2_11-92699.html,498,http://images.koovscdn.com/uploads/products/92699_5730fc98ede272e2531676b58717e621_image1_zoom.jpg,Levi's,92699
+Levi's,http://www.koovs.com/levis-300-colour-brief-92693.html,449,http://images.koovscdn.com/uploads/products/92693_d4e874df6c5e5042d193b594deba4654_image1_zoom.jpg,Levi's,92693
+Levi's,http://www.koovs.com/200-brief-pack-of-2-92695.html,498,http://images.koovscdn.com/uploads/products/92695_acaf713ed89bc91784bf83a55b2fd52b_image1_zoom.jpg,Levi's,92695
+Marcello & Ferri,http://www.koovs.com/marcello--ferri-blue-smart-shoes-84943.html,2000,http://images.koovscdn.com/uploads/products/84943_be2d1fd626dacbaf285e7f466e6b259d_image1_zoom.jpg,Marcello & Ferri,84943
+Levi's,http://www.koovs.com/200-trunk-pack-of-2-92696.html,558,http://images.koovscdn.com/uploads/products/92696_0292622a0a693efbeb4dc0f0767e4679_image1_zoom.jpg,Levi's,92696
+Levi's,http://www.koovs.com/100-brief-pack-of-3-92701.html,525,http://images.koovscdn.com/uploads/products/92701_04c56bd3e5fd8262b64079924bf74402_image1_zoom.jpg,Levi's,92701
+Levi's,http://www.koovs.com/200-printed-trunks-pack-of-3-92704.html,867,http://images.koovscdn.com/uploads/products/92704_e9181bbc9d7d1fd2b5c40d1ac841cbc6_image1_zoom.jpg,Levi's,92704
+Levi's,http://www.koovs.com/200-trunk-pack-of-2_353-92698.html,558,http://images.koovscdn.com/uploads/products/92698_98090d70739b8b59ebaa74ba778ee7af_image1_zoom.jpg,Levi's,92698
+Mr Button,http://www.koovs.com/polka-dot-shirt-with-contrast-pu-collar-92401.html,1499,http://images.koovscdn.com/uploads/products/92401_dd298d61f948ee0b7dd0e9b123a8764b_image1_zoom.jpg,Mr Button,92401
+Mr Button,http://www.koovs.com/eyelet-details-dropped-armhole-tank-92404.html,799,http://images.koovscdn.com/uploads/products/92404_b4085b0a810b4b748f62a12cb278c383_image1_zoom.jpg,Mr Button,92404
+Mr Button,http://www.koovs.com/contrast-concealed-placket-shirt-92400.html,1499,http://images.koovscdn.com/uploads/products/92400_7c5b7bf7299f3361ca61fd00d999ab1f_image1_zoom.jpg,Mr Button,92400
+Levi's,http://www.koovs.com/200-brief-pack-of-2_60-92697.html,498,http://images.koovscdn.com/uploads/products/92697_14a9cb55f6afc2b8dd977f27371556c0_image1_zoom.jpg,Levi's,92697
+Levi's,http://www.koovs.com/200-printed-briefs-pack-of-3-92703.html,657,http://images.koovscdn.com/uploads/products/92703_ce00238c43546ee9ee17eab3730f08fd_image1_zoom.jpg,Levi's,92703
+Levi's,http://www.koovs.com/200-trunk-pack-of-2_177-92700.html,558,http://images.koovscdn.com/uploads/products/92700_7fda6a918bafa25eec27202ab32c6ffb_image1_zoom.jpg,Levi's,92700
+Mr Button,http://www.koovs.com/eyelet-detail-longline-t-shirt-with-patch-pocket-92410.html,899,http://images.koovscdn.com/uploads/products/92410_240032166e8b339cae2466845f02c14e_image1_zoom.jpg,Mr Button,92410
+Mr Button,http://www.koovs.com/contrast-eyelet-detail-dropped-armhole-tank-92405.html,699,http://images.koovscdn.com/uploads/products/92405_8f097532be7865c83df93eafbdabc162_image1_zoom.jpg,Mr Button,92405
+Mr Button,http://www.koovs.com/knee-rib-biker-joggers-93480.html,2099,http://images.koovscdn.com/uploads/products/93480_1279c231b8361ad7fc0c2a3e28d8370f_image1_zoom.jpg,Mr Button,93480
+Mr Button,http://www.koovs.com/camo-joggers_31-93481.html,2499,http://images.koovscdn.com/uploads/products/93481_1ad9bae39bf98248afc8f7677a576701_image1_zoom.jpg,Mr Button,93481
+Mr Button,http://www.koovs.com/striped-slim-trousers-93485.html,2499,http://images.koovscdn.com/uploads/products/93485_224bcaaa2612f18521bef5fc700c4939_image1_zoom.jpg,Mr Button,93485
+Mr Button,http://www.koovs.com/neoprene-biker-jacket-93477.html,3499,http://images.koovscdn.com/uploads/products/93477_65402a6a577e02e3adbd4130651bbf8a_image1_zoom.jpg,Mr Button,93477
+Mr Button,http://www.koovs.com/neoprene-bomber-jacket-93478.html,3299,http://images.koovscdn.com/uploads/products/93478_e96e9e2edc18f3de0215b868342d1dcb_image1_zoom.jpg,Mr Button,93478
+Mr Button,http://www.koovs.com/jogger-with-camo-knee-patch-85307.html,1799,http://images.koovscdn.com/uploads/products/85307_b2caec2a611462b2bbfd1d388e3b71de_image1_zoom.jpg,Mr Button,85307
+Mr Button,http://www.koovs.com/longline-henley-with-striped-sleeve-93486.html,1099,http://images.koovscdn.com/uploads/products/93486_3082b0cd31dce5c2e253e20ad4d8dd8f_image1_zoom.jpg,Mr Button,93486
+Mr Button,http://www.koovs.com/utility-pocket-joggers-83541.html,1799,http://images.koovscdn.com/uploads/products/83541_977070a69f010c7ce8149325ee08d6af_image1_zoom.jpg,Mr Button,83541
+Mr Button,http://www.koovs.com/frayed-denim-joggers-92398.html,1799,http://images.koovscdn.com/uploads/products/92398_37bda61955ea7440f06a07860b5ff23b_image1_zoom.jpg,Mr Button,92398
+Mr Button,http://www.koovs.com/neoprene-colour-block-joggers-93479.html,2399,http://images.koovscdn.com/uploads/products/93479_9a4f780d45af3448e1806b6c4bbb8329_image1_zoom.jpg,Mr Button,93479
+Mr Button,http://www.koovs.com/shorts-with-contrast-hem-92403.html,1299,http://images.koovscdn.com/uploads/products/92403_458fdbb20722323868439e327c86bbd0_image1_zoom.jpg,Mr Button,92403
+Mr Button,http://www.koovs.com/longline-zipper-shirt_442-93483.html,2299,http://images.koovscdn.com/uploads/products/93483_41309fd877316eb957f95e3659e04047_image1_zoom.jpg,Mr Button,93483
+Mr Button,http://www.koovs.com/t-shirt-with-vertical-panel-85302.html,880,http://images.koovscdn.com/uploads/products/85302_a7c80cf54ecb5eb10a37ce6dea1ea190_image1_zoom.jpg,Mr Button,85302
+Mr Button,http://www.koovs.com/t-shirt-with-asymmetric-panel-85299.html,800,http://images.koovscdn.com/uploads/products/85299_d37c88d7fdecbc8196210b24ea7ec708_image1_zoom.jpg,Mr Button,85299
+Mr Button,http://www.koovs.com/floral-printed-trousers-92406.html,1799,http://images.koovscdn.com/uploads/products/92406_94fc76ee83307438e7bccef9331fc65f_image1_zoom.jpg,Mr Button,92406
+Mr Button,http://www.koovs.com/shirt-with-rib-collar-85308.html,810,http://images.koovscdn.com/uploads/products/85308_693ab786bd3cff3b295ee0d0acab0a98_image1_zoom.jpg,Mr Button,85308
+Mr Button,http://www.koovs.com/longline-zipper-shirt-93482.html,2299,http://images.koovscdn.com/uploads/products/93482_f5aa5c7ac4c87204d91b77de910c85ae_image1_zoom.jpg,Mr Button,93482
+Mr Button,http://www.koovs.com/terry-jogger-92397.html,1599,http://images.koovscdn.com/uploads/products/92397_41a84667912035051fc6387939003162_image1_zoom.jpg,Mr Button,92397
+Mr Button,http://www.koovs.com/sweatshirt-with-contrast-rib-85304.html,760,http://images.koovscdn.com/uploads/products/85304_b60d835d253a2609a4b95a2d14233dd0_image1_zoom.jpg,Mr Button,85304
+Mr Button,http://www.koovs.com/mrbutton-smart-trousers-84693.html,2299,http://images.koovscdn.com/uploads/products/84693_d1f1fd6f912d755e17b394a56e25a093_image1_zoom.jpg,Mr Button,84693
+Mr Button,http://www.koovs.com/shirt-with-zip-collar-85309.html,1599,http://images.koovscdn.com/uploads/products/85309_2b65c0f4024ecbceafe36d1fc6f1508e_image1_zoom.jpg,Mr Button,85309
+Mr Button,http://www.koovs.com/tank-top-with-zip-detail-85297.html,799,http://images.koovscdn.com/uploads/products/85297_fdb2a88c039e65d5b37d6189e5d1cee9_image1_zoom.jpg,Mr Button,85297
+Mr Button,http://www.koovs.com/t-shirt-with-y-panel-85300.html,699,http://images.koovscdn.com/uploads/products/85300_9a42f5787468352d7dc0aa4e99885967_image1_zoom.jpg,Mr Button,85300
+Mr Button,http://www.koovs.com/t-shirt-with-leather-zip-patch-85301.html,495,http://images.koovscdn.com/uploads/products/85301_4d463499cb0965a187067db0e0b363a5_image1_zoom.jpg,Mr Button,85301
+Mr Button,http://www.koovs.com/contrast-check-roll-up-trousers-92408.html,1699,http://images.koovscdn.com/uploads/products/92408_2644e76e2553db423e6974f199b6421a_image1_zoom.jpg,Mr Button,92408
+Mr Button,http://www.koovs.com/striped-longline-shirt-93484.html,2299,http://images.koovscdn.com/uploads/products/93484_1d85a8d384cce88a35d4319dfc92e4fb_image1_zoom.jpg,Mr Button,93484
+Mr Button,http://www.koovs.com/contrast-panel-longline-t-shirt-92409.html,999,http://images.koovscdn.com/uploads/products/92409_be2c50d5c1c1bf86a9a0cce65e7b81c2_image1_zoom.jpg,Mr Button,92409
+Mr Button,http://www.koovs.com/terry-jogger-with-pocket-detailing-85306.html,1360,http://images.koovscdn.com/uploads/products/85306_43721d944ef7a842492b6920ebf10d26_image1_zoom.jpg,Mr Button,85306
+Mr Button,http://www.koovs.com/mrbutton-contrast-waistband-cuffed-trouser-84690.html,2299,http://images.koovscdn.com/uploads/products/84690_49a57cb24fed2ede96075c2f736de626_image1_zoom.jpg,Mr Button,84690
+Mr Button,http://www.koovs.com/contrast-stripe-sailor-shorts-in-terry-92402.html,1299,http://images.koovscdn.com/uploads/products/92402_574160bccd8637932fee7e4ad7863960_image1_zoom.jpg,Mr Button,92402
+Mr Button,http://www.koovs.com/mrbutton-cuffed-trouser-with-side-leather-patch-84689.html,1399,http://images.koovscdn.com/uploads/products/84689_1d7477019139ed3744471ca60429f051_image1_zoom.jpg,Mr Button,84689
+Noble Faith,http://www.koovs.com/noble-faith-shirt_47-85776.html,1499,http://images.koovscdn.com/uploads/products/85776_d020be50835c0fe4c624f6bb40879102_image1_zoom.jpg,Noble Faith,85776
+Mr Button,http://www.koovs.com/contrast-panel-joggers_182-83540.html,1360,http://images.koovscdn.com/uploads/products/83540_cfe703c281b20c49546b2dd59fc277d7_image1_zoom.jpg,Mr Button,83540
+Noble Faith,http://www.koovs.com/overlap-panel-shirt-in-poplin_289-88720.html,1499,http://images.koovscdn.com/uploads/products/88720_cdbeb5a9115180ec3756b5ac96009840_image1_zoom.jpg,Noble Faith,88720
+Mr Button,http://www.koovs.com/trousers-with-biker-knee-detail-92407.html,1899,http://images.koovscdn.com/uploads/products/92407_35275df727176220e154e0cf9a15e8c4_image1_zoom.jpg,Mr Button,92407
+Mr Button,http://www.koovs.com/zip-front-shirt_52-85310.html,1119,http://images.koovscdn.com/uploads/products/85310_2271bd25714c06be5606c23b3023d968_image1_zoom.jpg,Mr Button,85310
+Noble Faith,http://www.koovs.com/shacket-with-zips-85222.html,2475,http://images.koovscdn.com/uploads/products/85222_b00e0ac5f4e9d73fd803585c287f209a_image1_zoom.jpg,Noble Faith,85222
+Noble Faith,http://www.koovs.com/cuffed-camo-joggers-with-cargo-pockets-92213.html,1999,http://images.koovscdn.com/uploads/products/92213_147e5104e7109d4c6ddf28a6c65f0512_image1_zoom.jpg,Noble Faith,92213
+Noble Faith,http://www.koovs.com/printed-shirt_329-89798.html,1399,http://images.koovscdn.com/uploads/products/89798_facafe27e8f2b54786c2f110349e1d2a_image1_zoom.jpg,Noble Faith,89798
+Noble Faith,http://www.koovs.com/overlap-panel-shirt-in-poplin-88719.html,1499,http://images.koovscdn.com/uploads/products/88719_4765361cd66e42f7921bcd9726764f2d_image1_zoom.jpg,Noble Faith,88719
+Noble Faith,http://www.koovs.com/contrast-panel-jog-pants-92207.html,1599,http://images.koovscdn.com/uploads/products/92207_d34ea8965d67b7b62b953e8171130a5e_image1_zoom.jpg,Noble Faith,92207
+Noble Faith,http://www.koovs.com/noble-faith-shirt_144-85775.html,1050,http://images.koovscdn.com/uploads/products/85775_65c36ef3740573f0fc1a76a44b81e3fc_image1_zoom.jpg,Noble Faith,85775
+Noble Faith,http://www.koovs.com/playsuit-with-pockets-92211.html,1999,http://images.koovscdn.com/uploads/products/92211_ffc91684e8e8764a796eb09ab0ad87ed_image1_zoom.jpg,Noble Faith,92211
+Noble Faith,http://www.koovs.com/noble-faith-shirt_64-85774.html,1050,http://images.koovscdn.com/uploads/products/85774_571684f7cb464c596e180e200e5e3166_image1_zoom.jpg,Noble Faith,85774
+Noble Faith,http://www.koovs.com/noble-faith-shirt_293-84639.html,1299,http://images.koovscdn.com/uploads/products/84639_60cd63a9f647478449fc440f03ef839b_image1_zoom.jpg,Noble Faith,84639
+Noble Faith,http://www.koovs.com/contrast-metal-zipper-shirt-88721.html,1499,http://images.koovscdn.com/uploads/products/88721_a504b8a2f675b19912d5c7e47683fd20_image1_zoom.jpg,Noble Faith,88721
+Noble Faith,http://www.koovs.com/shirt-with-zipper-detail-on-collar-92217.html,1399,http://images.koovscdn.com/uploads/products/92217_76aa54071009d6f90cd60a38756d9585_image1_zoom.jpg,Noble Faith,92217
+Noble Faith,http://www.koovs.com/noble-faith-shirt_315-84636.html,1299,http://images.koovscdn.com/uploads/products/84636_4722e71d6c80b9b09cb52eb5a36cd50c_image1_zoom.jpg,Noble Faith,84636
+Noble Faith,http://www.koovs.com/noble-faith-shirt_247-85224.html,1425,http://images.koovscdn.com/uploads/products/85224_47edd034d58343ac042f1caefcf1e3ac_image1_zoom.jpg,Noble Faith,85224
+Noble Faith,http://www.koovs.com/noble-faith-shirt-with-contrast-sleeve-detail_460-84341.html,1199,http://images.koovscdn.com/uploads/products/84341_d168314fb1e37c82389cf11a81031ea3_image1_zoom.jpg,Noble Faith,84341
+Noble Faith,http://www.koovs.com/printed-shirt_386-89799.html,1399,http://images.koovscdn.com/uploads/products/89799_0f72295da582543694ee07b309d203c6_image1_zoom.jpg,Noble Faith,89799
+Noble Faith,http://www.koovs.com/twin-pocket-shirt-with-patch-89802.html,1399,http://images.koovscdn.com/uploads/products/89802_76b41cd91b9b7b450262d1be5da41852_image1_zoom.jpg,Noble Faith,89802
+Noble Faith,http://www.koovs.com/noble-faith-shirt_475-84635.html,1899,http://images.koovscdn.com/uploads/products/84635_babb31f0674cf0ace6f8383793c755fa_image1_zoom.jpg,Noble Faith,84635
+Noble Faith,http://www.koovs.com/noble-faith-shirt-with-contrast-sleeve-detail-84340.html,1199,http://images.koovscdn.com/uploads/products/84340_b0de848b0e10a129d9c527c07ae34e49_image1_zoom.jpg,Noble Faith,84340
+Noble Faith,http://www.koovs.com/slim-fit-shirt-with-cut--sew-92214.html,1599,http://images.koovscdn.com/uploads/products/92214_30c8838225da441cd9ebebea1a0439ef_image1_zoom.jpg,Noble Faith,92214
+Noble Faith,http://www.koovs.com/twill-denim-shacket-89806.html,3299,http://images.koovscdn.com/uploads/products/89806_ca5eb198beb15bfe3f6253dee6f0f3f8_image1_zoom.jpg,Noble Faith,89806
+Noble Faith,http://www.koovs.com/striped-sleeve-shacket-85223.html,2475,http://images.koovscdn.com/uploads/products/85223_027a6d03835d9c7338832294137f4f82_image1_zoom.jpg,Noble Faith,85223
+Noble Faith,http://www.koovs.com/noble-faith-shacket-84641.html,1999,http://images.koovscdn.com/uploads/products/84641_624fe56bbf635e30e3575a99f9b940a7_image1_zoom.jpg,Noble Faith,84641
+Noble Faith,http://www.koovs.com/shirt_400-89805.html,1299,http://images.koovscdn.com/uploads/products/89805_c6eec1261ec343e3ae16b6387b521a15_image1_zoom.jpg,Noble Faith,89805
+Noble Faith,http://www.koovs.com/cuffed-camo-joggers-with-cargo-pockets-92212.html,1999,http://images.koovscdn.com/uploads/products/92212_3116ae8ad83911d4bcc09f02ae135bde_image1_zoom.jpg,Noble Faith,92212
+Noble Faith,http://www.koovs.com/noble-faith-shirt-84634.html,1200,http://images.koovscdn.com/uploads/products/84634_2fee7bd6eafbabf3ade189ac607b9243_image1_zoom.jpg,Noble Faith,84634
+Noble Faith,http://www.koovs.com/twin-pocket-shirt-with-patch_211-89803.html,1499,http://images.koovscdn.com/uploads/products/89803_c9309bfe26bf902a9c1408d453da7ac4_image1_zoom.jpg,Noble Faith,89803
+Noble Faith,http://www.koovs.com/denim-shirt-with-washed-panel-92215.html,1699,http://images.koovscdn.com/uploads/products/92215_b1d458ef3c6691bf9296d3aa914e5323_image1_zoom.jpg,Noble Faith,92215
+Noble Faith,http://www.koovs.com/lightening-repeat-print-shirt_425-92210.html,1399,http://images.koovscdn.com/uploads/products/92210_7bf2a2a91a1865b2e6ed05ab549d6bf7_image1_zoom.jpg,Noble Faith,92210
+Noble Faith,http://www.koovs.com/poplin-shirt-with-contrast-piping-88722.html,909,http://images.koovscdn.com/uploads/products/88722_bccb4500d15d77db533e88dab9d8e506_image1_zoom.jpg,Noble Faith,88722
+Noble Faith,http://www.koovs.com/shirt-contrast-placket-92216.html,1299,http://images.koovscdn.com/uploads/products/92216_b8e0403630fabcbdfd75819a3f2b3c6e_image1_zoom.jpg,Noble Faith,92216
+Noble Faith,http://www.koovs.com/noble-faith-shirt_239-85777.html,1499,http://images.koovscdn.com/uploads/products/85777_efdd3847efe62c6cc5a830fd9d1e9c23_image1_zoom.jpg,Noble Faith,85777
+Noble Faith,http://www.koovs.com/lightening-repeat-print-shirt-92209.html,1399,http://images.koovscdn.com/uploads/products/92209_6f27a44cdc341f1b4eba8893d87806b9_image1_zoom.jpg,Noble Faith,92209
+Pataaka,http://www.koovs.com/tinted-grey-round-sunglasses-81180.html,1299,http://images.koovscdn.com/uploads/products/81180_2ad80aaa9e430ce0eb3fed01bffabfab_image1_zoom.jpg,Pataaka,81180
+Noble Faith,http://www.koovs.com/poplin-shirt-89801.html,1299,http://images.koovscdn.com/uploads/products/89801_cdf1e5b48e20baa42de582d29780a7bb_image1_zoom.jpg,Noble Faith,89801
+Nike,http://www.koovs.com/nike-benassi-just-do-it-sandals-88570.html,2195,http://images.koovscdn.com/uploads/products/88570_9c9be5dc329f64c0ff26965077aed649_image1_zoom.jpg,Nike,88570
+Noble Faith,http://www.koovs.com/shirt_381-89804.html,1299,http://images.koovscdn.com/uploads/products/89804_fe48bf6fccc5d741f74382859be4e23c_image1_zoom.jpg,Noble Faith,89804
+Pataaka,http://www.koovs.com/round-sunglasses-with-slim-arms-81179.html,1399,http://images.koovscdn.com/uploads/products/81179_9ce9471a48f5c7e6de32d000bafbef33_image1_zoom.jpg,Pataaka,81179
+Pataaka,http://www.koovs.com/pataaka-round-sunglasses_166-90270.html,1499,http://images.koovscdn.com/uploads/products/90270_358db471294f7999d78d192fe826f3ac_image1_zoom.jpg,Pataaka,90270
+Pataaka,http://www.koovs.com/pataaka-round-sunglasses-90253.html,899,http://images.koovscdn.com/uploads/products/90253_4cca15d3a0a2a971c8ccf6c599d9541e_image1_zoom.jpg,Pataaka,90253
+Pataaka,http://www.koovs.com/camo-frame-round-sunglasses-81171.html,1499,http://images.koovscdn.com/uploads/products/81171_9076b203fa6526825ff8ae3ff6e6ea88_image1_zoom.jpg,Pataaka,81171
+Nike,http://www.koovs.com/nike-dry-training-shorts-with-enlarged-logo-88489.html,1895,http://images.koovscdn.com/uploads/products/88489_7c61ef722f9242c1fb674cc18108795a_image1_zoom.jpg,Nike,88489
+Nike,http://www.koovs.com/nike-pro-hypercool-pants-89058.html,2495,http://images.koovscdn.com/uploads/products/89058_a9ac7e3d7383d763f9861efd13ea1f62_image1_zoom.jpg,Nike,89058
+Nike,http://www.koovs.com/3ppk-cushion-quarter-smlxl-84934.html,595,http://images.koovscdn.com/uploads/products/84934_ffc7260d466bdd67aeb75ebf12d84f0b_image1_zoom.jpg,Nike,84934
+Nike,http://www.koovs.com/nike-dry-football-shorts-with-side-panel-89062.html,1295,http://images.koovscdn.com/uploads/products/89062_6b3ef9ff5b20fe35d28abc57a895961a_image1_zoom.jpg,Nike,89062
+Nike,http://www.koovs.com/nike-liteforce-iii-plimsolls_203-89724.html,2995,http://images.koovscdn.com/uploads/products/89724_de413d12a3f481a554ce0777bd13398c_image1_zoom.jpg,Nike,89724
+Nike,http://www.koovs.com/nike-kaishi-20-plimsolls_306-89731.html,6195,http://images.koovscdn.com/uploads/products/89731_63fedf96617929eb709169be0dc54b54_image1_zoom.jpg,Nike,89731
+Nike,http://www.koovs.com/nike-chroma-5-flip-flop_48-89741.html,1395,http://images.koovscdn.com/uploads/products/89741_911e58f0712b750bbd3eb9cfc20ab21a_image1_zoom.jpg,Nike,89741
+Nike,http://www.koovs.com/nike-court-royale-plimsolls-89727.html,4495,http://images.koovscdn.com/uploads/products/89727_40faade1e6031a8c8edecd2d4c2af6ed_image1_zoom.jpg,Nike,89727
+Nike,http://www.koovs.com/nike-sportswear-jersey-club-shorts_110-89056.html,1595,http://images.koovscdn.com/uploads/products/89056_0adefa3868ffd51b7d78c378d83625c7_image1_zoom.jpg,Nike,89056
+Nike,http://www.koovs.com/kawa-shower_287-85468.html,1595,http://images.koovscdn.com/uploads/products/85468_b3e8d6247d05ebc0ac8a69893be234fd_image1_zoom.jpg,Nike,85468
+Nike,http://www.koovs.com/3ppk-cushion-low-cut-smlxl-77466.html,395,http://images.koovscdn.com/uploads/products/77466_76c4ba75206d8db29c1ad2a14fb34732_image1_zoom.jpg,Nike,77466
+Nike,http://www.koovs.com/kawa-shower-85467.html,1595,http://images.koovscdn.com/uploads/products/85467_4f8b96182c0c6cf94bea2b979d5da554_image1_zoom.jpg,Nike,85467
+Nike,http://www.koovs.com/nike-chroma-5-flip-flops_286-89719.html,1395,http://images.koovscdn.com/uploads/products/89719_67766bb4005833b0d07c184aa3fa5e6f_image1_zoom.jpg,Nike,89719
+Nike,http://www.koovs.com/pack-of-3-cushion-no-show-socks-76534.html,595,http://images.koovscdn.com/uploads/products/76534_e6fd6c85d4212575c97a7cb187cf674f_image1_zoom.jpg,Nike,76534
+Nike,http://www.koovs.com/nike-court-borough-low-plimsolls-89726.html,4295,http://images.koovscdn.com/uploads/products/89726_d9a9057d2c860c4996e92bc0fc65402f_image1_zoom.jpg,Nike,89726
+Nike,http://www.koovs.com/nike-breathe-training-logo-t-shirt-89078.html,2295,http://images.koovscdn.com/uploads/products/89078_2bcb037c12e097823f2209b8d6f90ce9_image1_zoom.jpg,Nike,89078
+Nike,http://www.koovs.com/nike-kaishi-20-plimsolls-88579.html,6195,http://images.koovscdn.com/uploads/products/88579_52399342a55f9808f65c23837cf79418_image1_zoom.jpg,Nike,88579
+Nike,http://www.koovs.com/nike-jordan-iconic-23-t-shirt-89077.html,1695,http://images.koovscdn.com/uploads/products/89077_ffa7dfa95d96a9cb0638fef510bb914e_image1_zoom.jpg,Nike,89077
+Nike,http://www.koovs.com/nike-classic-north_30-85803.html,1995,http://images.koovscdn.com/uploads/products/85803_46a751a27b34c5bba73c9d2dc100f173_image1_zoom.jpg,Nike,85803
+Nike,http://www.koovs.com/nike-dri-fit-lightweight-no-show-training-sock-3-pair-89793.html,895,http://images.koovscdn.com/uploads/products/89793_ee80f9dde1b2c66b125502de02f6dfaa_image1_zoom.jpg,Nike,89793
+Nike,http://www.koovs.com/nike-air-epic-speed-tr-ii-trainers-89729.html,5295,http://images.koovscdn.com/uploads/products/89729_cae5c0dd96358876bc04c7c4447b167b_image1_zoom.jpg,Nike,89729
+New Look,http://www.koovs.com/new-look-danny-jersey-runner-85423.html,1884,http://images.koovscdn.com/uploads/products/85423_03685a75ccad284038cef56d7fb64f66_image1_zoom.jpg,New Look,85423
+Nike,http://www.koovs.com/nike-sportswear-modern-cuffed-jogger-89057.html,3295,http://images.koovscdn.com/uploads/products/89057_e0ffc4ea7a8e22cde8e22dafda031904_image1_zoom.jpg,Nike,89057
+Nike,http://www.koovs.com/nike-lunar-converge-running-shoe-89732.html,6195,http://images.koovscdn.com/uploads/products/89732_cff5540de4c39fe3194b48223ba5e2bb_image1_zoom.jpg,Nike,89732
+Nike,http://www.koovs.com/nike-pro-cool-dri-fit-t-shirt-in-long-sleeves-88487.html,2095,http://images.koovscdn.com/uploads/products/88487_4824ef1329bebd69bbfe8ce1cc4ceb1b_image1_zoom.jpg,Nike,88487
+Nike,http://www.koovs.com/nike-legend-20-dri-fit-training-t-shirt_153-89055.html,1295,http://images.koovscdn.com/uploads/products/89055_5c4670f367714ea6d1bfd0def5dec4b6_image1_zoom.jpg,Nike,89055
+New Look,http://www.koovs.com/new-look-active-stretch-t-shirt_167-90313.html,895,http://images.koovscdn.com/uploads/products/90313_3217642ca5c1b12527e82ac56f4a9c93_image1_zoom.jpg,New Look,90313
+Nike,http://www.koovs.com/nike-woven-track-suit-84907.html,3995,http://images.koovscdn.com/uploads/products/84907_9fe69ce8c9ad7137df3fce04b508352e_image1_zoom.jpg,Nike,84907
+New Look,http://www.koovs.com/new-look-metal-aviator-77256.html,199,http://images.koovscdn.com/uploads,New Look,77256
+Nike,http://www.koovs.com/nike-club-team-swoosh-duffle-medium-bag-88591.html,2695,http://images.koovscdn.com/uploads/products/88591_e6f22abf396820430dbc22c861a06a7a_image1_zoom.jpg,Nike,88591
+New Look,http://www.koovs.com/new-look-metal-aviator-77256.html,199,http://images.koovscdn.com/uploads,New Look,77256
+New Look,http://www.koovs.com/new-look-camo-curved-peak-cap-91003.html,895,http://images.koovscdn.com/uploads/products/91003_5405e0e7f2491bbb28bd29157bb157eb_image1_zoom.jpg,New Look,91003
+New Look,http://www.koovs.com/new-look-active-stretch-t-shirt_167-90313.html,1095,http://images.koovscdn.com/uploads/products/90313_7a7b6b32459ec458da011edb97350c2c_image1_zoom.jpg,New Look,90313
+New Look,http://www.koovs.com/new-look-authentic-slim-tapered-jeans-88358.html,3495,http://images.koovscdn.com/uploads/products/88358_4c549ec596eb49ebd8c516f0dec4c7de_image1_zoom.jpg,New Look,88358
+New Look,http://www.koovs.com/new-look-skinny-fit-trouser-85419.html,1394,http://images.koovscdn.com/uploads/products/85419_19dd77c78eb1364dd2b6f673384105f2_image1_zoom.jpg,New Look,85419
+New Look,http://www.koovs.com/new-look-shirt_154-79435.html,1590,http://images.koovscdn.com/uploads/products/79435_0d025abaf7b78e10905e5bd276c3e3b9_image1_zoom.jpg,New Look,79435
+New Look,http://www.koovs.com/east-west-flock-tee-85418.html,895,http://images.koovscdn.com/uploads/products/85418_bb02d17d028a6dfc88c3f41e38a441b9_image1_zoom.jpg,New Look,85418
+New Look,http://www.koovs.com/new-look-34-sleeve-curved-hem-t-shirt-86460.html,895,http://images.koovscdn.com/uploads/products/86460_e380e0564fb25794799061e5a9f3f48d_image1_zoom.jpg,New Look,86460
+New Look,http://www.koovs.com/new-look-axl-metal-navigator-77247.html,695,http://images.koovscdn.com/uploads/products/77247_61455742678db6ede0d58e550bcbd816_image1_zoom.jpg,New Look,77247
+New Look,http://www.koovs.com/new-look-34-sleeve-curved-hem-t-shirt-86460.html,895,http://images.koovscdn.com/uploads/products/86460_a25cdefed2becbed3ec6226684714f31_image1_zoom.jpg,New Look,86460
+New Look,http://www.koovs.com/new-look-high-roll-t-shirt-90310.html,695,http://images.koovscdn.com/uploads/products/90310_2e19b66406897833bde4ca2a96ff3e20_image1_zoom.jpg,New Look,90310
+New Look,http://www.koovs.com/new-look-high-roll-t-shirt-90310.html,695,http://images.koovscdn.com/uploads/products/90310_89aaf5359ce5dddaf20ba8214dc8965b_image1_zoom.jpg,New Look,90310
+MR. BUTTON Smart Check Pleated Trousers,http://www.koovs.com/mrbutton-smart-check-trousers-84691.html,1609,http://images.koovscdn.com/uploads/products/84691_20d377ea2df3506773cc26873bcc9332_image1_zoom.jpg,,84691
+New Era,http://www.koovs.com/new-era-flag-9forty_86-79402.html,1195,http://images.koovscdn.com/uploads/products/79402_f2ebaa060fc75f1ee83183e1bd3060bf_image1_zoom.jpg,New Era,79402
+New Look,http://www.koovs.com/new-look-high-roll-t-shirt-90310.html,695,http://images.koovscdn.com/uploads/products/90310_77ccf71521d93659a082cc425e741e9c_image1_zoom.jpg,New Look,90310
+New Era,http://www.koovs.com/new-era-manchester-united-cap_30-74509.html,1695,http://images.koovscdn.com/uploads/products/74509_95ee66fb24f508b1f269be32d4016642_image1_zoom.jpg,New Era,74509
+Marcello & Ferri,http://www.koovs.com/marcello--ferri-black-patent-tan-smart-shoes-84949.html,2320,http://images.koovscdn.com/uploads/products/84949_0a9c8f42405fa0dd83a04b6d57d8cc0a_image1_zoom.jpg,Marcello & Ferri,84949
+Levi's,http://www.koovs.com/100-trunk-pack-of-3-92702.html,597,http://images.koovscdn.com/uploads/products/92702_359a5683c2d21f3cb4ac2b5aac5e2c91_image1_zoom.jpg,Levi's,92702
+Pataaka,http://www.koovs.com/pataaka-round-sunglasses_113-90268.html,1499,http://images.koovscdn.com/uploads/products/90268_a6574033fd570dcd8c72e504280df9b3_image1_zoom.jpg,Pataaka,90268
+Pataaka,http://www.koovs.com/aviators-with-slim-metallic-temples-81185.html,1499,http://images.koovscdn.com/uploads/products/81185_c41f2da0701602ee59a9e7aa2ff49c14_image1_zoom.jpg,Pataaka,81185
+Noble Faith,http://www.koovs.com/button-down-shirt-89800.html,1399,http://images.koovscdn.com/uploads/products/89800_db8012cc5fc0e4c6bed717d8673fc02d_image1_zoom.jpg,Noble Faith,89800
+New Era,http://www.koovs.com/new-era-league-essential-9forty-112-78916.html,1395,http://images.koovscdn.com/uploads/products/78916_8328072ed2432afabe8bf5e6c1983796_image1_zoom.jpg,New Era,78916
+New Era,http://www.koovs.com/new-era-flag-9forty-79400.html,1195,http://images.koovscdn.com/uploads/products/79400_17c24b2cda3755016af631300f7d2b6d_image1_zoom.jpg,New Era,79400
+New Era,http://www.koovs.com/new-era-neon-pop-cap_26-74502.html,1595,http://images.koovscdn.com/uploads/products/74502_3007cdb66267e5822c2ae37f074b9ab8_image1_zoom.jpg,New Era,74502
+New Era,http://www.koovs.com/9fifty-original-fit-denim-hero-snapback-74608.html,2895,http://images.koovscdn.com/uploads/products/74608_b6c0ccfb2d273a45bf460d2052518b60_image1_zoom.jpg,New Era,74608
+Pataaka,http://www.koovs.com/pataaka-round-sunglasses_279-90258.html,1099,http://images.koovscdn.com/uploads/products/90258_9025863eacae32d987dfdcfcbdd200a3_image1_zoom.jpg,Pataaka,90258
+Pataaka,http://www.koovs.com/pataaka-pilot-sunglasses-90264.html,1199,http://images.koovscdn.com/uploads/products/90264_e5677f0e7551dbfcf9f95a1e762ba773_image1_zoom.jpg,Pataaka,90264
+Pataaka,http://www.koovs.com/hingeless-round-sunglasses_354-81184.html,1199,http://images.koovscdn.com/uploads/products/81184_f4c750648aa41e5d8aad36fbba7202ec_image1_zoom.jpg,Pataaka,81184
+Pataaka,http://www.koovs.com/hingeless-round-sunglasses-81183.html,1199,http://images.koovscdn.com/uploads/products/81183_b3729505c40b5a7b35dfb82c2d71602a_image1_zoom.jpg,Pataaka,81183
+Pataaka,http://www.koovs.com/desert-safari-round-sunglasses-81173.html,1499,http://images.koovscdn.com/uploads/products/81173_dd0c73ed7d4bd0393f969970e8e765bd_image1_zoom.jpg,Pataaka,81173
+Pataaka,http://www.koovs.com/angular-aviators-81178.html,1399,http://images.koovscdn.com/uploads/products/81178_d2250fe9455cf5a59cbfbc36230b1cc9_image1_zoom.jpg,Pataaka,81178
+Pataaka,http://www.koovs.com/chunky-round-sunglasses_428-81176.html,1499,http://images.koovscdn.com/uploads/products/81176_192eb032d01514d6c62741efe71de217_image1_zoom.jpg,Pataaka,81176
+Pataaka,http://www.koovs.com/pataaka-round-sunglasses_463-90267.html,1499,http://images.koovscdn.com/uploads/products/90267_c526467fb4cf23a93b739f74ba60e368_image1_zoom.jpg,Pataaka,90267
+Pataaka,http://www.koovs.com/pataaka-pilot-frames-90256.html,1099,http://images.koovscdn.com/uploads/products/90256_b527a84f4c09013ab038dc7bb4a7948b_image1_zoom.jpg,Pataaka,90256
+Pataaka,http://www.koovs.com/pataaka-round-sunglasses_375-90260.html,1199,http://images.koovscdn.com/uploads/products/90260_3b69a8bd004c2ef96f5d3b4ebd784837_image1_zoom.jpg,Pataaka,90260
+Pataaka,http://www.koovs.com/pataaka-round-sunglasses_91-90271.html,1599,http://images.koovscdn.com/uploads/products/90271_fc0442009f6bf40ff0dcd467fca77421_image1_zoom.jpg,Pataaka,90271
+Pataaka,http://www.koovs.com/pataaka-round-sunglasses_440-90261.html,1199,http://images.koovscdn.com/uploads/products/90261_6e734f9e0e91a1af29635fe5a2e9b41a_image1_zoom.jpg,Pataaka,90261
+Pataaka,http://www.koovs.com/pataaka-round-sunglasses_137-90269.html,1499,http://images.koovscdn.com/uploads/products/90269_907be801a71bf84786b8002f5fc298f5_image1_zoom.jpg,Pataaka,90269
+Pataaka,http://www.koovs.com/pataaka-round-sunglasses_232-90272.html,1599,http://images.koovscdn.com/uploads/products/90272_fddc43719bfe8ffe1f82d98aa1b0f5c1_image1_zoom.jpg,Pataaka,90272
+Pataaka,http://www.koovs.com/pataaka-pilot-sunglasses_201-90266.html,1299,http://images.koovscdn.com/uploads/products/90266_03b280d987de4b569d4aff0c89cc89b3_image1_zoom.jpg,Pataaka,90266
+Pataaka,http://www.koovs.com/round-frame-sunnies-with-camo-accents-75693.html,1199,http://images.koovscdn.com/uploads/products/75693_f2c88e2699ba73ecdef3aa73c9276234_image1_zoom.jpg,Pataaka,75693
+Pataaka,http://www.koovs.com/pataaka-square-sunglasses-90255.html,899,http://images.koovscdn.com/uploads/products/90255_b724d2f215ff540978641cb7ad1fa16e_image1_zoom.jpg,Pataaka,90255
+Nike,http://www.koovs.com/nike-tanjun-plimsolls_188-89728.html,4795,http://images.koovscdn.com/uploads/products/89728_8d289abc6f45fad40c40ae7c58304174_image1_zoom.jpg,Nike,89728
+Nike,http://www.koovs.com/nike-futura-true-cap-81666.html,1295,http://images.koovscdn.com/uploads/products/81666_9a31967d70c08daf4e1e6b1f753d008b_image1_zoom.jpg,Nike,81666
+Nike,http://www.koovs.com/nike-dry-training-shorts-with-enlarged-logo_340-88490.html,1895,http://images.koovscdn.com/uploads/products/88490_7860034e3767eb549ec68476afde2217_image1_zoom.jpg,Nike,88490
+Nike,http://www.koovs.com/nike-sportswear-futura-icon-t-shirt-89050.html,1295,http://images.koovscdn.com/uploads/products/89050_d86598d8fcfa8843cb193a1f24b5fead_image1_zoom.jpg,Nike,89050
+Pataaka,http://www.koovs.com/half-moon-sunnies-75690.html,1199,http://images.koovscdn.com/uploads/products/75690_5afecca8d3ad702ddaa5be5289777bb0_image1_zoom.jpg,Pataaka,75690
+Nike,http://www.koovs.com/nike-benassi-just-do-it-sandal_86-85466.html,2195,http://images.koovscdn.com/uploads/products/85466_7dfc21e3d5c9cf1605c65053f9860540_image1_zoom.jpg,Nike,85466
+Nike,http://www.koovs.com/nike-legend-20-dri-fit-training-t-shirt-89054.html,1295,http://images.koovscdn.com/uploads/products/89054_9f70afe882c5b8c13569e8fd147db4b3_image1_zoom.jpg,Nike,89054
+Nike,http://www.koovs.com/nike-rf-u-nk-arobill-clc99-cap_207-89767.html,1295,http://images.koovscdn.com/uploads/products/89767_429bd52e020ef20de413f2efe593f966_image1_zoom.jpg,Nike,89767
+Nike,http://www.koovs.com/nike-rf-u-nk-arobill-clc99-cap-89766.html,1295,http://images.koovscdn.com/uploads/products/89766_72c30ee3d6dee2d9e0a95d1b9907557d_image1_zoom.jpg,Nike,89766
+Nike,http://www.koovs.com/nike-swoosh-block-t-shirt-84902.html,1495,http://images.koovscdn.com/uploads/products/84902_d2dd8f516221c9bdcfc8393bb076b314_image1_zoom.jpg,Nike,84902
+Nike,http://www.koovs.com/u-nsw-cap-84914.html,795,http://images.koovscdn.com/uploads/products/84914_64fc20b543cf9c7ae6b1b912f011d7b6_image1_zoom.jpg,Nike,84914
+New Look,http://www.koovs.com/new-look-rubberised-link-bracelet-watch-86462.html,1795,http://images.koovscdn.com/uploads/products/86462_1eea577fc45f31f55b662eb0c16377e2_image1_zoom.jpg,New Look,86462
+New Look,http://www.koovs.com/new-look-baker-boy-cap-86463.html,834,http://images.koovscdn.com/uploads/products/86463_03a70a06a4fbcc90a54d091dd07e9d98_image1_zoom.jpg,New Look,86463
+New Look,http://www.koovs.com/new-look-active-stretch-t-shirt-90312.html,895,http://images.koovscdn.com/uploads/products/90312_77894ae19fef4b385e9e3900c11ab63e_image1_zoom.jpg,New Look,90312
+Nike,http://www.koovs.com/nike-basketball-graphic-t-shirt-89060.html,1495,http://images.koovscdn.com/uploads/products/89060_9bf77914b115492d2a10c75ec68d240e_image1_zoom.jpg,Nike,89060
+New Look,http://www.koovs.com/new-look-rose-gold-watch-85421.html,1604,http://images.koovscdn.com/uploads/products/85421_0e9c0ea4777875a21fb80a8fc97eb358_image1_zoom.jpg,New Look,85421
+New Look,http://www.koovs.com/new-look-basic-jersey-shorts-90309.html,1095,http://images.koovscdn.com/uploads/products/90309_e5d783a4e1503f256107c874adfecd5b_image1_zoom.jpg,New Look,90309
+New Look,http://www.koovs.com/new-look-active-stretch-tank-90964.html,895,http://images.koovscdn.com/uploads/products/90964_d2275768972dbdd0cd364c835d024618_image1_zoom.jpg,New Look,90964
+New Look,http://www.koovs.com/new-look-sateen-bomber_343-86458.html,3220,http://images.koovscdn.com/uploads/products/86458_d9f6f8621e845cfdd52e4ba6e4c3470f_image1_zoom.jpg,New Look,86458
+New Look,http://www.koovs.com/new-look-active-stretch-tank-90964.html,895,http://images.koovscdn.com/uploads/products/90964_2cff3f7ca951bf2aa5bf45576dbf3f03_image1_zoom.jpg,New Look,90964
+New Look,http://www.koovs.com/new-look-slim-suit-trouser-88775.html,2295,http://images.koovscdn.com/uploads/products/88775_36d32c425756a9283bb9f77e51b66f3f_image1_zoom.jpg,New Look,88775
+New Look,http://www.koovs.com/new-look-longline-layered-t-shirt-90040.html,1495,http://images.koovscdn.com/uploads/products/90040_d6c27d07ece0463a52d74a22b35bbbd5_image1_zoom.jpg,New Look,90040
+New Look,http://www.koovs.com/new-look-twin-pocket-shacket-86455.html,2095,http://images.koovscdn.com/uploads/products/86455_924ed649e249b3d6ce72ae3e9b338d8c_image1_zoom.jpg,New Look,86455
+New Look,http://www.koovs.com/new-look-slim-suit-trouser-88775.html,2295,http://images.koovscdn.com/uploads/products/88775_17e3f047bb0ee07d73e47b220ae3251b_image1_zoom.jpg,New Look,88775
+New Look,http://www.koovs.com/new-look-basic-34-raglan-82891.html,1095,http://images.koovscdn.com/uploads/products/82891_941b1503f0b51e668617c52087c8bba9_image1_zoom.jpg,New Look,82891
+New Look,http://www.koovs.com/new-look-basic-34-raglan-82891.html,995,http://images.koovscdn.com/uploads/products/82891_90ba1d56ef7693158b55138ef33d2568_image1_zoom.jpg,New Look,82891
+New Look,http://www.koovs.com/new-look-skinny-jeans_326-86456.html,2195,http://images.koovscdn.com/uploads/products/86456_34ead8da52a6d9c2ff02d9f2707ef708_image1_zoom.jpg,New Look,86456
+New Look,http://www.koovs.com/new-look-basic-34-raglan-82891.html,694,http://images.koovscdn.com/uploads/products/82891_2a5f16bd6369ed7acb2a898787961db1_image1_zoom.jpg,New Look,82891
+New Look,http://www.koovs.com/new-look-brushed-twill-shirt-90308.html,1995,http://images.koovscdn.com/uploads/products/90308_8004dd1b09672ef6435a26c744deb3ae_image1_zoom.jpg,New Look,90308
+New Look,http://www.koovs.com/new-look-solid-t-shirt-86459.html,695,http://images.koovscdn.com/uploads/products/86459_907b44747c1d2a124436f442c64f5ac6_image1_zoom.jpg,New Look,86459
+New Look,http://www.koovs.com/new-look-solid-t-shirt-86459.html,695,http://images.koovscdn.com/uploads/products/86459_14e0b7aeadc32e11aad2ffc59d6c7d77_image1_zoom.jpg,New Look,86459
+New Look,http://www.koovs.com/new-look-solid-t-shirt-86459.html,484,http://images.koovscdn.com/uploads/products/86459_cf7b74ca1809daa520d2c5a2d2330100_image1_zoom.jpg,New Look,86459
+MTV Roadies,http://www.koovs.com/mtv-roadies-vintage-round-lenses-sunglasses-92842.html,699,http://images.koovscdn.com/uploads/products/92842_b3023e0e91531c8f74bed55e419da580_image1_zoom.jpg,MTV Roadies,92842
+New Look,http://www.koovs.com/new-look-t-shirt_39-88376.html,1044,http://images.koovscdn.com/uploads/products/88376_2a2a1159c637f3a01b69e923b40210d4_image1_zoom.jpg,New Look,88376
+New Look,http://www.koovs.com/new-look-spray-wash-tee-85420.html,624,http://images.koovscdn.com/uploads/products/85420_bff514316991faf27956c8e4e216036d_image1_zoom.jpg,New Look,85420
+New Look,http://www.koovs.com/new-look-patterson-seat-belt-webbing-84426.html,248,http://images.koovscdn.com/uploads/products/84426_54a4b2f13dd80f82887542d68418e75c_image1_zoom.jpg,New Look,84426
+MTV Roadies,http://www.koovs.com/printed-wayfarers-69309.html,699,http://images.koovscdn.com/uploads/products/69309_c2e51e77dd602c4dac1d8a48c9646e93_image1_zoom.jpg,MTV Roadies,69309
+MTV Roadies,http://www.koovs.com/mtv-roadies-classic-sunglasses-with-printed-frames-92838.html,699,http://images.koovscdn.com/uploads/products/92838_29243cfa51c683b79c0d9f7573caabdc_image1_zoom.jpg,MTV Roadies,92838
+MTV Roadies,http://www.koovs.com/wayfarers_300-69308.html,699,http://images.koovscdn.com/uploads/products/69308_66c8a232813ea0c69e56eb90c2eb3cc3_image1_zoom.jpg,MTV Roadies,69308
+MTV Roadies,http://www.koovs.com/mtv-roadies-classic-sunglasses-92837.html,699,http://images.koovscdn.com/uploads/products/92837_40f92fdbd3270642cd996603e72bfa9f_image1_zoom.jpg,MTV Roadies,92837
+MTV Roadies,http://www.koovs.com/mtv-roadies-round-sunglasses-92841.html,699,http://images.koovscdn.com/uploads/products/92841_2402c5a260e8d0119c257821ac6d05b7_image1_zoom.jpg,MTV Roadies,92841
+MTV Roadies,http://www.koovs.com/wayfarers_496-69305.html,699,http://images.koovscdn.com/uploads/products/69305_237fd4f9ca2ad41abe50097042b7e090_image1_zoom.jpg,MTV Roadies,69305
+MTV Roadies,http://www.koovs.com/printed-wayfarers_467-69310.html,699,http://images.koovscdn.com/uploads/products/69310_fc5e1813685db6b55963be659a798a61_image1_zoom.jpg,MTV Roadies,69310
+MTV Roadies,http://www.koovs.com/mtv-roadies-pilot-sunglasses-with-metal-arms-92836.html,599,http://images.koovscdn.com/uploads/products/92836_ab78dead207f293e62a13049f7e42f29_image1_zoom.jpg,MTV Roadies,92836
+MTV Roadies,http://www.koovs.com/mtv-roadies-classic-sunglasses-with-broad-rectangular-frames-92839.html,699,http://images.koovscdn.com/uploads/products/92839_74f41d634ec18ef4f104fec9192d696c_image1_zoom.jpg,MTV Roadies,92839
+New Era,http://www.koovs.com/9fifty-original-fit-denim-hero-snapback_205-74609.html,2895,http://images.koovscdn.com/uploads/products/74609_78f3db2a629a8f5d29b2954c40b6e9a8_image1_zoom.jpg,New Era,74609
+MTV Roadies,http://www.koovs.com/aviators_448-76166.html,599,http://images.koovscdn.com/uploads/products/76166_01cb5268143e70a7349bdab07c841244_image1_zoom.jpg,MTV Roadies,76166
+MTV Roadies,http://www.koovs.com/aviators_303-69300.html,599,http://images.koovscdn.com/uploads/products/69300_099a6b2f53e70414a6fe63d9dd3567c7_image1_zoom.jpg,MTV Roadies,69300
+MTV Roadies,http://www.koovs.com/clear-lens-aviators-69302.html,599,http://images.koovscdn.com/uploads/products/69302_64c581347cd4b9ce69afa2eb68885527_image1_zoom.jpg,MTV Roadies,69302
+New Era,http://www.koovs.com/new-era-flag-9forty_272-79401.html,1195,http://images.koovscdn.com/uploads/products/79401_4008949ca7447aaf59c6b9270839b8db_image1_zoom.jpg,New Era,79401
+New Era,http://www.koovs.com/9forty-heather-essential-cap-74615.html,1995,http://images.koovscdn.com/uploads/products/74615_34ea6a4a0e66c1b00f449be9945160a2_image1_zoom.jpg,New Era,74615
+New Era,http://www.koovs.com/new-era-league-essential-9forty-112-78915.html,1395,http://images.koovscdn.com/uploads/products/78915_e9a5b822b9e98c76c88996dc4d0defcd_image1_zoom.jpg,New Era,78915
+New Era,http://www.koovs.com/new-era-manchester-united-cap-74508.html,1695,http://images.koovscdn.com/uploads/products/74508_5cb914ce20f139f6bfc6668d536b7637_image1_zoom.jpg,New Era,74508
+New Era,http://www.koovs.com/new-era-neon-pop-cap_339-74503.html,1595,http://images.koovscdn.com/uploads/products/74503_9c9167875fa34a469c80ee0ad84a7bf1_image1_zoom.jpg,New Era,74503
+New Era,http://www.koovs.com/39thirty-emblem-stretch-cap-74612.html,2395,http://images.koovscdn.com/uploads/products/74612_da8a4acaed6cdb854603b9ad58178669_image1_zoom.jpg,New Era,74612
+New Era,http://www.koovs.com/9forty-heather-essential-cap_47-74616.html,1995,http://images.koovscdn.com/uploads/products/74616_d716e346df3d1bc0418c14a93d746337_image1_zoom.jpg,New Era,74616
+New Era,http://www.koovs.com/new-era-ny-yankees-flawless-9forty_486-79404.html,1295,http://images.koovscdn.com/uploads/products/79404_09c4d619195add62d4c38a0d6bcd62c3_image1_zoom.jpg,New Era,79404
+New Era,http://www.koovs.com/new-era-9forty-league-basic_461-78910.html,1395,http://images.koovscdn.com/uploads/products/78910_6bea474f21b726a3ca3545ce953dc53d_image1_zoom.jpg,New Era,78910
+New Era,http://www.koovs.com/new-era-neon-pop-cap-74501.html,1595,http://images.koovscdn.com/uploads/products/74501_e924fc80a93d3c85f1c29cb740f29b1d_image1_zoom.jpg,New Era,74501
+New Era,http://www.koovs.com/940-leag-basic-neyyan_474-72649.html,1195,http://images.koovscdn.com/uploads/products/72649_8afb50d076911d86a3448f63a549fbbb_image1_zoom.jpg,New Era,72649
+New Era,http://www.koovs.com/new-era-9forty-league-basic_366-78912.html,1395,http://images.koovscdn.com/uploads/products/78912_eaf972a9183cc2bc5c559bb5b1700007_image1_zoom.jpg,New Era,78912
+New Era,http://www.koovs.com/new-era-a-frame-trucker-78914.html,1895,http://images.koovscdn.com/uploads/products/78914_074fbb9ee08fb2f057663f115cd52e61_image1_zoom.jpg,New Era,78914
+New Era,http://www.koovs.com/new-era-9forty-league-basic_222-78913.html,1395,http://images.koovscdn.com/uploads/products/78913_a9d18bd4ef8a289e8c6cc1ef30d8f150_image1_zoom.jpg,New Era,78913
+Pataaka,http://www.koovs.com/printed-frame-round-sunglasses-81187.html,899,http://images.koovscdn.com/uploads/products/81187_9928c45992056994dcacef5ab2b25593_image1_zoom.jpg,Pataaka,81187
+Pataaka,http://www.koovs.com/pataaka-pilot-sungalsses_237-90263.html,1199,http://images.koovscdn.com/uploads/products/90263_fc9f3fd5779442e70fd25797cb8b2660_image1_zoom.jpg,Pataaka,90263
+Pataaka,http://www.koovs.com/chunky-round-sunglasses_498-81177.html,1499,http://images.koovscdn.com/uploads/products/81177_e6f78ecd2371d56b17a502da9efd82f5_image1_zoom.jpg,Pataaka,81177
+New Era,http://www.koovs.com/new-era-ny-yankees-flawless-9forty-79403.html,1295,http://images.koovscdn.com/uploads/products/79403_3844f54d58900004211126b86d2db8a5_image1_zoom.jpg,New Era,79403
+New Era,http://www.koovs.com/9forty-league-essential-cap-74613.html,1395,http://images.koovscdn.com/uploads/products/74613_b8b40aea8383a1f7d7e7cd9e053a9ef7_image1_zoom.jpg,New Era,74613
+Pataaka,http://www.koovs.com/pataaka-square-sunglasses_297-90259.html,1099,http://images.koovscdn.com/uploads/products/90259_89e363182989dd8edf336687cebda0b1_image1_zoom.jpg,Pataaka,90259
+Pataaka,http://www.koovs.com/wayfarers-with-slim-temples-81172.html,1399,http://images.koovscdn.com/uploads/products/81172_e00b0873e96bb2044c29fc555056a08a_image1_zoom.jpg,Pataaka,81172
+Pataaka,http://www.koovs.com/pataaka-pilot-sungalsses-90251.html,799,http://images.koovscdn.com/uploads/products/90251_d6a1d3924db2cbb57191ab5f96121828_image1_zoom.jpg,Pataaka,90251
+Pataaka,http://www.koovs.com/chunky-round-sunglasses_219-81175.html,1099,http://images.koovscdn.com/uploads/products/81175_76ef6b3c5b61cd1b5bcb541cb02a881e_image1_zoom.jpg,Pataaka,81175
+Nike,http://www.koovs.com/nike-elite-dri-fit-basketball-tank-89059.html,1995,http://images.koovscdn.com/uploads/products/89059_1eb5193248c872ebdaf24ae18453fb8c_image1_zoom.jpg,Nike,89059
+New Era,http://www.koovs.com/new-era-9forty-league-basic_487-78911.html,1395,http://images.koovscdn.com/uploads/products/78911_b51caf69d2d8d7c208833f6f2583012a_image1_zoom.jpg,New Era,78911
+MTV Roadies,http://www.koovs.com/mtv-roadies-classic-sunglasses-with-broad-rectangular-frames_133-92840.html,699,http://images.koovscdn.com/uploads/products/92840_31ff0474129d103425702d11cc4b3020_image1_zoom.jpg,MTV Roadies,92840
+New Look,http://www.koovs.com/new-look-basic-crew-neck-t-shirt_46-90311.html,595,http://images.koovscdn.com/uploads/products/90311_347588c6d8aef7bb708e950d3a14e1ba_image1_zoom.jpg,New Look,90311
+New Era,http://www.koovs.com/9forty-league-essential-cap-74613.html,1395,http://images.koovscdn.com/uploads/products/74613_645fc0199fb3772a7e44482767b504c5_image1_zoom.jpg,New Era,74613
+Adamo London,http://www.koovs.com/step-hem-t-shirt-85612.html,999,http://images.koovscdn.com/uploads/products/85612_6312956dfe35ca5ebcababf72cce9246_image1_zoom.jpg,Adamo London,85612
+Adamo London,http://www.koovs.com/knee-rip-slim-jeans-87244.html,1999,http://images.koovscdn.com/uploads/products/87244_8ea97e1e8de58a6f47aded2e40842f72_image1_zoom.jpg,Adamo London,87244
+Adamo London,http://www.koovs.com/cut--sew-colour-block-slogan-t-shirt-93252.html,899,http://images.koovscdn.com/uploads/products/93252_683a76a41e2dfbde551d321d71302d6a_image1_zoom.jpg,Adamo London,93252
+Adamo London,http://www.koovs.com/adamo-london-jeans_214-84643.html,1699,http://images.koovscdn.com/uploads/products/84643_99c49e66a6103753224c5a2933b3d95a_image1_zoom.jpg,Adamo London,84643
+Adamo London,http://www.koovs.com/space-dyed-slogan-t-shirt-with-sleeve-stripe-93267.html,999,http://images.koovscdn.com/uploads/products/93267_2d11e67801f15e498402d7c7ba67f5a4_image1_zoom.jpg,Adamo London,93267
+Adamo London,http://www.koovs.com/woven-yarndyed-check-t-shirt-87234.html,1599,http://images.koovscdn.com/uploads/products/87234_44a81b77f1aa36768e2041f6ccbf6233_image1_zoom.jpg,Adamo London,87234
+Pataaka,http://www.koovs.com/pataaka-pilot-sungalsses_31-90252.html,899,http://images.koovscdn.com/uploads/products/90252_b5a8b6f1cf2a7c5935104450911f6202_image1_zoom.jpg,Pataaka,90252
+Adamo London,http://www.koovs.com/back-print-vest-85618.html,699,http://images.koovscdn.com/uploads/products/85618_4fa54ac73171599471b4eda10ed78771_image1_zoom.jpg,Adamo London,85618
+Adamo London,http://www.koovs.com/adamo-london-shirt-84650.html,1125,http://images.koovscdn.com/uploads/products/84650_dc97715c42ec559e226e2c161a88257b_image1_zoom.jpg,Adamo London,84650
+Adamo London,http://www.koovs.com/knee-rip-denim-joggers_290-87239.html,1899,http://images.koovscdn.com/uploads/products/87239_306d8bd090086586a8bb409e2dfed579_image1_zoom.jpg,Adamo London,87239
+Adamo London,http://www.koovs.com/adamo-london-jeans-83825.html,1999,http://images.koovscdn.com/uploads/products/83825_929d920d6f254f2d0fddc4f88859b462_image1_zoom.jpg,Adamo London,83825
+Adamo London,http://www.koovs.com/distressed-slim-jeans-80261.html,1899,http://images.koovscdn.com/uploads/products/80261_575ef543968fcf8fdbe60b5858a7b3a4_image1_zoom.jpg,Adamo London,80261
+Adamo London,http://www.koovs.com/joggers-in-scuba-90368.html,2099,http://images.koovscdn.com/uploads/products/90368_7996b95069d37225c42acccd3a976f4c_image1_zoom.jpg,Adamo London,90368
+Adamo London,http://www.koovs.com/contrast-stripe-t-shirt-with-mesh-back-93261.html,899,http://images.koovscdn.com/uploads/products/93261_fa4882f80bd12ab5933c29b078540d5f_image1_zoom.jpg,Adamo London,93261
+Adamo London,http://www.koovs.com/cult-back-print-cut--sew-t-shirt-with-contrast-stripes-93260.html,1099,http://images.koovscdn.com/uploads/products/93260_c3c369144fe22f5624a91134ce34450f_image1_zoom.jpg,Adamo London,93260
+Adamo London,http://www.koovs.com/zip-front-shacket-88183.html,2199,http://images.koovscdn.com/uploads/products/88183_d43a0197cc44fb184c86b7662d6082eb_image1_zoom.jpg,Adamo London,88183
+Adamo London,http://www.koovs.com/military-shacket-88181.html,2099,http://images.koovscdn.com/uploads/products/88181_0e2c9f8ea45ceb401c22f98cb3e4962e_image1_zoom.jpg,Adamo London,88181
+Adamo London,http://www.koovs.com/denim-trucker-jacket-87263.html,2499,http://images.koovscdn.com/uploads/products/87263_3e1bdd0a572d05fc7db5007636d48041_image1_zoom.jpg,Adamo London,87263
+Adamo London,http://www.koovs.com/sleeveless-denim-jacket-with-patches_369-87262.html,2299,http://images.koovscdn.com/uploads/products/87262_7a0694cdb860fa4182e2044fa2f2e216_image1_zoom.jpg,Adamo London,87262
+Adamo London,http://www.koovs.com/distressed-racerback-vest-85617.html,385,http://images.koovscdn.com/uploads/products/85617_8d748ecf2c9ff864fe4adae26c43ed58_image1_zoom.jpg,Adamo London,85617
+Adamo London,http://www.koovs.com/longline-patchwork-shirt-88179.html,1599,http://images.koovscdn.com/uploads/products/88179_8f9b66ec1499b83c6c1fbccc18ec6571_image1_zoom.jpg,Adamo London,88179
+Adamo London,http://www.koovs.com/knee-panel-joggers_419-88270.html,2299,http://images.koovscdn.com/uploads/products/88270_0bb97099002e738571bf86dc26c09dab_image1_zoom.jpg,Adamo London,88270
+Adamo London,http://www.koovs.com/london-sleeveless-hoodie-85614.html,489,http://images.koovscdn.com/uploads/products/85614_821a9d6793a2627520af2361eb09ace3_image1_zoom.jpg,Adamo London,85614
+Adamo London,http://www.koovs.com/slogan-t-shirt-with-stripes-88261.html,899,http://images.koovscdn.com/uploads/products/88261_ec8e500c79dceb781cff7297eb426be0_image1_zoom.jpg,Adamo London,88261
+Adamo London,http://www.koovs.com/woven-joggers_347-88189.html,1899,http://images.koovscdn.com/uploads/products/88189_eee80996d4a86527b5f83f18a388acb5_image1_zoom.jpg,Adamo London,88189
+Adamo London,http://www.koovs.com/grindle-t-shirt-85619.html,799,http://images.koovscdn.com/uploads/products/85619_5f3f303d3495ddf5e226a1f273565fe5_image1_zoom.jpg,Adamo London,85619
+Adamo London,http://www.koovs.com/cut--sew-tank-88258.html,489,http://images.koovscdn.com/uploads/products/88258_657cf44b323c479735a5a32e4673fee3_image1_zoom.jpg,Adamo London,88258
+Adamo London,http://www.koovs.com/adamo-dark-wash-jeans_423-84326.html,2299,http://images.koovscdn.com/uploads/products/84326_0fa833dae046bdc9aa8f338aa78523e4_image1_zoom.jpg,Adamo London,84326
+Adamo London,http://www.koovs.com/grindle-t-shirt_66-85620.html,799,http://images.koovscdn.com/uploads/products/85620_74cc77fa8253930529f85a5acc2eecf0_image1_zoom.jpg,Adamo London,85620
+Adamo London,http://www.koovs.com/asymmetrical-hem-t-shirt_144-88263.html,899,http://images.koovscdn.com/uploads/products/88263_a867568e3a63fc56587b6338e14759e1_image1_zoom.jpg,Adamo London,88263
+Adamo London,http://www.koovs.com/denim-jacket-with-rips-88195.html,2499,http://images.koovscdn.com/uploads/products/88195_e42ea5e9fc83b1f8af97a355be841d49_image1_zoom.jpg,Adamo London,88195
+Adamo London,http://www.koovs.com/ripped-longline-t-shirt-85601.html,899,http://images.koovscdn.com/uploads/products/85601_d0b7b64c37ab4d2e8c62fc6832fde148_image1_zoom.jpg,Adamo London,85601
+Adamo London,http://www.koovs.com/graphic-vest-88257.html,559,http://images.koovscdn.com/uploads/products/88257_6e7f9c04e9ea29d23db54c8ccd75b776_image1_zoom.jpg,Adamo London,88257
+Adamo London,http://www.koovs.com/knee-panel-joggers_132-88269.html,2299,http://images.koovscdn.com/uploads/products/88269_15b388d7e0e9a57baeb8ec5049b0fb3d_image1_zoom.jpg,Adamo London,88269
+Adamo London,http://www.koovs.com/adamo-london-jeans_307-84642.html,1699,http://images.koovscdn.com/uploads/products/84642_309cfeedb54036339e86e5191c088679_image1_zoom.jpg,Adamo London,84642
+Adamo London,http://www.koovs.com/bold-racerback-tank-85615.html,489,http://images.koovscdn.com/uploads/products/85615_4d32fcab0a3d3476e6f4032b1431483b_image1_zoom.jpg,Adamo London,85615
+Sneak-a-Peek,http://www.koovs.com/sneak-a-peek-sunglasses-sp3-79777.html,450,http://images.koovscdn.com/uploads/products/79777_cb39a2e59ef61c87e6c902815808b797_image1_zoom.jpg,Sneak-a-Peek,79777
+South Beach,http://www.koovs.com/south-beach-rope-handle-bag-89497.html,999,http://images.koovscdn.com/uploads/products/89497_39bb521c4c2ae611a617d9c5a950546b_image1_zoom.jpg,South Beach,89497
+South Beach,http://www.koovs.com/south-beach-canvas-pineapple-print-bag-89499.html,1299,http://images.koovscdn.com/uploads/products/89499_b504c35f225ff95163027e7594020f1c_image1_zoom.jpg,South Beach,89499
+South Beach,http://www.koovs.com/south-beach-rope-handle-bag-89497.html,999,http://images.koovscdn.com/uploads/products/89497_61e800b87fdf5e807779a524ba935e41_image1_zoom.jpg,South Beach,89497
+Sneak-a-Peek,http://www.koovs.com/sneak-a-peek-sunglasses-snp-50_44-92228.html,999,http://images.koovscdn.com/uploads/products/92228_b59fa392e77353b7c88dcde45a7a7184_image1_zoom.jpg,Sneak-a-Peek,92228
+Sneak-a-Peek,http://www.koovs.com/sneak-a-peek-sunglasses-snp-44_45-92222.html,999,http://images.koovscdn.com/uploads/products/92222_36be14236da07e05139a05038948c39b_image1_zoom.jpg,Sneak-a-Peek,92222
+Only,http://www.koovs.com/only-cola-ultimate-ankle-jeans-91147.html,2495,http://images.koovscdn.com/uploads/products/91147_ba0067f2e7f37be6fcb8bf3a8da51acc_image1_zoom.jpg,Only,91147
+Sneak-a-Peek,http://www.koovs.com/sneak-a-peek-sunglasses-snp-48_240-92226.html,999,http://images.koovscdn.com/uploads/products/92226_87eeb3b38b6c7038871c8485ee616a79_image1_zoom.jpg,Sneak-a-Peek,92226
+Origami Lily,http://www.koovs.com/kirigami-sling-3841-85838.html,1299,http://images.koovscdn.com/uploads/products/85838_796773f5f493d468b2514f34484d11df_image1_zoom.jpg,Origami Lily,85838
+Sbuys,http://www.koovs.com/sbuys-stripe-dress-with-34-sleeves-88737.html,1099,http://images.koovscdn.com/uploads/products/88737_d95873704a780afa5741c6a7059db288_image1_zoom.jpg,Sbuys,88737
+Paris Belle,http://www.koovs.com/paris-belle-blushing-valentine-sling-92179.html,1199,http://images.koovscdn.com/uploads/products/92179_5281d2b7b35397ad6cc49bf3d3b3df25_image1_zoom.jpg,Paris Belle,92179
+Ridress,http://www.koovs.com/ridress-denim-emboridered-sleeve-bardot-top-with-choker-87060.html,974,http://images.koovscdn.com/uploads/products/87060_a5294749fff62b99553340d3eaf76f38_image1_zoom.jpg,Ridress,87060
+Sneak-a-Peek,http://www.koovs.com/sneak-a-peek-sunglasses-snp-47_18-92225.html,999,http://images.koovscdn.com/uploads/products/92225_16b41ea2b9c65ee84ab5c1b47ab5850c_image1_zoom.jpg,Sneak-a-Peek,92225
+Origami Lily,http://www.koovs.com/kirigami-sling-3841-85838.html,1299,http://images.koovscdn.com/uploads/products/85838_479f2821225d8669f436706c9fe53208_image1_zoom.jpg,Origami Lily,85838
+Oliv,http://www.koovs.com/oliv-choker-top-with-bell-sleeves_244-84494.html,874,http://images.koovscdn.com/uploads/products/84494_d07f47608cd2bdfcf94ae4a006fa29c8_image1_zoom.jpg,Oliv,84494
+Rena Love,http://www.koovs.com/rena-love-printed-front-tie-up-dress-89131.html,1499,http://images.koovscdn.com/uploads/products/89131_edb48c70baa12bbf7c94151c4bdaf952_image1_zoom.jpg,Rena Love,89131
+Oliv,http://www.koovs.com/oliv-one-shoulder-jumpsuit-91839.html,1799,http://images.koovscdn.com/uploads/products/91839_61584eeb07e763faf6dad8f590b3e238_image1_zoom.jpg,Oliv,91839
+Oliv,http://www.koovs.com/oliv-asymmetrical-lycra-top-80207.html,675,http://images.koovscdn.com/uploads/products/80207_c4b9bd74e9fa49c85b47a704dc3ac57e_image1_zoom.jpg,Oliv,80207
+Oliv,http://www.koovs.com/oliv-pleated-glittery-top-84488.html,815,http://images.koovscdn.com/uploads/products/84488_03efb4f4b58904d8457c3b5c3ce55fd9_image1_zoom.jpg,Oliv,84488
+Parisian,http://www.koovs.com/parisian-laser-cut-bardot-bodycon-dress-92118.html,1999,http://images.koovscdn.com/uploads/products/92118_3c1b51d19d0f5cb864a6a6220646b2da_image1_zoom.jpg,Parisian,92118
+Oliv,http://www.koovs.com/oliv-high-low-midi-dress-91840.html,1799,http://images.koovscdn.com/uploads/products/91840_608149643163ff26b71d35ae58d43a32_image1_zoom.jpg,Oliv,91840
+Parisian,http://www.koovs.com/parisian-flower-embellished-long-sleeve-contrast-mesh-dress-92114.html,2499,http://images.koovscdn.com/uploads/products/92114_c6b6acece02cc2ae5a5f7dc8138e6717_image1_zoom.jpg,Parisian,92114
+Parisian,http://www.koovs.com/parisian-contrast-print-turn-up-sleeve-t-shirt-dress_99-92125.html,1399,http://images.koovscdn.com/uploads/products/92125_d582a9a5fa1e95b3433cd899f113f44c_image1_zoom.jpg,Parisian,92125
+Parisian,http://www.koovs.com/parisian-west-coast-choker-neck-t-shirt-dress-92120.html,1299,http://images.koovscdn.com/uploads/products/92120_45a10f6f0d196e7717ca39ed40c2ecc4_image1_zoom.jpg,Parisian,92120
+Oliv,http://www.koovs.com/oliv-side-ruffle-dress-84491.html,1599,http://images.koovscdn.com/uploads/products/84491_3516b1f633162ffec4f835cc0e74de80_image1_zoom.jpg,Oliv,84491
+Parisian,http://www.koovs.com/parisian-border-print-bardot-dress-92127.html,1999,http://images.koovscdn.com/uploads/products/92127_1732ac66aba8c7e771253f04dbb558be_image1_zoom.jpg,Parisian,92127
+Parisian,http://www.koovs.com/parisian-laser-cut-printed-t-shirt-dress-92119.html,1599,http://images.koovscdn.com/uploads/products/92119_662e48970a777735905108c55b04e61c_image1_zoom.jpg,Parisian,92119
+Parisian,http://www.koovs.com/parisian-floral-embellished-mesh-strap-dress-92116.html,2499,http://images.koovscdn.com/uploads/products/92116_33d769f62d1499ccce433631d5afbdbd_image1_zoom.jpg,Parisian,92116
+Parisian,http://www.koovs.com/parisian-contrast-print-turn-up-sleeve-t-shirt-dress-92124.html,1399,http://images.koovscdn.com/uploads/products/92124_8f49f1ee01a7ad27096e421b38fab202_image1_zoom.jpg,Parisian,92124
+Parisian,http://www.koovs.com/parisian-printed-shoelace-detail-t-shirt-dress-92115.html,1599,http://images.koovscdn.com/uploads/products/92115_115a6b6025f7111eab5bdc912cc60a37_image1_zoom.jpg,Parisian,92115
+Oliv,http://www.koovs.com/oliv-bardot-with-frilled-sleeves-87122.html,700,http://images.koovscdn.com/uploads/products/87122_cf36183c4867edeaf7498eecc6b3d678_image1_zoom.jpg,Oliv,87122
+Parisian,http://www.koovs.com/parisian-from-ashes-print-eyelet-lace-up-neck-t-shirt-dress-92117.html,1599,http://images.koovscdn.com/uploads/products/92117_de7f001a3490527c58f1f4e32e49aad1_image1_zoom.jpg,Parisian,92117
+Oliv,http://www.koovs.com/oliv-printed-maxi-dress-91841.html,1899,http://images.koovscdn.com/uploads/products/91841_b4c3fe579f23afa0d142a7f0687257a9_image1_zoom.jpg,Oliv,91841
+Oliv,http://www.koovs.com/oliv-bardot-elbow-cut-out-lurex-top-87218.html,910,http://images.koovscdn.com/uploads/products/87218_24f0ba5b9c63eeb7662bf1373a9ea958_image1_zoom.jpg,Oliv,87218
+Oliv,http://www.koovs.com/oliv-ruffle-bardot-top-91838.html,1299,http://images.koovscdn.com/uploads/products/91838_b2c0c3a2a27eaa9629a38df351a2522f_image1_zoom.jpg,Oliv,91838
+Oliv,http://www.koovs.com/oliv-cold-shoulder-top-84493.html,1199,http://images.koovscdn.com/uploads/products/84493_c9e59e5835fc57f0bf126966d1281eef_image1_zoom.jpg,Oliv,84493
+Rena Love,http://www.koovs.com/rena-love-front-ruffle-top-89140.html,1099,http://images.koovscdn.com/uploads/products/89140_9570409500b860afa61ae12b55fe7753_image1_zoom.jpg,Rena Love,89140
+Rena Love,http://www.koovs.com/rena-love-printed-skater-dress-89132.html,1299,http://images.koovscdn.com/uploads/products/89132_ab82382057023ce78ad8287a008f7841_image1_zoom.jpg,Rena Love,89132
+Rena Love,http://www.koovs.com/rena-love-fronte-ruffle-turtle-neck-top-89126.html,1099,http://images.koovscdn.com/uploads/products/89126_079a089f3594ed9a03070d07ffb92994_image1_zoom.jpg,Rena Love,89126
+Rena Love,http://www.koovs.com/rena-love-embroidered-front-tie-up-balloon-slevees-top-89129.html,1399,http://images.koovscdn.com/uploads/products/89129_7fcc49848a62d45dcc3f2bc71f9db3d9_image1_zoom.jpg,Rena Love,89129
+Oliv,http://www.koovs.com/oliv-choker-top-with-bell-sleeves_215-84495.html,1250,http://images.koovscdn.com/uploads/products/84495_affca0632f82eba13b619f89cd579d45_image1_zoom.jpg,Oliv,84495
+Rena Love,http://www.koovs.com/rena-love-embroidered-side-slit-maxi-dress-89130.html,1799,http://images.koovscdn.com/uploads/products/89130_1e898549d975b5349b7b74cb01493bbb_image1_zoom.jpg,Rena Love,89130
+Rena Love,http://www.koovs.com/rena-love-front-ruffle-cold-shoulder-mesh-top-89135.html,1399,http://images.koovscdn.com/uploads/products/89135_f3fae94b02256e127ac1c26a1b9328df_image1_zoom.jpg,Rena Love,89135
+Rena Love,http://www.koovs.com/rena-love-printed-lace-swing-dress-89127.html,1499,http://images.koovscdn.com/uploads/products/89127_da17a63d852a021b397cfc52e60612c7_image1_zoom.jpg,Rena Love,89127
+Rena Love,http://www.koovs.com/rena-love-cold-shoulder-maxi-dress-with-lace-insert-89139.html,1599,http://images.koovscdn.com/uploads/products/89139_ad268b3d99829cb1b11a83bdc0b2c833_image1_zoom.jpg,Rena Love,89139
+Rena Love,http://www.koovs.com/rena-love-embroidered-sheer-top-89141.html,1299,http://images.koovscdn.com/uploads/products/89141_b69d9ce40c03ba56fd0abc9486e03b70_image1_zoom.jpg,Rena Love,89141
+Rena Love,http://www.koovs.com/rena-love-embroidered-ruffle-sheer-top-89142.html,1299,http://images.koovscdn.com/uploads/products/89142_7a580f57f2547cc0cc4a17799b2eb3bf_image1_zoom.jpg,Rena Love,89142
+Rena Love,http://www.koovs.com/rena-love-embroidered-ruffle-bardot-top_494-89137.html,1199,http://images.koovscdn.com/uploads/products/89137_531b642ae8ce77edf90cf82b3ffcdfac_image1_zoom.jpg,Rena Love,89137
+Rena Love,http://www.koovs.com/rena-love-lurex-stripe-bardot-top-89134.html,1199,http://images.koovscdn.com/uploads/products/89134_b3c2dcdfd3550c0763edc6ba4f7121d2_image1_zoom.jpg,Rena Love,89134
+Rena Love,http://www.koovs.com/rena-love-printed-maxi-dress-89128.html,1699,http://images.koovscdn.com/uploads/products/89128_baf9ffc17acd9368873d45ab762b765a_image1_zoom.jpg,Rena Love,89128
+Rena Love,http://www.koovs.com/rena-love-bardort-embroidered-top-89124.html,1499,http://images.koovscdn.com/uploads/products/89124_ad501c0370b0e3b42a29433eafeeaa70_image1_zoom.jpg,Rena Love,89124
+Rena Love,http://www.koovs.com/rena-love-bardot-top_28-89133.html,1099,http://images.koovscdn.com/uploads/products/89133_f6bef71472450f61305d8715625a1077_image1_zoom.jpg,Rena Love,89133
+Rena Love,http://www.koovs.com/rena-love-front-ruffle-printed-top-89125.html,1099,http://images.koovscdn.com/uploads/products/89125_bebc5bc561bcde7caa12b37042ca475e_image1_zoom.jpg,Rena Love,89125
+Rena Love,http://www.koovs.com/rena-love-cold-shoulder-shift-dress-84092.html,770,http://images.koovscdn.com/uploads/products/84092_c7f1170f8db5c66041453393a44f9a8a_image1_zoom.jpg,Rena Love,84092
+Rena Love,http://www.koovs.com/rena-love-embroidered-yoke-top-with-tassel-detail-84090.html,1149,http://images.koovscdn.com/uploads/products/84090_287d3ba3fbd3a940cdc27cba36f1297b_image1_zoom.jpg,Rena Love,84090
+Rena Love,http://www.koovs.com/rena-love-off-shoulder-printed-top_342-84093.html,800,http://images.koovscdn.com/uploads/products/84093_bc53e68f32de02d1d9dbcd93f97733a2_image1_zoom.jpg,Rena Love,84093
+Rena Love,http://www.koovs.com/rena-love-bardot-top-with-handkerchief-hem_33-84089.html,899,http://images.koovscdn.com/uploads/products/84089_cdf5d0ec0b0cee2db5db512e9452ba34_image1_zoom.jpg,Rena Love,84089
+Rena Love,http://www.koovs.com/rena-love-lace-insert-yoke-top-85250.html,960,http://images.koovscdn.com/uploads/products/85250_24487d0836264741085203670e069af4_image1_zoom.jpg,Rena Love,85250
+Rena Love,http://www.koovs.com/rena-love-embroidered-ruffle-bardot-top-89136.html,1199,http://images.koovscdn.com/uploads/products/89136_b4e288e1ef3eeaaefc3398bc57742504_image1_zoom.jpg,Rena Love,89136
+Rena Love,http://www.koovs.com/rena-love-lurex-bell-selvees-peplum-top-89123.html,1399,http://images.koovscdn.com/uploads/products/89123_59982b384aeca1ab5eadcb58ffce83db_image1_zoom.jpg,Rena Love,89123
+Rena Love,http://www.koovs.com/rena-love-printed-front-ruffle-jumpsuit-89138.html,1699,http://images.koovscdn.com/uploads/products/89138_55fe995ca14b247df20cc6cebdd9443b_image1_zoom.jpg,Rena Love,89138
+Rena Love,http://www.koovs.com/rena-love-lacey-shiffly-top-84085.html,1040,http://images.koovscdn.com/uploads/products/84085_cb441079592060c6719a303ff1663289_image1_zoom.jpg,Rena Love,84085
+Rena Love,http://www.koovs.com/rena-love-embroidered-top-with-lace-insert-sleeves-84087.html,999,http://images.koovscdn.com/uploads/products/84087_3c963606203552fc4619f0254c83a186_image1_zoom.jpg,Rena Love,84087
+Rena Love,http://www.koovs.com/rena-love-embroidered-top-with-frill-lace-84081.html,1000,http://images.koovscdn.com/uploads/products/84081_6cdd6235384fceb23fda5ec01b947357_image1_zoom.jpg,Rena Love,84081
+Rena Love,http://www.koovs.com/rena-love-printed-peplum-top-91379.html,1299,http://images.koovscdn.com/uploads/products/91379_a214c2a5dc69d864463186a80ae9bf0c_image1_zoom.jpg,Rena Love,91379
+Rena Love,http://www.koovs.com/rena-love-aztec-bardot-top_378-84095.html,629,http://images.koovscdn.com/uploads/products/84095_a8c133f27d631a363a64036097b0a192_image1_zoom.jpg,Rena Love,84095
+Pipa Bella,http://www.koovs.com/pipa-bella-feather-earring-85118.html,749,http://images.koovscdn.com/uploads/products/85118_6c1c8d542248a2dc12650c62182f3589_image1_zoom.jpg,Pipa Bella,85118
+Pipa Bella,http://www.koovs.com/pipa-bella-choker-necklace-pbxk149-82645.html,499,http://images.koovscdn.com/uploads/products/82645_dd65fd3a763e296aa4b618a4e410b4c3_image1_zoom.jpg,Pipa Bella,82645
+Pipa Bella,http://www.koovs.com/pipa-bella-slogan-choker-pbxk158-83217.html,399,http://images.koovscdn.com/uploads/products/83217_90f01a6654568287399126dc6e2c57cf_image1_zoom.jpg,Pipa Bella,83217
+Pipa Bella,http://www.koovs.com/pipa-bella-set-of-5-rings-85123.html,599,http://images.koovscdn.com/uploads/products/85123_9f9fa92e59ac9dee99bc983b94bbaae1_image1_zoom.jpg,Pipa Bella,85123
+Pipa Bella,http://www.koovs.com/pipa-bella-fauna-cluster-statement-earring-85120.html,549,http://images.koovscdn.com/uploads/products/85120_62a20399ae3541d605861911748a461b_image1_zoom.jpg,Pipa Bella,85120
+Rena Love,http://www.koovs.com/rena-love-multi-tassel-detail-top-84084.html,960,http://images.koovscdn.com/uploads/products/84084_0368291ed907d4f5bb873095219507e9_image1_zoom.jpg,Rena Love,84084
+Pipa Bella,http://www.koovs.com/pipa-bella-earring-pbxk142-81029.html,749,http://images.koovscdn.com/uploads/products/81029_377a6b0a1973af251dcf0aaad9afa54f_image1_zoom.jpg,Pipa Bella,81029
+Pipa Bella,http://www.koovs.com/pipa-bella-floral-ring-pbxk156-82652.html,499,http://images.koovscdn.com/uploads/products/82652_d11aff6622ceb1c5af364fd02412d85e_image1_zoom.jpg,Pipa Bella,82652
+Pipa Bella,http://www.koovs.com/pipa-bella-earring-pbxk141-81028.html,699,http://images.koovscdn.com/uploads/products/81028_b82b57e5c2583c240d6fca2c1ba866bd_image1_zoom.jpg,Pipa Bella,81028
+Pipa Bella,http://www.koovs.com/pipa-bella-mono--earring-pbxk145-82641.html,599,http://images.koovscdn.com/uploads/products/82641_ce3a5c19f0ae20dc0a61493c0ee0619a_image1_zoom.jpg,Pipa Bella,82641
+Pipa Bella,http://www.koovs.com/pipa-bella-larger-than-life-hoop-earring-85121.html,649,http://images.koovscdn.com/uploads/products/85121_c8543aedb497391fa932495b729ae21a_image1_zoom.jpg,Pipa Bella,85121
+Pipa Bella,http://www.koovs.com/pipa-bella-metallic-bead-choker-85112.html,699,http://images.koovscdn.com/uploads/products/85112_c7a970c920aad65b2e4e40a28b892c90_image1_zoom.jpg,Pipa Bella,85112
+Pipa Bella,http://www.koovs.com/pipa-bella-statement-lace-up-choker-83298.html,499,http://images.koovscdn.com/uploads/products/83298_8a4a57e469ab7d4f8b192499a60f2964_image1_zoom.jpg,Pipa Bella,83298
+Pipa Bella,http://www.koovs.com/pipa-bella-set-of-6-rings-85122.html,599,http://images.koovscdn.com/uploads/products/85122_a289c49b19f54d31ac4b2717d2b2b970_image1_zoom.jpg,Pipa Bella,85122
+Pipa Bella,http://www.koovs.com/pipa-bella-choker-necklace-pbxk151-82647.html,599,http://images.koovscdn.com/uploads/products/82647_1e3670c2134b1d1b5317ef68e5d14ecb_image1_zoom.jpg,Pipa Bella,82647
+Pipa Bella,http://www.koovs.com/pipa-bella-emeraldesque-choker-85117.html,799,http://images.koovscdn.com/uploads/products/85117_9e490550b45ae4387374efefd23a6d6c_image1_zoom.jpg,Pipa Bella,85117
+Pipa Bella,http://www.koovs.com/pipa-bella-mono--earring-pbxk146-82642.html,599,http://images.koovscdn.com/uploads/products/82642_3c4d2e473cd4a81cef875f47b6f3eca0_image1_zoom.jpg,Pipa Bella,82642
+Pipa Bella,http://www.koovs.com/pipa-bella-metal-tassel-choker-83300.html,649,http://images.koovscdn.com/uploads/products/83300_97464f561c3694a36f576a2c42018099_image1_zoom.jpg,Pipa Bella,83300
+Rena Love,http://www.koovs.com/rena-love-bardot-top-with-handkerchief-hem-84088.html,559,http://images.koovscdn.com/uploads/products/84088_4541cea8d93a9d7ee2c4e86ab9dc7ce9_image1_zoom.jpg,Rena Love,84088
+Pipa Bella,http://www.koovs.com/pipa-bella-open-fauna-collar-necklace-85116.html,999,http://images.koovscdn.com/uploads/products/85116_09dfca7a9bd7e8a8a0ce74079e9844ff_image1_zoom.jpg,Pipa Bella,85116
+Pipa Bella,http://www.koovs.com/pipa-bella-set-of-4-rings-85124.html,599,http://images.koovscdn.com/uploads/products/85124_b9fc674b617cfd06da27c9c453d358f4_image1_zoom.jpg,Pipa Bella,85124
+Pipa Bella,http://www.koovs.com/pipa-bella-choker-necklace-pbxk152-82648.html,499,http://images.koovscdn.com/uploads/products/82648_20714bb8e17abf2f2a5a91eaa5ca753f_image1_zoom.jpg,Pipa Bella,82648
+Pipa Bella,http://www.koovs.com/pipa-bella-choker-necklace-pbxk150-82646.html,699,http://images.koovscdn.com/uploads/products/82646_476250651137edcb170d3e4542ccfd3a_image1_zoom.jpg,Pipa Bella,82646
+Pipa Bella,http://www.koovs.com/pipa-bella-blade-earring-pbxk153-82649.html,599,http://images.koovscdn.com/uploads/products/82649_c002b806cc15b21d9c27624906b88b55_image1_zoom.jpg,Pipa Bella,82649
+Pipa Bella,http://www.koovs.com/pipa-bella-set-of-3-hoop-earring-pbxk128-76544.html,599,http://images.koovscdn.com/uploads/products/76544_ca34eb2e34d86a5b211659d3b129c625_image1_zoom.jpg,Pipa Bella,76544
+Pipa Bella,http://www.koovs.com/pipa-bella-bejewel-tie-up-choker-85114.html,699,http://images.koovscdn.com/uploads/products/85114_bfff432de787e6cce5deb411034d0a17_image1_zoom.jpg,Pipa Bella,85114
+Pipa Bella,http://www.koovs.com/pipa-bella-earrings-pbxk112-74884.html,419,http://images.koovscdn.com/uploads/products/74884_38fd1cddd51cb83fdf20d59944b6455a_image1_zoom.jpg,Pipa Bella,74884
+Pipa Bella,http://www.koovs.com/pipa-bella--earring-pbxk155-82651.html,499,http://images.koovscdn.com/uploads/products/82651_067c879b773cf2e7ec4c2134cb618057_image1_zoom.jpg,Pipa Bella,82651
+Pipa Bella,http://www.koovs.com/pipa-bella-iridescent-sequin-choker-85115.html,499,http://images.koovscdn.com/uploads/products/85115_cd3706180a2ec8641ac9d53662d819db_image1_zoom.jpg,Pipa Bella,85115
+Origami Lily,http://www.koovs.com/kirigami-traingular-backpack-615-85835.html,1399,http://images.koovscdn.com/uploads/products/85835_a01549ca677272664bdface8585e6864_image1_zoom.jpg,Origami Lily,85835
+Pipa Bella,http://www.koovs.com/pipa-bella-floral-choker-85113.html,549,http://images.koovscdn.com/uploads/products/85113_b8354af572e2da2c5ca7ba3313912d29_image1_zoom.jpg,Pipa Bella,85113
+Origami Lily,http://www.koovs.com/kirigami-sling-dt002-85840.html,1399,http://images.koovscdn.com/uploads/products/85840_6d73edbcd6ae9b9ad12664c9fe543b44_image1_zoom.jpg,Origami Lily,85840
+Origami Lily,http://www.koovs.com/kirigami-sling-dt002-85840.html,1399,http://images.koovscdn.com/uploads/products/85840_056e579c6d53ec474e7ccbbf11c4a9c1_image1_zoom.jpg,Origami Lily,85840
+Origami Lily,http://www.koovs.com/kirigami-sling-dt001-85839.html,1399,http://images.koovscdn.com/uploads/products/85839_235ca005b19d7f39edd1bb6c851680f0_image1_zoom.jpg,Origami Lily,85839
+Origami Lily,http://www.koovs.com/kirigami-aztec-strap-tote-1028-85834.html,1499,http://images.koovscdn.com/uploads/products/85834_a993b8b24cf60eafbb2bfa3c22a71e9e_image1_zoom.jpg,Origami Lily,85834
+Only,http://www.koovs.com/only-rilla-dungeree-91881.html,2299,http://images.koovscdn.com/uploads/products/91881_38bde89b18cee22a84998184786a61fc_image1_zoom.jpg,Only,91881
+Only,http://www.koovs.com/only-why-not-crop-tee-91884.html,1299,http://images.koovscdn.com/uploads/products/91884_7e6cff06ef46770aa181cc2ed8e2b743_image1_zoom.jpg,Only,91884
+Only,http://www.koovs.com/only-edgy-top-91875.html,1499,http://images.koovscdn.com/uploads/products/91875_8408d4e15cff7158f69c3fd8e57102e2_image1_zoom.jpg,Only,91875
+Only,http://www.koovs.com/only-heart-stripe-shirt-91149.html,1799,http://images.koovscdn.com/uploads/products/91149_5c4d00ceec953ba577a314e5ba5c22d8_image1_zoom.jpg,Only,91149
+Only,http://www.koovs.com/only-duh-garfy-ls-sweat-92638.html,2299,http://images.koovscdn.com/uploads/products/92638_cc9146d2344a021b2f2c29ec4de0c583_image1_zoom.jpg,Only,92638
+Only,http://www.koovs.com/only-bella-west-short-boxy-top-91152.html,1299,http://images.koovscdn.com/uploads/products/91152_fdebd22b4b5d29b8dcad380b081b5498_image1_zoom.jpg,Only,91152
+Only,http://www.koovs.com/only-kellie-things-top-91153.html,1299,http://images.koovscdn.com/uploads/products/91153_2a26e347f28851372aa7fd3516da4b4f_image1_zoom.jpg,Only,91153
+Only,http://www.koovs.com/only-paige-shirt-92619.html,1999,http://images.koovscdn.com/uploads/products/92619_f87fc6c18a2d91db7a141e4cc3df650a_image1_zoom.jpg,Only,92619
+Only,http://www.koovs.com/only-martha-dress-91883.html,2299,http://images.koovscdn.com/uploads/products/91883_f4ffbe5efefda610fc4830f7570fb3f2_image1_zoom.jpg,Only,91883
+Only,http://www.koovs.com/only-effortless-tee-91878.html,1299,http://images.koovscdn.com/uploads/products/91878_d96d09becb676c6538e61dfdc69cdb24_image1_zoom.jpg,Only,91878
+Only,http://www.koovs.com/only-butterfly-patch-tee-84077.html,840,http://images.koovscdn.com/uploads/products/84077_f45ce31acf8b89699cc9a3510449b370_image1_zoom.jpg,Only,84077
+Only,http://www.koovs.com/only-cotton-basic-cropped-tee-91151.html,699,http://images.koovscdn.com/uploads/products/91151_f61f4dbe0a952a4280962d2c89820879_image1_zoom.jpg,Only,91151
+Only,http://www.koovs.com/only-elina-top-91882.html,1999,http://images.koovscdn.com/uploads/products/91882_9a78ae286f6c655ebca1c71ec2972b6b_image1_zoom.jpg,Only,91882
+Only,http://www.koovs.com/only-melany-plisse-singlet-wvn-92077.html,1999,http://images.koovscdn.com/uploads/products/92077_ee313a8f541b90dd786f215aa399557c_image1_zoom.jpg,Only,92077
+Only,http://www.koovs.com/only-olivia-legging-88717.html,1999,http://images.koovscdn.com/uploads/products/88717_8dafd94c998e2d363c036593ac46beaa_image1_zoom.jpg,Only,88717
+Only,http://www.koovs.com/only-jdyace-leggings-indigo-92628.html,1995,http://images.koovscdn.com/uploads/products/92628_5feeaab7811b148a93c87746c9b342b6_image1_zoom.jpg,Only,92628
+Only,http://www.koovs.com/only-limbo-pants-92622.html,2799,http://images.koovscdn.com/uploads/products/92622_545a405d56cf780b3f4f91a51cbfc944_image1_zoom.jpg,Only,92622
+Only,http://www.koovs.com/only-malibu-denim-bomber-jacket-91145.html,2499,http://images.koovscdn.com/uploads/products/91145_bd772bd1e6991b8998752cefbb617fbd_image1_zoom.jpg,Only,91145
+Only,http://www.koovs.com/only-lucile-skirt-92255.html,1999,http://images.koovscdn.com/uploads/products/92255_d33871f25d31e156103262e0428e05c0_image1_zoom.jpg,Only,92255
+Only,http://www.koovs.com/only-skinny-low-jenna-ankle-jeans-88713.html,1999,http://images.koovscdn.com/uploads/products/88713_245c59dec245b8e1c897574ad66cf7c8_image1_zoom.jpg,Only,88713
+Only,http://www.koovs.com/only-melissa-faux-suede-silver-bomber-91879.html,4299,http://images.koovscdn.com/uploads/products/91879_1e35c2fe51eb74c2745bffec2a532009_image1_zoom.jpg,Only,91879
+Only,http://www.koovs.com/only-ashley-denim-jacket-92251.html,2299,http://images.koovscdn.com/uploads/products/92251_e1fbb5a59380efac578a588b3d3c9ff5_image1_zoom.jpg,Only,92251
+Only,http://www.koovs.com/only-value-diamond-pop-tee-91872.html,799,http://images.koovscdn.com/uploads/products/91872_faa82a105af9fa256545114c81e28cb6_image1_zoom.jpg,Only,91872
+Only,http://www.koovs.com/only-scoop-back-34-sleeves-stripe-tee-88714.html,799,http://images.koovscdn.com/uploads/products/88714_09d45e39918e40676df3c32475ddb22c_image1_zoom.jpg,Only,88714
+Only,http://www.koovs.com/only-anise-cropped-top-92624.html,1499,http://images.koovscdn.com/uploads/products/92624_86a24c4f5d1357d7de3b4b9c3356336a_image1_zoom.jpg,Only,92624
+Only,http://www.koovs.com/only-laban-print-top-91874.html,999,http://images.koovscdn.com/uploads/products/91874_4df33af0c9a19033567431de52e4dacc_image1_zoom.jpg,Only,91874
+Only,http://www.koovs.com/only-cool-pant-jrs-92082.html,1499,http://images.koovscdn.com/uploads/products/92082_ddfd7f4c68d8fc4212fb2d5452bb6487_image1_zoom.jpg,Only,92082
+Only,http://www.koovs.com/only-rikka-frill-ls-92079.html,1999,http://images.koovscdn.com/uploads/products/92079_dd696a05cabca1a0e8787e5294d323ea_image1_zoom.jpg,Only,92079
+Only,http://www.koovs.com/only-dakota-dancegirl-top-box-91880.html,999,http://images.koovscdn.com/uploads/products/91880_deebdf3722881a94c2bbf400cf597cee_image1_zoom.jpg,Only,91880
+Only,http://www.koovs.com/only-anise-cropped-top_242-92627.html,1699,http://images.koovscdn.com/uploads/products/92627_67570e68ac1dcda05021112614d95afa_image1_zoom.jpg,Only,92627
+Only,http://www.koovs.com/only-salty-pull-up-jeggings-91148.html,1799,http://images.koovscdn.com/uploads/products/91148_c0f92ffe743237d39d5d1f36661e94f8_image1_zoom.jpg,Only,91148
+Only,http://www.koovs.com/only-me-sweat-top-88718.html,1299,http://images.koovscdn.com/uploads/products/88718_abf31ee32a1a5fbdf21519f355b86576_image1_zoom.jpg,Only,88718
+Only,http://www.koovs.com/only-laban-polka-print-top-92257.html,999,http://images.koovscdn.com/uploads/products/92257_6f67d8b25c891b4618846fefd2608a63_image1_zoom.jpg,Only,92257
+Only,http://www.koovs.com/only-willa-print-slit-top-91867.html,999,http://images.koovscdn.com/uploads/products/91867_98b124963b43dab44d19bf77ebc809e9_image1_zoom.jpg,Only,91867
+Only,http://www.koovs.com/only-scoop-back-34-sleeves-solid-tee_260-88716.html,799,http://images.koovscdn.com/uploads/products/88716_20f5ebd08b760865ded10794e5b99251_image1_zoom.jpg,Only,88716
+Only,http://www.koovs.com/only-renee-weaved-scarf-91155.html,699,http://images.koovscdn.com/uploads/products/91155_68942df56ea657691998d99d6b545718_image1_zoom.jpg,Only,91155
+Only,http://www.koovs.com/only-tania-canheart-boxy-top-91154.html,1299,http://images.koovscdn.com/uploads/products/91154_4b56a696346e13c5a695c5cbcf262e89_image1_zoom.jpg,Only,91154
+Paris Belle,http://www.koovs.com/paris-belle-bow-saddle-sling_380-91844.html,1199,http://images.koovscdn.com/uploads/products/91844_3cdc59789d736daf15f4cedc9a42db2f_image1_zoom.jpg,Paris Belle,91844
+Only,http://www.koovs.com/only-tania-canheart-boxy-top-91154.html,1299,http://images.koovscdn.com/uploads/products/91154_a4c5a51be53a77fe2e8cffe7600744c9_image1_zoom.jpg,Only,91154
+Paris Belle,http://www.koovs.com/paris-belle-glam-valentine-sling-92180.html,1199,http://images.koovscdn.com/uploads/products/92180_ff7c14f280076d837f9ffdb5de748bf6_image1_zoom.jpg,Paris Belle,92180
+Paris Belle,http://www.koovs.com/paris-belle-metallic-shopper_168-92181.html,899,http://images.koovscdn.com/uploads/products/92181_e16562d396f10e21591247fc7efd9ad4_image1_zoom.jpg,Paris Belle,92181
+Paris Belle,http://www.koovs.com/paris-belle-floral-sling-4403-b-93317.html,1599,http://images.koovscdn.com/uploads/products/93317_7949c6f5f8d3305be01c4121f0457267_image1_zoom.jpg,Paris Belle,93317
+Only,http://www.koovs.com/only-disney-snow-white-cropped-top-83923.html,840,http://images.koovscdn.com/uploads/products/83923_10bf890622c1affacdc2bedf97edc93e_image1_zoom.jpg,Only,83923
+Paris Belle,http://www.koovs.com/paris-belle-floral-backpack-4413-a-93313.html,2099,http://images.koovscdn.com/uploads/products/93313_89d74de822e8bcbc42093f96842d2fa6_image1_zoom.jpg,Paris Belle,93313
+Paris Belle,http://www.koovs.com/paris-belle-metallic-shopper_98-92182.html,899,http://images.koovscdn.com/uploads/products/92182_e48af479ae327a1504a7442017550d44_image1_zoom.jpg,Paris Belle,92182
+Paris Belle,http://www.koovs.com/paris-belle-metallic-shopper_98-92182.html,799,http://images.koovscdn.com/uploads/products/92182_bc0625c4774cb99dab0f381efdd40f57_image1_zoom.jpg,Paris Belle,92182
+Paris Belle,http://www.koovs.com/paris-belle-floral-sling-4403-a-93316.html,1599,http://images.koovscdn.com/uploads/products/93316_de660fd4544a86a8a08e20e2d2cb25c8_image1_zoom.jpg,Paris Belle,93316
+Paris Belle,http://www.koovs.com/paris-belle-floral-sling-4403-c-93318.html,1599,http://images.koovscdn.com/uploads/products/93318_9258c6db378a1f38412f14a73e8c0557_image1_zoom.jpg,Paris Belle,93318
+Paris Belle,http://www.koovs.com/paris-belle-floral-backpack-4413-b-93314.html,2099,http://images.koovscdn.com/uploads/products/93314_937f0d7fefe3a1eeb9fd8a9ff1e3b1af_image1_zoom.jpg,Paris Belle,93314
+Paris Belle,http://www.koovs.com/paris-belle-holographic-sling-85913.html,1099,http://images.koovscdn.com/uploads/products/85913_6afb7122e6e0f6cd34d90bc0250927c5_image1_zoom.jpg,Paris Belle,85913
+Paris Belle,http://www.koovs.com/paris-belle-twist-detail-backpack_157-91847.html,2099,http://images.koovscdn.com/uploads/products/91847_5e9d3bac816d53262c5c8316f6ef6ab2_image1_zoom.jpg,Paris Belle,91847
+Paris Belle,http://www.koovs.com/paris-belle-floral-tote-4411-93321.html,1699,http://images.koovscdn.com/uploads/products/93321_48e97adac2df8cc1e9dbb05bd495da48_image1_zoom.jpg,Paris Belle,93321
+Paris Belle,http://www.koovs.com/paris-belle-ruffle-sling_421-91690.html,1499,http://images.koovscdn.com/uploads/products/91690_750794d9dbec57fbc0f8a09cbb43b9e8_image1_zoom.jpg,Paris Belle,91690
+Paris Belle,http://www.koovs.com/paris-belle-star-studded-travel-bag-85322.html,1999,http://images.koovscdn.com/uploads/products/85322_e2974c43fa3aa7fde208fa4b214ffa42_image1_zoom.jpg,Paris Belle,85322
+Paris Belle,http://www.koovs.com/paris-belle-daisy-sling-4420-93319.html,1099,http://images.koovscdn.com/uploads/products/93319_4487b5217cd87432e369f1689af01a02_image1_zoom.jpg,Paris Belle,93319
+Paris Belle,http://www.koovs.com/paris-belle-metallic-shopper-88330.html,749,http://images.koovscdn.com/uploads/products/88330_ded773871900e7794e02ab10a9248cf2_image1_zoom.jpg,Paris Belle,88330
+Paris Belle,http://www.koovs.com/paris-belle-twist-detail-backpack_149-91848.html,2099,http://images.koovscdn.com/uploads/products/91848_58ca46f3b4bbc26a2fbc7a086d939f5d_image1_zoom.jpg,Paris Belle,91848
+Paris Belle,http://www.koovs.com/paris-belle-travel-bag-85915.html,2199,http://images.koovscdn.com/uploads/products/85915_af041bfd17f7037c5173156ee0af1f6c_image1_zoom.jpg,Paris Belle,85915
+Paris Belle,http://www.koovs.com/paris-belle-metallic-shopper-88330.html,749,http://images.koovscdn.com/uploads/products/88330_e3ab9eee65e768815483c096c8085a27_image1_zoom.jpg,Paris Belle,88330
+Paris Belle,http://www.koovs.com/paris-belle-patent-bow-sling_350-91845.html,1099,http://images.koovscdn.com/uploads/products/91845_6b58cac9f8ba50dfa45670d375e724c6_image1_zoom.jpg,Paris Belle,91845
+Paris Belle,http://www.koovs.com/paris-belle-studded-bucket-sling-83558.html,1599,http://images.koovscdn.com/uploads/products/83558_c383a336f04bf25851ba10de8bc4f876_image1_zoom.jpg,Paris Belle,83558
+Paris Belle,http://www.koovs.com/paris-belle-bow-detail-backpack-91688.html,1999,http://images.koovscdn.com/uploads/products/91688_cc59d8ae71e1a63f884209f6c9d49ad9_image1_zoom.jpg,Paris Belle,91688
+Paris Belle,http://www.koovs.com/paris-belle-patent-bow-sling_486-91846.html,1099,http://images.koovscdn.com/uploads/products/91846_880b215d78e1d780f95eeaa910b1f2d2_image1_zoom.jpg,Paris Belle,91846
+Paris Belle,http://www.koovs.com/paris-belle-bow-saddle-sling_402-91843.html,1199,http://images.koovscdn.com/uploads/products/91843_ff51c91d64c651c213beba78320df7ce_image1_zoom.jpg,Paris Belle,91843
+Paris Belle,http://www.koovs.com/paris-belle-twist-detail-backpack-91684.html,2099,http://images.koovscdn.com/uploads/products/91684_52028404f6bcda14cd077e20d08ddb92_image1_zoom.jpg,Paris Belle,91684
+Paris Belle,http://www.koovs.com/paris-belle-travel-bag-4409-92346.html,2199,http://images.koovscdn.com/uploads/products/92346_bfc1cb34a3b98a5e4350d0aaaad2f319_image1_zoom.jpg,Paris Belle,92346
+Paris Belle,http://www.koovs.com/paris-belle-studded-tote-87881.html,1259,http://images.koovscdn.com/uploads/products/87881_5bb0d251fb8d52032e1de9ca337aaf4f_image1_zoom.jpg,Paris Belle,87881
+Paris Belle,http://www.koovs.com/paris-belle-studded-oversized-travel-bag_457-91489.html,2999,http://images.koovscdn.com/uploads/products/91489_c3c674cd5680bec79bb12c5a493a1885_image1_zoom.jpg,Paris Belle,91489
+Paris Belle,http://www.koovs.com/paris-belle-eyelet-tote-87880.html,1259,http://images.koovscdn.com/uploads/products/87880_9c9a196a66b8feba6888e3e195e84765_image1_zoom.jpg,Paris Belle,87880
+Paris Belle,http://www.koovs.com/paris-belle-bow-saddle-sling_102-91842.html,1199,http://images.koovscdn.com/uploads/products/91842_640255c1aaa315fcd56cc079e016b5f9_image1_zoom.jpg,Paris Belle,91842
+Paris Belle,http://www.koovs.com/paris-belle-metallic-shopper_205-92183.html,799,http://images.koovscdn.com/uploads/products/92183_900220428f3f85f40e80fb54d643a830_image1_zoom.jpg,Paris Belle,92183
+Paris Belle,http://www.koovs.com/paris-belle-ruffle-detail-travel-bag-4410-92347.html,2499,http://images.koovscdn.com/uploads/products/92347_64ad14393d1a8fc75addc66ab3b9464a_image1_zoom.jpg,Paris Belle,92347
+Paris Belle,http://www.koovs.com/paris-belle-ruffle-detail-travel-bag-4416-92348.html,2499,http://images.koovscdn.com/uploads/products/92348_2dd21a123736cf043bd8e2673de985de_image1_zoom.jpg,Paris Belle,92348
+Sbuys,http://www.koovs.com/sbuys-full-sleeve-body-con-dress-with-sleeves-88738.html,1299,http://images.koovscdn.com/uploads/products/88738_29056ce1d24ea6efbff06c741949537e_image1_zoom.jpg,Sbuys,88738
+Paris Belle,http://www.koovs.com/paris-belle-frill-detail-clutch-91685.html,1199,http://images.koovscdn.com/uploads/products/91685_8b6e1682d757543a2149fec77a40d81c_image1_zoom.jpg,Paris Belle,91685
+Sbuys,http://www.koovs.com/sbuys-pin-stripe-dress-92323.html,1399,http://images.koovscdn.com/uploads/products/92323_fb0dd8671bdd0192bd86e2d5e0ae33d5_image1_zoom.jpg,Sbuys,92323
+Sbuys,http://www.koovs.com/sbuys-embroidered-peasant-top-92319.html,1299,http://images.koovscdn.com/uploads/products/92319_04f4c1a0d282b27b48f6cd805f05ecfb_image1_zoom.jpg,Sbuys,92319
+Sbuys,http://www.koovs.com/sbuys-high-neck-bodycon-dress-in-midi-length-88739.html,1199,http://images.koovscdn.com/uploads/products/88739_b6a66b6e1807529e76c220d985508442_image1_zoom.jpg,Sbuys,88739
+Sbuys,http://www.koovs.com/sbuys-pink-stripe-top-92322.html,999,http://images.koovscdn.com/uploads/products/92322_73e63512c26666c57df1297f6f0f2fea_image1_zoom.jpg,Sbuys,92322
+Sbuys,http://www.koovs.com/sbuys-diamond-back-cut-out-embroidered-dress-92321.html,1499,http://images.koovscdn.com/uploads/products/92321_46959d516d3e52f5759a7b0e7ab50692_image1_zoom.jpg,Sbuys,92321
+Sbuys,http://www.koovs.com/sbuys-paisely-print-full-sleeve-top-92324.html,999,http://images.koovscdn.com/uploads/products/92324_a380dbfaebcafb2da465c079781f6a1f_image1_zoom.jpg,Sbuys,92324
+Sbuys,http://www.koovs.com/sbuys-lace-detail-selveeless-top-92314.html,1099,http://images.koovscdn.com/uploads/products/92314_8eb5bf19e8acfb4094299827a6a5376c_image1_zoom.jpg,Sbuys,92314
+Sbuys,http://www.koovs.com/sbuys-peasant-top-with-lace-detail-92317.html,1299,http://images.koovscdn.com/uploads/products/92317_a16128e06ddf58cf6d16b3f9e8a3fe96_image1_zoom.jpg,Sbuys,92317
+Sbuys,http://www.koovs.com/sbuys-jersey-eiffel-tower-aop-top-85903.html,650,http://images.koovscdn.com/uploads/products/85903_2d2ba0a1225e4bfb956dc656bd684006_image1_zoom.jpg,Sbuys,85903
+Sbuys,http://www.koovs.com/sbuys-asymmetrical-cold-shoulder-top-82947.html,629,http://images.koovscdn.com/uploads/products/82947_542d4170465b30d3c1425a653e1d9218_image1_zoom.jpg,Sbuys,82947
+Sbuys,http://www.koovs.com/sbuys-cold-shoulder-pinstripe-lace-detailed-top-92315.html,1199,http://images.koovscdn.com/uploads/products/92315_7c7c254ebf97dca6287362caf371f00c_image1_zoom.jpg,Sbuys,92315
+Sbuys,http://www.koovs.com/sbuys-printed-cold-shoulder-full-sleeve-top-85900.html,1299,http://images.koovscdn.com/uploads/products/85900_55ffca06dc5c5697099d9da7d7598934_image1_zoom.jpg,Sbuys,85900
+Sbuys,http://www.koovs.com/sbuys-grey-melange-jogger-88407.html,1199,http://images.koovscdn.com/uploads/products/88407_3661a6a2c5dcb600328235f51f7fa6d8_image1_zoom.jpg,Sbuys,88407
+Sbuys,http://www.koovs.com/sbuys-terry-joggers-with-rib-detail-85901.html,1120,http://images.koovscdn.com/uploads/products/85901_cec2d3ddbd55519a358f5a15c259800c_image1_zoom.jpg,Sbuys,85901
+Sbuys,http://www.koovs.com/sbuys-lace-bardot-dress-87318.html,1049,http://images.koovscdn.com/uploads/products/87318_6f3c0d7c9964627bc3599dccbec1ef5e_image1_zoom.jpg,Sbuys,87318
+Sbuys,http://www.koovs.com/sbuys-lurex-spotted-cold-shoulder-dress-88112.html,1399,http://images.koovscdn.com/uploads/products/88112_386f692fe6b3f428961d595673b0cc7c_image1_zoom.jpg,Sbuys,88112
+Sbuys,http://www.koovs.com/sbuys-black-embroidered-top-92318.html,1299,http://images.koovscdn.com/uploads/products/92318_9d3befde288338ffc1efbf6870894731_image1_zoom.jpg,Sbuys,92318
+Sbuys,http://www.koovs.com/sbuys-top-with-lace-detail-at-sleeves-88114.html,1099,http://images.koovscdn.com/uploads/products/88114_1f49df0b91f5e923bd5ec77e2d7d7fed_image1_zoom.jpg,Sbuys,88114
+Sbuys,http://www.koovs.com/sbuys-cold-shoulder-strappy-top-88115.html,769,http://images.koovscdn.com/uploads/products/88115_1a0500d2e3595aec9506bd055acfdb18_image1_zoom.jpg,Sbuys,88115
+Sbuys,http://www.koovs.com/sbuys-ottoman-ribbed-top-85905.html,960,http://images.koovscdn.com/uploads/products/85905_b9686e3acdb115a191b17b6761a055d3_image1_zoom.jpg,Sbuys,85905
+Sbuys,http://www.koovs.com/sbuys-ottoman-ribbed-top_44-85906.html,960,http://images.koovscdn.com/uploads/products/85906_1778a84851434a2e309b6bbf540e6044_image1_zoom.jpg,Sbuys,85906
+Sbuys,http://www.koovs.com/sbuys-lace-tie-up-top-88408.html,699,http://images.koovscdn.com/uploads/products/88408_7f60276799e42421af18a4e6a7901b10_image1_zoom.jpg,Sbuys,88408
+Ridress,http://www.koovs.com/ridress-scalloped-bardot-embroidered-top-90224.html,1295,http://images.koovscdn.com/uploads/products/90224_b280a8d8639aee47436f936ea0491a83_image1_zoom.jpg,Ridress,90224
+Ridress,http://www.koovs.com/ridress-one-shoulder--ruffle-top-90223.html,1395,http://images.koovscdn.com/uploads/products/90223_0847fcfe5ad3ef5891a9cccb7399f9dd_image1_zoom.jpg,Ridress,90223
+Sbuys,http://www.koovs.com/sbuys-cold-shoulder-full-sleeve-top-85899.html,960,http://images.koovscdn.com/uploads/products/85899_abfd0ddffd1b58465f4d3ea5201da531_image1_zoom.jpg,Sbuys,85899
+Ridress,http://www.koovs.com/ridress-striped-volume-sleeve-bardot-with-embroidered-chocker-86502.html,1044,http://images.koovscdn.com/uploads/products/86502_2716ad64bc2cf256f61f649971d67f1d_image1_zoom.jpg,Ridress,86502
+Ridress,http://www.koovs.com/ridress-peplum-ruffle-top-90226.html,1295,http://images.koovscdn.com/uploads/products/90226_b2cb534346002b0f6bce6eb060bdc8df_image1_zoom.jpg,Ridress,90226
+Ridress,http://www.koovs.com/ridress-waffle-textured-choker-dress-87061.html,1114,http://images.koovscdn.com/uploads/products/87061_ece622b505374608e3d1f2671b219227_image1_zoom.jpg,Ridress,87061
+Ridress,http://www.koovs.com/ridress-ruffle-top-with-one-shoulder-cut-90230.html,1495,http://images.koovscdn.com/uploads/products/90230_c9715f4254d8b71121380f5c86abe396_image1_zoom.jpg,Ridress,90230
+Ridress,http://www.koovs.com/ridress-boxy-pleated-front-button--midi-skirt-90225.html,1495,http://images.koovscdn.com/uploads/products/90225_4589b45af6b1c34f3270c74b1c09c495_image1_zoom.jpg,Ridress,90225
+Ridress,http://www.koovs.com/ridress-collar-bandeau-top-88108.html,1395,http://images.koovscdn.com/uploads/products/88108_da69fda9f6f6ecbc8256433568b191f9_image1_zoom.jpg,Ridress,88108
+Ridress,http://www.koovs.com/ridress-schifilli-bardot-top-77140.html,1395,http://images.koovscdn.com/uploads/products/77140_41ca02a3fe98851d038cde04dad12273_image1_zoom.jpg,Ridress,77140
+Ridress,http://www.koovs.com/ridress-cold-shoulder-rainbow-top-82656.html,995,http://images.koovscdn.com/uploads/products/82656_cfdd45f21708e9093b1422da83ff66f2_image1_zoom.jpg,Ridress,82656
+Ridress,http://www.koovs.com/ridress-schiflli-bardot-top_419-87065.html,974,http://images.koovscdn.com/uploads/products/87065_9927aa3e2541bdc77a83eca7b25962a3_image1_zoom.jpg,Ridress,87065
+Ridress,http://www.koovs.com/ridress-front-ruffle-cold-shoulder-top_471-90228.html,1095,http://images.koovscdn.com/uploads/products/90228_5c9129bd4c9e5aa30082f2885a10f228_image1_zoom.jpg,Ridress,90228
+Ridress,http://www.koovs.com/ridress-one-shoulder-ruffle-crop-top_335-90233.html,1395,http://images.koovscdn.com/uploads/products/90233_447d12cdd5616d0d0c22f05ec5f3c30d_image1_zoom.jpg,Ridress,90233
+Ridress,http://www.koovs.com/ridress-front-ruffle-cold-shoulder-top-90227.html,1095,http://images.koovscdn.com/uploads/products/90227_75872e73637729ea4cabe71a15302e78_image1_zoom.jpg,Ridress,90227
+Ridress,http://www.koovs.com/ridress-ruffle-cold-shoulder-body-suit-84483.html,1495,http://images.koovscdn.com/uploads/products/84483_cb674715787dd89077e7321e0a88fc2c_image1_zoom.jpg,Ridress,84483
+Ridress,http://www.koovs.com/ridress-ridress-ruffle-cold-shoulder-top-80841.html,1295,http://images.koovscdn.com/uploads/products/80841_9dcd7350fc2d5593fadda22266ea82ac_image1_zoom.jpg,Ridress,80841
+Ridress,http://www.koovs.com/ridress-ridress-ruffle-cold-shoulder-dress-84529.html,1495,http://images.koovscdn.com/uploads/products/84529_e76dec05fd469ba694df0270fc40162a_image1_zoom.jpg,Ridress,84529
+Ridress,http://www.koovs.com/ridress-neoprene-ruffle-bodycon-dress-90232.html,1995,http://images.koovscdn.com/uploads/products/90232_79372abc57b198da403bebd328889308_image1_zoom.jpg,Ridress,90232
+Ridress,http://www.koovs.com/ridress-high-neck-layered-sleeve-top-88107.html,1044,http://images.koovscdn.com/uploads/products/88107_a97cccf728cbff7eb99c4fd165749897_image1_zoom.jpg,Ridress,88107
+Ridress,http://www.koovs.com/ridress-pleated-mesh-insert-shirt-83088.html,1495,http://images.koovscdn.com/uploads/products/83088_27e9eb1441e1da77945dbe19d089d1a2_image1_zoom.jpg,Ridress,83088
+Ridress,http://www.koovs.com/ridress-checkered-bardot--top-with-choker-86499.html,1395,http://images.koovscdn.com/uploads/products/86499_4ccb2d35964472cde4977c2be4732b5e_image1_zoom.jpg,Ridress,86499
+Ridress,http://www.koovs.com/ridress-black-floral-print-bardot-top-83090.html,1195,http://images.koovscdn.com/uploads/products/83090_f59218e507850b28f974f31908528419_image1_zoom.jpg,Ridress,83090
+Ridress,http://www.koovs.com/ridress-button-up-bell-sleeve-top-84482.html,1295,http://images.koovscdn.com/uploads/products/84482_957006e183b9138c8240fede179518eb_image1_zoom.jpg,Ridress,84482
+Ridress,http://www.koovs.com/ridress-schiflli-bardot-top-80840.html,1395,http://images.koovscdn.com/uploads/products/80840_b8abcbd4d73432593bb206edd5291e8f_image1_zoom.jpg,Ridress,80840
+Ridress,http://www.koovs.com/ridress-one-shoulder-pleated-dress-84531.html,1595,http://images.koovscdn.com/uploads/products/84531_5861db12dc2ba4bdda49a1a10a26989a_image1_zoom.jpg,Ridress,84531
+Ridress,http://www.koovs.com/ridress-neoprene-cold-shoulder-ruffle-top-90229.html,1695,http://images.koovscdn.com/uploads/products/90229_8309ce40d76db2fdd20d1370c554e477_image1_zoom.jpg,Ridress,90229
+Ridress,http://www.koovs.com/ridress-choker-top-with-metal-chain-84486.html,974,http://images.koovscdn.com/uploads/products/84486_03668b7565dc50f55d52846623f36d4f_image1_zoom.jpg,Ridress,84486
+Ridress,http://www.koovs.com/ridress-one-shoulder-tie-detail-top-88104.html,1295,http://images.koovscdn.com/uploads/products/88104_2e38a777ce142898fa6ad64c977e2295_image1_zoom.jpg,Ridress,88104
+Ridress,http://www.koovs.com/ridress-ridress-ruffle-cold-shoulder-dress_128-84530.html,1495,http://images.koovscdn.com/uploads/products/84530_13fdc802550022b5c1620d2683e85a6f_image1_zoom.jpg,Ridress,84530
+Ridress,http://www.koovs.com/ridress-one-shoulder-ruffle-crop-top-90231.html,1395,http://images.koovscdn.com/uploads/products/90231_1752e7589c5ce7388a9039142478fbd9_image1_zoom.jpg,Ridress,90231
+Ridress,http://www.koovs.com/ridress-scuba-choker-top-86501.html,1115,http://images.koovscdn.com/uploads/products/86501_02464507f30727e0081798bea700cfcb_image1_zoom.jpg,Ridress,86501
+Pretty Secrets,http://www.koovs.com/pretty-secrets-brief-psw16pbkn07c-87447.html,399,http://images.koovscdn.com/uploads/products/87447_d74e97699e196a244c3d0b8043ba3d67_image1_zoom.jpg,Pretty Secrets,87447
+Pretty Secrets,http://www.koovs.com/pretty-secrets-brief-psw16pbkn06c-87448.html,399,http://images.koovscdn.com/uploads/products/87448_701830f6bb9bda52045d9c8e1992702c_image1_zoom.jpg,Pretty Secrets,87448
+Pretty Secrets,http://www.koovs.com/pretty-secrets-bra-psw16pnwpbr05b-87443.html,799,http://images.koovscdn.com/uploads/products/87443_32e7b76e8107268a5df3ed9e5c79d162_image1_zoom.jpg,Pretty Secrets,87443
+Pretty Secrets,http://www.koovs.com/pretty-secrets-bra-psw16cnwpbr02-e-87441.html,749,http://images.koovscdn.com/uploads/products/87441_3f23b9603b6a206d54096b9e7417ab6a_image1_zoom.jpg,Pretty Secrets,87441
+Pretty Secrets,http://www.koovs.com/pretty-secrets-brief-psw16pbkn06b-87446.html,399,http://images.koovscdn.com/uploads/products/87446_1217e929337f001a2a0bd9cff3214510_image1_zoom.jpg,Pretty Secrets,87446
+Pretty Secrets,http://www.koovs.com/pretty-secrets-bra-psw16pnwpbr05c-87444.html,799,http://images.koovscdn.com/uploads/products/87444_024026ad4e18abd78b9361eacfc1c8ef_image1_zoom.jpg,Pretty Secrets,87444
+Pretty Secrets,http://www.koovs.com/pretty-secrets-swimwear-psw16swm02b-87451.html,1499,http://images.koovscdn.com/uploads/products/87451_ae52a956a1a74aab2893939319486265_image1_zoom.jpg,Pretty Secrets,87451
+Pretty Secrets,http://www.koovs.com/pretty-secrets-bra-psw16cnwpbr02-b-87440.html,749,http://images.koovscdn.com/uploads/products/87440_4841777a886b16f2a11ca77077b7255d_image1_zoom.jpg,Pretty Secrets,87440
+Pretty Secrets,http://www.koovs.com/pretty-secrets-swimwear-psw16swm02a-87450.html,1499,http://images.koovscdn.com/uploads/products/87450_e969dcebda8e975aeafb101c776f5b59_image1_zoom.jpg,Pretty Secrets,87450
+Pretty Secrets,http://www.koovs.com/pretty-secrets-swimwear-psw16swm07a-87452.html,1499,http://images.koovscdn.com/uploads/products/87452_0aeada04c0587a487f780e76e0219480_image1_zoom.jpg,Pretty Secrets,87452
+Pretty Secrets,http://www.koovs.com/pretty-secrets-swimwear-psw16swm10b-87453.html,1499,http://images.koovscdn.com/uploads/products/87453_95bac8bedd391318217d80886141f7cd_image1_zoom.jpg,Pretty Secrets,87453
+Sole Story,http://www.koovs.com/celebriti-perforated-trainers-dl-b2-80945.html,1399,http://images.koovscdn.com/uploads/products/80945_7c3784f2cf682db3b485f8611d5f514d_image1_zoom.jpg,Sole Story,80945
+Pretty Secrets,http://www.koovs.com/pretty-secrets-bra-psw16cnwpbr02-a-87442.html,749,http://images.koovscdn.com/uploads/products/87442_82bb5e9a9ff2c78f59d3190c6b098d79_image1_zoom.jpg,Pretty Secrets,87442
+Sole Story,http://www.koovs.com/sole-story-elastic-strap-heeled-sandals-qxg-5b-80938.html,1119,http://images.koovscdn.com/uploads/products/80938_7c002ab786af030ea7d824af29a97c70_image1_zoom.jpg,Sole Story,80938
+Sole Story,http://www.koovs.com/sole-story-block-heeled-mules-sa-1b-80921.html,1399,http://images.koovscdn.com/uploads/products/80921_f8bca850b76543c4d062d8b1909ecc09_image1_zoom.jpg,Sole Story,80921
+Pretty Secrets,http://www.koovs.com/pretty-secrets-swimwear-psw16swm11a-87454.html,1299,http://images.koovscdn.com/uploads/products/87454_c1d1da86a6114aeddbcfe89490f89709_image1_zoom.jpg,Pretty Secrets,87454
+Sole Story,http://www.koovs.com/sole-story-knotted-mules-89046.html,1799,http://images.koovscdn.com/uploads/products/89046_33242bf0f93e7ddd7d86d8b18ba6560b_image1_zoom.jpg,Sole Story,89046
+Sole Story,http://www.koovs.com/sole-story-slip-on-trainers-with-counter-stud-detail-83612.html,1699,http://images.koovscdn.com/uploads/products/83612_481665615cd1d702c3395d16de1c0b46_image1_zoom.jpg,Sole Story,83612
+Sole Story,http://www.koovs.com/sole-story-canvas-trainers-with-contrast-counter-83619.html,1699,http://images.koovscdn.com/uploads/products/83619_fd551ee8b2bea3793fe776b984c6f0aa_image1_zoom.jpg,Sole Story,83619
+Sole Story,http://www.koovs.com/sole-story-trainers-with-metallic-accent_487-92947.html,1899,http://images.koovscdn.com/uploads/products/92947_6c82d07dd2f8df32c23aa98b391f0e11_image1_zoom.jpg,Sole Story,92947
+Sole Story,http://www.koovs.com/sole-story-sequin-detail-trainers-83617.html,1899,http://images.koovscdn.com/uploads/products/83617_a25893ea26511eb46827bc1f35cf385c_image1_zoom.jpg,Sole Story,83617
+Sole Story,http://www.koovs.com/sole-story-brogues-with-kiltie-fringe-83615.html,1799,http://images.koovscdn.com/uploads/products/83615_be01fcc8ccfdcb92d97be5dce7c366a0_image1_zoom.jpg,Sole Story,83615
+Sole Story,http://www.koovs.com/celebriti-aztec-detail-ankle-cuff-sandals-qxg-b4-80942.html,1899,http://images.koovscdn.com/uploads/products/80942_d16559b9cfaab13a4e47f14b8d5c4a93_image1_zoom.jpg,Sole Story,80942
+Sole Story,http://www.koovs.com/celebriti-metallic-t-bar-kitten-heeled-sandals-qxg-b5-80943.html,1599,http://images.koovscdn.com/uploads/products/80943_b32078b8a1f7aea0246bf65017a340e3_image1_zoom.jpg,Sole Story,80943
+Sole Story,http://www.koovs.com/sole-story-tie-up-heeled-sandals-with-pointed-toe-qxg-4b-80935.html,1699,http://images.koovscdn.com/uploads/products/80935_763c6095d28dc41b0b991d556fda3f34_image1_zoom.jpg,Sole Story,80935
+Sole Story,http://www.koovs.com/sole-story-all-over-glitter-lace-up-shoes-sa-2-80922.html,1299,http://images.koovscdn.com/uploads/products/80922_7ed8a643d659d7da46cc1b4a66f2bd25_image1_zoom.jpg,Sole Story,80922
+Sole Story,http://www.koovs.com/sole-story-d-ring-detail-trainers_344-88727.html,1899,http://images.koovscdn.com/uploads/products/88727_d89961b5db1cc6c99afc5c6c8ca4f22e_image1_zoom.jpg,Sole Story,88727
+Sole Story,http://www.koovs.com/sole-story-heeled-sandals-with-multiple-ankle-straps-and-tassel-detail-qxg-2c-80932.html,1599,http://images.koovscdn.com/uploads/products/80932_33334da9f36b852b4ab24dd9426204e5_image1_zoom.jpg,Sole Story,80932
+Sole Story,http://www.koovs.com/sole-story-cut-work-trainers-hm01-80904.html,1499,http://images.koovscdn.com/uploads/products/80904_56cf9d0285fd8d84b178d82dfb4b8784_image1_zoom.jpg,Sole Story,80904
+Sole Story,http://www.koovs.com/sole-story-knotted-mules_22-89047.html,1799,http://images.koovscdn.com/uploads/products/89047_f257226e3ca8cfab6577e5963ffe4a18_image1_zoom.jpg,Sole Story,89047
+Sole Story,http://www.koovs.com/sole-story-all-over-glitter-lace-up-shoes-sa-3-80923.html,1299,http://images.koovscdn.com/uploads/products/80923_cdd17af6e235b952bda0f6111a31e5c0_image1_zoom.jpg,Sole Story,80923
+Sole Story,http://www.koovs.com/sole-story-pointed-toe-holographic-flats-dl-2-80936.html,1299,http://images.koovscdn.com/uploads/products/80936_0eddbb618c9da4e2f9facbadb7b493c9_image1_zoom.jpg,Sole Story,80936
+Sole Story,http://www.koovs.com/celebriti-perforated-trainers-dl-b1-80944.html,1399,http://images.koovscdn.com/uploads/products/80944_8814e6d94766958df5a0414ea17b8289_image1_zoom.jpg,Sole Story,80944
+Pretty Secrets,http://www.koovs.com/pretty-secrets-bra-psw16puwpbr06c-87445.html,699,http://images.koovscdn.com/uploads/products/87445_85ac336d94bc79cb2ed758b5b1e41416_image1_zoom.jpg,Pretty Secrets,87445
+Sole Story,http://www.koovs.com/sole-story-concealed-lace-hi-top-trainers-83611.html,2199,http://images.koovscdn.com/uploads/products/83611_08b0f59d02a5a74264c4c64faf3a9169_image1_zoom.jpg,Sole Story,83611
+Sole Story,http://www.koovs.com/sole-story-d-ring-detail-trainers-84131.html,1899,http://images.koovscdn.com/uploads/products/84131_5c37dcdaf8e5cbe6add7aa0c437c5bba_image1_zoom.jpg,Sole Story,84131
+Sole Story,http://www.koovs.com/sole-story-textured-flat-shoes-dl-1-80924.html,899,http://images.koovscdn.com/uploads/products/80924_cb1d7c7d6e0d6338a4e2a7b03789dab9_image1_zoom.jpg,Sole Story,80924
+Sole Story,http://www.koovs.com/sole-story-mesh-detail-ponited-flats-sab1-83341.html,979,http://images.koovscdn.com/uploads/products/83341_e4171a5466df7f80137d4f084bc30b67_image1_zoom.jpg,Sole Story,83341
+Sole Story,http://www.koovs.com/celebriti-glitter-ribbon-lace-up-trainers-dl-b4-80947.html,1299,http://images.koovscdn.com/uploads/products/80947_02d0e198d142e17959807160030668f1_image1_zoom.jpg,Sole Story,80947
+Sole Story,http://www.koovs.com/sole-story-multi-metallic-counter-detail-trainers-83616.html,1799,http://images.koovscdn.com/uploads/products/83616_6d7ca4168b534d75fc7bced0694fd852_image1_zoom.jpg,Sole Story,83616
+Sole Story,http://www.koovs.com/sole-story-perforated-high-top-trainers_104-92949.html,2199,http://images.koovscdn.com/uploads/products/92949_95dd1da96c1c633c39617e06113ee578_image1_zoom.jpg,Sole Story,92949
+Sole Story,http://www.koovs.com/sole-story-block-heeled-sandals-with-back-tie-detail-qxg-1b-80929.html,1599,http://images.koovscdn.com/uploads/products/80929_17dd382d88ce22fcd215196641d3c894_image1_zoom.jpg,Sole Story,80929
+Sole Story,http://www.koovs.com/celebriti-glitter-ribbon-lace-up-trainers-dl-b3-80946.html,1299,http://images.koovscdn.com/uploads/products/80946_dc8c98042091bad218a29722bf404ebd_image1_zoom.jpg,Sole Story,80946
+Sole Story,http://www.koovs.com/sole-story-cross-strap-dual-texture-tie-up-sandals-with-tassels-qxg-b1-80939.html,1899,http://images.koovscdn.com/uploads/products/80939_ea7a898fc32895fe0506a92e3ed709a2_image1_zoom.jpg,Sole Story,80939
+Sole Story,http://www.koovs.com/sole-story-heeled-sandals-with-multiple-ankle-straps-and-tassel-detail-qxg-2a-80930.html,1599,http://images.koovscdn.com/uploads/products/80930_df5d9f7477df1bbafd433b84be233bba_image1_zoom.jpg,Sole Story,80930
+Sole Story,http://www.koovs.com/sole-story-side-lace-up-trainers-84130.html,1799,http://images.koovscdn.com/uploads/products/84130_be15c26d942cfd63f9e86e86e0c2b3eb_image1_zoom.jpg,Sole Story,84130
+Sole Story,http://www.koovs.com/sole-story-knot-detail-trainers_454-83614.html,1599,http://images.koovscdn.com/uploads/products/83614_cde13de18a9b35e3d438719680c08f1d_image1_zoom.jpg,Sole Story,83614
+Sole Story,http://www.koovs.com/sole-story-textured-flat-shoes-dl-1a-80925.html,899,http://images.koovscdn.com/uploads/products/80925_095680bf9592cd7046f56f9ac395fb91_image1_zoom.jpg,Sole Story,80925
+Sole Story,http://www.koovs.com/sole-story-brogue-detail-metallic-trainers-mj02-80914.html,1499,http://images.koovscdn.com/uploads/products/80914_5cab4207fedb2c09b019c4ffda5f1a04_image1_zoom.jpg,Sole Story,80914
+Sole Story,http://www.koovs.com/sole-story-front-tie-pointed-flats-sgzb1-83340.html,1399,http://images.koovscdn.com/uploads/products/83340_2bfc3b134bb8c674ab218327b0559154_image1_zoom.jpg,Sole Story,83340
+Sole Story,http://www.koovs.com/sole-story-basic-white-trainers-hm02-80908.html,1299,http://images.koovscdn.com/uploads/products/80908_8530885b5bb2a46f2f10750b7fbc48ea_image1_zoom.jpg,Sole Story,80908
+Sole Story,http://www.koovs.com/sole-story-knot-detail-trainers-83613.html,1599,http://images.koovscdn.com/uploads/products/83613_455c94ec1043ddee71f54aaf607bbe71_image1_zoom.jpg,Sole Story,83613
+Sole Story,http://www.koovs.com/sole-story-heeled-sandals-with-multiple-ankle-straps-and-tassel-detail-qxg-2b-80931.html,1599,http://images.koovscdn.com/uploads/products/80931_611c6c6a74a2434688c5435395fee062_image1_zoom.jpg,Sole Story,80931
+Sole Story,http://www.koovs.com/sole-story-elastic-strap-heeled-sandals-qxg-5a-80937.html,1599,http://images.koovscdn.com/uploads/products/80937_40515ea701df6f44d1ad0b6f168f641e_image1_zoom.jpg,Sole Story,80937
+Sneak-a-Peek,http://www.koovs.com/sneak-a-peek-sunglasses-snp-45_100-92223.html,999,http://images.koovscdn.com/uploads/products/92223_a6c9cbf46174f9f8f25f155ddc084673_image1_zoom.jpg,Sneak-a-Peek,92223
+Sneak-a-Peek,http://www.koovs.com/sneak-a-peek-sunglasses-snp-41_91-92219.html,999,http://images.koovscdn.com/uploads/products/92219_b6848b81d2ec32b8b0850710f045e919_image1_zoom.jpg,Sneak-a-Peek,92219
+Sneak-a-Peek,http://www.koovs.com/sneak-a-peek-sunglasses-snp-40_180-92218.html,999,http://images.koovscdn.com/uploads/products/92218_c8340a14cfdcef94585857d7e623b1a8_image1_zoom.jpg,Sneak-a-Peek,92218
+Sneak-a-Peek,http://www.koovs.com/sneak-a-peek-sunglasses-snp-43_443-92221.html,999,http://images.koovscdn.com/uploads/products/92221_64f8931c9e3ce72e6253382e94c6eb00_image1_zoom.jpg,Sneak-a-Peek,92221
+South Beach,http://www.koovs.com/south-beach-mandy---letter-print-crop-top-61872.html,1200,http://images.koovscdn.com/uploads/products/61872_4935633628c06ba8d5c8f75481690f4a_image1_zoom.jpg,South Beach,61872
+South Beach,http://www.koovs.com/south-beach-splash-print-hi-neck-mesh-insert-crop-top-with-mesh-back-92373.html,1199,http://images.koovscdn.com/uploads/products/92373_c001a0fc3f16b60e4d66664783a18156_image1_zoom.jpg,South Beach,92373
+Sneak-a-Peek,http://www.koovs.com/sneak-a-peek-sunglasses-snp-46_91-92224.html,999,http://images.koovscdn.com/uploads/products/92224_d99d66f1bd31591b847d20ee0bdd2f2a_image1_zoom.jpg,Sneak-a-Peek,92224
+South Beach,http://www.koovs.com/south-beach-leopard-print-hi-neck-mesh-insert-crop-top-with-mesh-back-92371.html,1099,http://images.koovscdn.com/uploads/products/92371_6614bd1c137707e83f3e6e05da0b51d7_image1_zoom.jpg,South Beach,92371
+South Beach,http://www.koovs.com/south-beach-printed-tote-bag-89498.html,1099,http://images.koovscdn.com/uploads/products/89498_1da0507d3d48c8f5ce7f727a11756fa6_image1_zoom.jpg,South Beach,89498
+South Beach,http://www.koovs.com/south-beach-mesh-hi-neck-bra-top-with-leaf-design-and-crossover-back-strap-detail-92386.html,1099,http://images.koovscdn.com/uploads/products/92386_176e2a72bc7427b20690e833cfba359d_image1_zoom.jpg,South Beach,92386
+South Beach,http://www.koovs.com/south-beach-leopard-print-capri-pant-wth-white-mesh-side-panels-92372.html,1399,http://images.koovscdn.com/uploads/products/92372_5d90efb2581a9fdb0e04896f53054507_image1_zoom.jpg,South Beach,92372
+Sneak-a-Peek,http://www.koovs.com/sneak-a-peek-sunglasses-snp-49_246-92227.html,999,http://images.koovscdn.com/uploads/products/92227_7c4ea3d0157a9f6b5bf3ea558617e816_image1_zoom.jpg,Sneak-a-Peek,92227
+South Beach,http://www.koovs.com/south-beach-skinny-strap-bralette-with-side-detail_375-92379.html,899,http://images.koovscdn.com/uploads/products/92379_95a9b0cf7f46572165c4c98b105d634d_image1_zoom.jpg,South Beach,92379
+South Beach,http://www.koovs.com/south-beach-skinny-strap-bralette-with-side-detail-92378.html,899,http://images.koovscdn.com/uploads/products/92378_850c8ab3cb66efeeba0a5c27752cd168_image1_zoom.jpg,South Beach,92378
+South Beach,http://www.koovs.com/south-beach-panel-detail-long-legging-solid-coralnavy-meshsplash-print-92375.html,1799,htt
